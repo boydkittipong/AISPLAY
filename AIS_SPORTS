@@ -1,0 +1,321 @@
+{
+"name": "AIS_SPORTS",
+"author": "ฺฺBoyd_Kittipong",
+"image": "https://sv1.picz.in.th/images/2021/11/26/6wfULl.md.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/TV",
+"stations": [
+
+
+{
+"name": "True Premier Football HD 1",
+"image": "https://we-play.live/uploads/posters/-poster1602703965.jpeg",
+"url": "https://we-play.live/watching/tv/true-premier-football-hd-1",
+"playInNatPlayer": "tot"
+},
+{
+"name": "True Premier Football HD 2",
+"image": "https://we-play.live/uploads/posters/-poster1602703981.jpeg",
+"url": "https://we-play.live/watching/tv/true-premier-football-hd-2",
+"playInNatPlayer": "tot"
+},
+{
+"name": "True Premier Football HD 3",
+"image": "https://we-play.live/uploads/posters/-poster1602703991.jpeg",
+"url": "https://we-play.live/watching/tv/true-premier-football-hd-3",
+"playInNatPlayer": "tot"
+},
+{
+"name": "True Premier Football HD 4",
+"image": "https://we-play.live/uploads/posters/-poster1602704002.jpeg",
+"url": "https://we-play.live/watching/tv/true-premier-football-hd-4",
+"playInNatPlayer": "tot"
+},
+{
+"name": "True Premier Football HD 5",
+"image": "https://we-play.live/uploads/posters/-poster1602704009.jpeg",
+"url": "https://we-play.live/watching/tv/true-premier-football-hd-5",
+"playInNatPlayer": "tot"
+},
+
+{
+"name": "Premier Football HD 1",
+"image": "https://www.img01.xyz/assets/img/ch_logo/doomovie-epl1.png",
+"url": "https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Premier Football HD 2",
+"image": "https://www.img01.xyz/assets/img/ch_logo/doomovie-epl2.png",
+"url": "https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Premier Football HD 3",
+"image": "https://www.img01.xyz/assets/img/ch_logo/doomovie-epl3.png",
+"url": "https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Premier Football HD 4",
+"image": "https://www.img01.xyz/assets/img/ch_logo/doomovie-epl4.png",
+"url": "https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Premier Football HD 5",
+"image": "https://www.img01.xyz/assets/img/ch_logo/doomovie-epl5.png",
+"url": "https://sport.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+
+
+
+{
+"name": "TRUE SPORT HD1",
+"image": "https://we-play.live/uploads/posters/-poster1602704118.jpeg",
+"url": "https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "TRUE SPORT HD2",
+"image": "https://we-play.live/uploads/posters/-poster1602704124.jpeg",
+"url": "https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "TRUE SPORT HD3",
+"image": "https://we-play.live/uploads/posters/-poster1602704141.jpeg",
+"url": "https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "TRUE SPORT HD4",
+"image": "https://sv1.picz.in.th/images/2021/07/29/2K9j82.png",
+"url": "https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "True Sport 2",
+"image": "https://we-play.live/uploads/posters/-poster1602704152.jpeg",
+"url": "https://www.we-play.live/watching/tv/true-sports-2",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 5",
+"image": "https://we-play.live/uploads/posters/-poster1602704158.jpeg",
+"url": "https://www.we-play.live/watching/tv/true-sports-5",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 6",
+"image": "https://we-play.live/uploads/posters/-poster1602704164.jpeg",
+"url": "https://www.we-play.live/watching/tv/true-sports-6",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 7",
+"image": "https://we-play.live/uploads/posters/-poster1602704170.jpeg",
+"url": "https://www.we-play.live/watching/tv/true-sports-7",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN SPORTS 1",
+"image": "https://we-play.live/uploads/posters/-poster1602703707.png",
+"url": "https://www.we-play.live/watching/tv/bein-sports-1",
+"playInNatPlayer": "tot"
+},
+{
+"name": "beIN SPORTS 2",
+"image": "https://we-play.live/uploads/posters/-poster1602703712.png",
+"url": "https://www.we-play.live/watching/tv/bein-sports-2",
+"playInNatPlayer": "tot"
+},
+{
+"name": "BEIN SPORT HD 1",
+"image": "https://www.img01.xyz/assets/img/ch_logo/epl-bein1.png",
+"url": "https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "BEIN SPORT HD 2",
+"image": "https://www.img01.xyz/assets/img/ch_logo/epl-bein2.png",
+"url": "https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "NBA HD",
+"image": "https://we-play.live/uploads/posters/-poster1602704203.jpeg",
+"url": "https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "TENNIS HD",
+"image": "https://we-play.live/uploads/posters/-poster1602704197.jpeg",
+"url": "https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "GOLF CHANNEL HD",
+"image": "https://we-play.live/uploads/posters/-poster1602704208.jpeg",
+"url": "https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "NFL Network",
+"image": "https://we-play.live/uploads/posters/-poster1602704214.jpeg",
+"url": "https://www.we-play.live/watching/tv/nfl-network",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Golf Channel Thailand HD2",
+"image": "https://we-play.live/uploads/posters/golf-channel-thailand-hd2-poster.jpg",
+"url": "https://www.we-play.live/watching/tv/golf-channel-thailand-hd2",
+"playInNatPlayer": "tot"
+},
+{
+"name": "FOX SPORT HD1",
+"image": "https://we-play.live/uploads/posters/-poster1602703682.jpeg",
+"url": "https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "FOX SPORT 2",
+"image": "https://we-play.live/uploads/posters/-poster1602703688.jpeg",
+"url": "https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "FOX SPORT 3",
+"image": "https://we-play.live/uploads/posters/-poster1602703695.jpeg",
+"url": "https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Sport TV 1",
+"image": "https://we-play.live/uploads/posters/sport-tv-1-poster1602801124.jpeg",
+"url": "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Sport TV 2",
+"image": "https://we-play.live/uploads/posters/sport-tv-2-poster1602801140.jpeg",
+"url": "https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Sport TV 3",
+"image": "https://we-play.live/uploads/posters/sport-tv-3-poster1602801156.jpeg",
+"url": "https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Sport TV 4",
+"image": "https://we-play.live/uploads/posters/sport-tv-4-poster1602801172.jpeg",
+"url": "https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Sport TV 5",
+"image": "https://sv1.picz.in.th/images/2021/07/29/2K9TjP.png",
+"url": "https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "BT SPORT HD1",
+"image": "https://we-play.live/uploads/posters/bt-sport-1-hd-poster1602800664.jpeg",
+"url": "https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "BT SPORT HD2",
+"image": "https://we-play.live/uploads/posters/bt-sport-2-hd-poster1602800682.jpeg",
+"url": "https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "BT Sport 3 HD",
+"image": "https://we-play.live/uploads/posters/bt-sport-3-hd-poster1602800702.jpeg",
+"url": "https://www.we-play.live/watching/tv/bt-sport-3-hd",
+"playInNatPlayer": "tot"
+},
+{
+"name": "LFC TV",  
+"image": "https://we-play.live/uploads/posters/lfc-tv-poster1602800995.jpeg",  
+"url": "https://www.we-play.live/watching/tv/lfc-tv",
+"playInNatPlayer": "true"
+},
+{
+"name": "MUTV",  
+"image": "https://we-play.live/uploads/posters/mutv-poster1602800965.jpeg",  
+"url": "https://www.we-play.live/watching/tv/mutv",
+"playInNatPlayer": "true"
+},
+{
+"name": "ChelseaTV",  
+"image": "https://www.img01.xyz/assets/img/ch_logo/uk-chelseatv.jpg",  
+"url": "https://www.livedoomovie.com/02_ChelseaTV_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Galatasaray TV",  
+"image": "https://i1.wp.com/www.sporkolik.net/wp-content/uploads/2018/05/gs-tv-artik-sifresiz.jpg?fit=900%2C451",  
+"url": "https://galatasaray.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "WWE Network",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/09/wwe-269x151.png",
+"url": "https://ustvgo.tv/wwe-network/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Olympic Channel",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2020/09/oly.jpg",
+"url": "https://ustvgo.tv/olympic-channel/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Arena Sport 1",
+"image": "https://we-play.live/uploads/posters/arena-sport-1-poster1602801264.jpeg",
+"url": "https://www.we-play.live/watching/tv/arena-sport-1",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Eurosport Asia",
+"image": "https://we-play.live/uploads/posters/eurosport-asia-poster1602801068.jpeg",
+"url": "https://www.we-play.live/watching/tv/eurosport-asia",
+"playInNatPlayer": "tot"
+},
+{
+"name": "ACC Network",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2021/06/accn.jpg",
+"url": "https://ustvgo.tv/acc-network/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "MLB Network",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/05/MLB.png",
+"url": "https://ustvgo.tv/mlb-network/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Fox Sports 2",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/fs2-269x151.png",
+"url": "https://ustvgo.tv/fox-sports-2/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ESPN2",
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/espn2-269x151.png",
+"url": "https://ustvgo.tv/espn2-live/",
+"playInNatPlayer": "true"
+},
+
+
+]
+}
