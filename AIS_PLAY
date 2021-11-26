@@ -1,0 +1,37 @@
+{
+"name": "ฺAIS_PLAY",
+"author": "Boyd Kittipong",
+"image": "https://lh3.googleusercontent.com/LEnaueEA8Tuc5E2eqJrCu0A3dCk1uUDvF4-KOKsChrDmOcy2uUNxmxkCmnsD3iy3w0x6",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/home",
+"groups": [
+ 
+ 
+ 
+{
+"name": "AIS_TV",
+"image": "https://sv1.picz.in.th/images/2020/12/18/jntX12.png",
+"url": "http://tiny.cc/truevisions",
+"import": false
+},
+{
+"name": "AIS_SPORTS",
+"image": "https://sv1.picz.in.th/images/2020/12/18/jntX12.png",
+"url": "http://tiny.cc/truevisions",
+"import": false
+},
+{
+"name": "AIS_MOVIE",
+"image": "https://sv1.picz.in.th/images/2020/12/18/jntX12.png",
+"url": "http://tiny.cc/truevisions",
+"import": false
+},
+{
+"name": "AIS_SERIES",
+"image": "https://sv1.picz.in.th/images/2020/12/18/jntX12.png",
+"url": "http://tiny.cc/truevisions",
+"import": false
+},
+ 
+ 
+]
+}
