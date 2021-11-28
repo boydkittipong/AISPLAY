@@ -13,9 +13,27 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "baygonhero1",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4514.png",
+"url": "https://www.fifa5t.com/doballlive/ch417/",
+"playInNatPlayer": "tot"
+},
+{
 "name": "baygonhero2",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4515.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/281102/baygonhero2",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/739965/baygonhero2",
+"playInNatPlayer": "tot"
+},
+{
+"name": "baygonhero2",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4515.png",
+"url": "https://www.fifa5t.com/doballlive/ch418/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "baygonhero3",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4516.png",
+"url": "https://www.fifa5t.com/doballlive/ch422/",
 "playInNatPlayer": "tot"
 },
 {
@@ -43,9 +61,21 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "baygonhero5",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4543.png",
+"url": "https://www.fifa5t.com/doballlive/ch424/",
+"playInNatPlayer": "tot"
+},
+{
 "name": "baygonhero6",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4544.png",
 "url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/281104/baygonhero6",
+"playInNatPlayer": "tot"
+},
+{
+"name": "baygonhero6",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4544.png",
+"url": "https://www.fifa5t.com/doballlive/ch425/",
 "playInNatPlayer": "tot"
 },
 {
@@ -55,9 +85,21 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "baygonhero7",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4545.png",
+"url": "https://www.fifa5t.com/doballlive/ch426/",
+"playInNatPlayer": "tot"
+},
+{
 "name": "baygonhero8",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4546.png",
 "url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/281108/baygonhero8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "baygonhero8",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4546.png",
+"url": "https://www.fifa5t.com/doballlive/ch427/",
 "playInNatPlayer": "tot"
 },
 {
@@ -153,19 +195,19 @@
 {
 "name": "TRUE SPORT HD1",
 "image": "https://we-play.live/uploads/posters/-poster1602704118.jpeg",
-"url": "https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8",
+"url": "https://we-play.live/watching/tv/true-sports-hd",
 "playInNatPlayer": "tot"
 },
 {
 "name": "TRUE SPORT HD2",
 "image": "https://we-play.live/uploads/posters/-poster1602704124.jpeg",
-"url": "https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8",
+"url": "https://we-play.live/watching/tv/true-sports-hd-2",
 "playInNatPlayer": "tot"
 },
 {
 "name": "TRUE SPORT HD3",
 "image": "https://we-play.live/uploads/posters/-poster1602704141.jpeg",
-"url": "https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8",
+"url": "https://we-play.live/watching/tv/true-sports-hd-3",
 "playInNatPlayer": "tot"
 },
 {
@@ -177,14 +219,14 @@
 {
 "name": "True Sport 2",
 "image": "https://we-play.live/uploads/posters/-poster1602704152.jpeg",
-"url": "https://www.we-play.live/watching/tv/true-sports-2",
+"url": "https://www.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "True Sport 5",
 "image": "https://we-play.live/uploads/posters/-poster1602704158.jpeg",
-"url": "https://www.we-play.live/watching/tv/true-sports-5",
+"url": "https://we-play.live/watching/tv/true-sports-5",
 "playInNatPlayer": "true"
 },
 {
