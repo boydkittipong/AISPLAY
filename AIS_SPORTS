@@ -54,66 +54,7 @@
 "url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/281108/baygonhero8",
 "playInNatPlayer": "tot"
 },
-{
-"name": "True Premier Football HD 1",
-"image": "https://we-play.live/uploads/posters/-poster1602703965.jpeg",
-"url": "https://we-play.live/watching/tv/true-premier-football-hd-1",
-"playInNatPlayer": "tot"
-},
-{
-"name": "True Premier Football HD 1",
-"image": "https://we-play.live/uploads/posters/-poster1602703965.jpeg",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/723266/epl1",
-"playInNatPlayer": "tot"
-},
-{
-"name": "True Premier Football HD 2",
-"image": "https://we-play.live/uploads/posters/-poster1602703981.jpeg",
-"url": "https://we-play.live/watching/tv/true-premier-football-hd-2",
-"playInNatPlayer": "tot"
-},
-{
-"name": "True Premier Football HD 2",
-"image": "https://we-play.live/uploads/posters/-poster1602703981.jpeg",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/723266/epl2",
-"playInNatPlayer": "tot"
-},
-{
-"name": "True Premier Football HD 3",
-"image": "https://we-play.live/uploads/posters/-poster1602703991.jpeg",
-"url": "https://we-play.live/watching/tv/true-premier-football-hd-3",
-"playInNatPlayer": "tot"
-},
-{
-"name": "True Premier Football HD 3",
-"image": "https://we-play.live/uploads/posters/-poster1602703991.jpeg",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/723261/epl3",
-"playInNatPlayer": "tot"
-}
-{
-"name": "True Premier Football HD 4",
-"image": "https://we-play.live/uploads/posters/-poster1602704002.jpeg",
-"url": "https://we-play.live/watching/tv/true-premier-football-hd-4",
-"playInNatPlayer": "tot"
-},
-{
-"name": "True Premier Football HD 4",
-"image": "https://we-play.live/uploads/posters/-poster1602704002.jpeg",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/723264/epl4",
-"playInNatPlayer": "tot"
-},
-{
-"name": "True Premier Football HD 5",
-"image": "https://we-play.live/uploads/posters/-poster1602704009.jpeg",
-"url": "https://we-play.live/watching/tv/true-premier-football-hd-5",
-"playInNatPlayer": "tot"
-},
-{
-"name": "True Premier Football HD 5",
-"image": "https://we-play.live/uploads/posters/-poster1602704009.jpeg",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/723262/epl5",
-"playInNatPlayer": "tot"
-},
+
 
 {
 "name": "Premier Football HD 1",
@@ -145,9 +86,6 @@
 "url": "https://sport.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8",
 "playInNatPlayer": "tot"
 },
-
-
-
 {
 "name": "TRUE SPORT HD1",
 "image": "https://we-play.live/uploads/posters/-poster1602704118.jpeg",
@@ -247,7 +185,24 @@
 "url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/736726/foxsport2nl",
 "playInNatPlayer": "tot"
 },
-
+{
+"name": "cmorelivehd",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--484.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/739355/cmorelivehd",
+"playInNatPlayer": "tot"
+},
+{
+"name": "ziggosportselect",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--285.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/723262/ziggosportselect",
+"playInNatPlayer": "tot"
+},
+{
+"name": "skysportpremiere",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--90.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/723262/skysportpremiere",
+"playInNatPlayer": "tot"
+},
 {
 "name": "astrosupersport1",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--253.png",
