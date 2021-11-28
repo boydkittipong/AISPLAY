@@ -31,6 +31,12 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "baygonhero4",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4542.png",
+"url": "https://www.liveballsod.com/tv-online/ch423/",
+"playInNatPlayer": "tot"
+},
+{
 "name": "baygonhero5",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4543.png",
 "url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/281103/baygonhero5",
