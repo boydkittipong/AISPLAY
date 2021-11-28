@@ -15,43 +15,43 @@
 {
 "name": "baygonhero2",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4515.png",
-"url": "https://www.doonung1234.com/match/view/18499/baygonhero2",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/281102/baygonhero2",
 "playInNatPlayer": "tot"
 },
 {
 "name": "baygonhero3",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4516.png",
-"url": "https://www.doonung1234.com/match/view/18499/baygonhero3",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/281105/baygonhero3",
 "playInNatPlayer": "tot"
 },
 {
 "name": "baygonhero4",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4542.png",
-"url": "https://www.doonung1234.com/match/view/18499/baygonhero4",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/281106/baygonhero4",
 "playInNatPlayer": "tot"
 },
 {
 "name": "baygonhero5",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4514.png",
-"url": "https://www.doonung1234.com/match/view/18499/baygonhero5",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4543.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/281103/baygonhero5",
 "playInNatPlayer": "tot"
 },
 {
 "name": "baygonhero6",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4515.png",
-"url": "https://www.doonung1234.com/match/view/18499/baygonhero6",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4544.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/281104/baygonhero6",
 "playInNatPlayer": "tot"
 },
 {
 "name": "baygonhero7",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4516.png",
-"url": "https://r3-sn-5fo-c37ed5.googleuservideo.com/doonung1234_e6/baygonhero7/chunks.m3u8",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4545.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/281107/baygonhero7",
 "playInNatPlayer": "tot"
 },
 {
 "name": "baygonhero8",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4542.png",
-"url": "https://www.doonung1234.com/match/view/18499/baygonhero8",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4546.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/281108/baygonhero8",
 "playInNatPlayer": "tot"
 },
 {
@@ -191,6 +191,30 @@
 "name": "BEIN SPORT HD 2",
 "image": "https://www.img01.xyz/assets/img/ch_logo/epl-bein2.png",
 "url": "https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "beinsports1tu",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--640.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/737239/beinsports1tu",
+"playInNatPlayer": "tot"
+},
+{
+"name": "beinsports2tu",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--641.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/737237/beinsports2tu",
+"playInNatPlayer": "tot"
+},
+{
+"name": "foxsport1nl",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--241.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/736724/foxsport1nl",
+"playInNatPlayer": "tot"
+},
+{
+"name": "foxsport1n2",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--242.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/736726/foxsport2nl",
 "playInNatPlayer": "tot"
 },
 {
