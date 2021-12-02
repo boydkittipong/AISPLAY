@@ -280,6 +280,18 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "beinsportsarabia1hd",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--752.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/784647/beinsportsarabia1hd",
+"playInNatPlayer": "tot"
+},
+{
+"name": "beinsportsarabia2hd",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--753.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/784648/beinsportsarabia2hd",
+"playInNatPlayer": "tot"
+},
+{
 "name": "foxsport1nl",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--241.png",
 "url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/736724/foxsport1nl",
@@ -295,6 +307,12 @@
 "name": "cmorelivehd",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--484.png",
 "url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/739355/cmorelivehd",
+"playInNatPlayer": "tot"
+},
+{
+"name": "espnbrazil",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1232.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/737126/espnbrazil",
 "playInNatPlayer": "tot"
 },
 {
@@ -454,6 +472,60 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "canal11pt",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1787.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/723602/canal11pt",
+"playInNatPlayer": "true"
+},
+{
+"name": "diemasport1",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1059.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/722630/diemasport1",
+"playInNatPlayer": "true"
+},
+{
+"name": "sportklub1slovenia",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--333.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/774794/sportklub1slovenia",
+"playInNatPlayer": "true"
+},
+{
+"name": "sportklub2slovenia",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--334.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/720649/sportklub2slovenia",
+"playInNatPlayer": "true"
+},
+{
+"name": "digisport1romania",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--880.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/737265/digisport1romania",
+"playInNatPlayer": "true"
+},
+{
+"name": "sportdigital",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/739386/sportdigital",
+"playInNatPlayer": "true"
+},
+{
+"name": "sport1plus",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--149.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/691411/sport1plus",
+"playInNatPlayer": "true"
+},
+{
+"name": "skysportfootball",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--91.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/691411/skysportfootball",
+"playInNatPlayer": "true"
+},
+{
+"name": "pfc",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1446.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/759808/pfc",
+"playInNatPlayer": "true"
+},
+{
 "name": "LFC TV",  
 "image": "https://we-play.live/uploads/posters/lfc-tv-poster1602800995.jpeg",  
 "url": "https://www.we-play.live/watching/tv/lfc-tv",
@@ -527,6 +599,8 @@
 "url": "https://ustvgo.tv/espn2-live/",
 "playInNatPlayer": "true"
 },
+
+
 
 
 ]
