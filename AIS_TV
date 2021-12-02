@@ -306,6 +306,48 @@
 "url": "https://we-play.live/watching/tv/tlc-hd",
 "playInNatPlayer": "tot"
 },
+{
+"name": "Aniplus",
+"image": "https://we-play.live/uploads/posters/aniplus-poster1602706016.jpeg",
+"url": "https://we-play.live/watching/tv/aniplus",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Cartoon Network",
+"image": "https://we-play.live/uploads/posters/cartoon-network-poster1602706122.jpeg",
+"url": "https://we-play.live/watching/tv/cartoon-network",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Nickelodeon",
+"image": "https://we-play.live/uploads/posters/nickelodeon-poster1602706197.jpeg",
+"url": "https://we-play.live/watching/tv/nickelodeon",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Dreamworks",
+"image": "https://we-play.live/uploads/posters/dreamworks-poster.jpg",
+"url": "https://we-play.live/watching/tv/dreamworks",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Nick Jr.",
+"image": "https://we-play.live/uploads/posters/nick-jr-poster.jpg",
+"url": "https://we-play.live/watching/tv/nick-jr",
+"playInNatPlayer": "tot"
+},
+{
+"name": "NHK World",
+"image": "https://we-play.live/uploads/posters/nhk-world-poster1602706359.jpeg",
+"url": "https://we-play.live/watching/tv/nhk-world",
+"playInNatPlayer": "tot"
+},
+{
+"name": "CNN",
+"image": "https://we-play.live/uploads/posters/cnn-poster1602706333.jpeg",
+"url": "https://we-play.live/watching/tv/cnn",
+"playInNatPlayer": "tot"
+},
 
 
 
