@@ -5,6 +5,14 @@
 "url": "https://raw.githubusercontent.com/boydkittipong/AISPLAY/main/AIS_SPORTS",
 "stations": [
 
+
+
+{
+"name": "tsports",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4511.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/51201/tsports",
+"playInNatPlayer": "tot"
+},
 {
 "name": "pptv",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1593.png",
@@ -468,6 +476,12 @@
 "name": "skysportfootball",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--91.png",
 "url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/691411/skysportfootball",
+"playInNatPlayer": "true"
+},
+{
+"name": "premiersports1",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--95.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/745328/premiersports1",
 "playInNatPlayer": "true"
 },
 {
