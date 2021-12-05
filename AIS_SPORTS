@@ -13,27 +13,9 @@
 "playInNatPlayer": "tot"
 },
 {
-"name": "baygonhero1",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4514.png",
-"url": "https://www.fifa5t.com/doballlive/ch417/",
-"playInNatPlayer": "tot"
-},
-{
 "name": "baygonhero2",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4515.png",
 "url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/739965/baygonhero2",
-"playInNatPlayer": "tot"
-},
-{
-"name": "baygonhero2",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4515.png",
-"url": "https://www.fifa5t.com/doballlive/ch418/",
-"playInNatPlayer": "tot"
-},
-{
-"name": "baygonhero3",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4516.png",
-"url": "https://www.fifa5t.com/doballlive/ch422/",
 "playInNatPlayer": "tot"
 },
 {
@@ -49,21 +31,9 @@
 "playInNatPlayer": "tot"
 },
 {
-"name": "baygonhero4",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4542.png",
-"url": "https://www.fifa5t.com/doballlive/ch423/",
-"playInNatPlayer": "tot"
-},
-{
 "name": "baygonhero5",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4543.png",
 "url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/281103/baygonhero5",
-"playInNatPlayer": "tot"
-},
-{
-"name": "baygonhero5",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4543.png",
-"url": "https://www.fifa5t.com/doballlive/ch424/",
 "playInNatPlayer": "tot"
 },
 {
@@ -73,33 +43,15 @@
 "playInNatPlayer": "tot"
 },
 {
-"name": "baygonhero6",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4544.png",
-"url": "https://www.fifa5t.com/doballlive/ch425/",
-"playInNatPlayer": "tot"
-},
-{
 "name": "baygonhero7",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4545.png",
 "url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/281107/baygonhero7",
 "playInNatPlayer": "tot"
 },
 {
-"name": "baygonhero7",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4545.png",
-"url": "https://www.fifa5t.com/doballlive/ch426/",
-"playInNatPlayer": "tot"
-},
-{
 "name": "baygonhero8",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4546.png",
 "url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/281108/baygonhero8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "baygonhero8",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4546.png",
-"url": "https://www.fifa5t.com/doballlive/ch427/",
 "playInNatPlayer": "tot"
 },
 {
