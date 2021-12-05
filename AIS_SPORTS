@@ -5,7 +5,12 @@
 "url": "https://raw.githubusercontent.com/boydkittipong/AISPLAY/main/AIS_SPORTS",
 "stations": [
 
-
+{
+"name": "pptv",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1593.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/744063/pptv",
+"playInNatPlayer": "tot"
+},
 {
 "name": "baygonhero1",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4514.png",
