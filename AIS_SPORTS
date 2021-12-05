@@ -491,6 +491,12 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "tv3max",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1219.png",
+"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/744063/tv3max",
+"playInNatPlayer": "true"
+},
+{
 "name": "LFC TV",  
 "image": "https://we-play.live/uploads/posters/lfc-tv-poster1602800995.jpeg",  
 "url": "https://www.we-play.live/watching/tv/lfc-tv",
