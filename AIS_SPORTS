@@ -564,6 +564,12 @@
 "url": "https://ustvgo.tv/espn2-live/",
 "playInNatPlayer": "true"
 },
+{
+"name": "World Poker Tour",
+"image": "https://sv1.picz.in.th/images/2020/12/01/jhHavN.png",
+"url": "https://d3w4n3hhseniak.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/aa6ded0c-ffd4-41a8-a9c6-2293ad48bd53/2.m3u8",
+"playInNatPlayer": "tot"
+},
 
 
 
