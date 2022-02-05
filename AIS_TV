@@ -13,9 +13,21 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "CH3 HD",
+"image": "https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg",
+"url": "https://ufa77.tv/channel?ch=3hd",
+"playInNatPlayer": "tot"
+},
+{
 "name": "CH7 HD",
 "image": "https://we-play.live/uploads/posters/ch7-hd-poster1602704980.jpeg",
 "url": "https://www.we-play.live/watching/tv/ch7-hd",
+"playInNatPlayer": "tot"
+},
+{
+"name": "CH7 HD",
+"image": "https://we-play.live/uploads/posters/ch7-hd-poster1602704980.jpeg",
+"url": "https://ufa77.tv/channel?ch=7hd",
 "playInNatPlayer": "tot"
 },
 {
@@ -43,6 +55,12 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "Amarin TV",
+"image": "https://we-play.live/uploads/posters/amarin-tv-poster1602705120.jpeg",
+"url": "https://ufa77.tv/channel?ch=amarin",
+"playInNatPlayer": "tot"
+},
+{
 "name": "GMM25",
 "image": "https://we-play.live/uploads/posters/gmm25-poster1602705192.jpeg",
 "url": "https://www.we-play.live/watching/tv/gmm25",
@@ -55,9 +73,21 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "CH5 HD",
+"image": "https://we-play.live/uploads/posters/ch5-hd-poster1602705162.jpeg",
+"url": "https://ufa77.tv/channel?ch=5hd",
+"playInNatPlayer": "tot"
+},
+{
 "name": "MONO29",
 "image": "https://we-play.live/uploads/posters/mono29-poster1602705220.jpeg",
 "url": "https://www.we-play.live/watching/tv/mono29",
+"playInNatPlayer": "tot"
+},
+{
+"name": "MONO29",
+"image": "https://we-play.live/uploads/posters/mono29-poster1602705220.jpeg",
+"url": "https://ufa77.tv/channel?ch=mono29",
 "playInNatPlayer": "tot"
 },
 {
@@ -106,6 +136,12 @@
 "name": "CH8",
 "image": "https://we-play.live/uploads/posters/ch8-poster.jpg",
 "url": "https://we-play.live/watching/tv/ch8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "CH8",
+"image": "https://we-play.live/uploads/posters/ch8-poster.jpg",
+"url": "https://ufa77.tv/channel?ch=ch8",
 "playInNatPlayer": "tot"
 },
 {
