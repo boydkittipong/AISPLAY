@@ -151,15 +151,9 @@
 "playInNatPlayer": "tot"
 },
 {
-"name": "true4U",
-"image": "https://we-play.live/uploads/posters/true4u-poster1602705363.jpeg",
-"url": "https://www.wopep.com/02_TRUE4U_480p/chunklist.m3u8",
-"playInNatPlayer": "tot"
-},
-{
 "name": "Workpoint",
 "image": "https://we-play.live/uploads/posters/workpoint-poster1602705391.jpeg",
-"url": "https://www.wopep.com/02_WORKPOINT_720p/chunklist.m3u8",
+"url": "https://we-play.live/watching/tv/workpoint",
 "playInNatPlayer": "tot"
 },
 {
