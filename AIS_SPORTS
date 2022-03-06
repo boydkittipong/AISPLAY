@@ -470,34 +470,29 @@
 },
 {
 "name": "ACC Network",
-"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2021/06/accn.jpg",
+"image": "https://ustvgo.tv/wp-content/uploads/2021/06/accn.jpg",
 "url": "https://ustvgo.tv/acc-network/",
 "playInNatPlayer": "tot"
 },
 {
 "name": "MLB Network",
-"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/05/MLB.png",
+"image": "https://ustvgo.tv/wp-content/uploads/2019/05/MLB.png",
 "url": "https://ustvgo.tv/mlb-network/",
 "playInNatPlayer": "tot"
 },
 {
 "name": "Fox Sports 2",
-"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/fs2-269x151.png",
+"image": "https://ustvgo.tv/wp-content/uploads/2019/01/fs2-269x151.png",
 "url": "https://ustvgo.tv/fox-sports-2/",
 "playInNatPlayer": "true"
 },
 {
 "name": "ESPN2",
-"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/08/espn2-269x151.png",
+"image": "https://ustvgo.tv/wp-content/uploads/2019/08/espn2-269x151.png",
 "url": "https://ustvgo.tv/espn2-live/",
 "playInNatPlayer": "true"
 },
-{
-"name": "World Poker Tour",
-"image": "https://sv1.picz.in.th/images/2020/12/01/jhHavN.png",
-"url": "https://d3w4n3hhseniak.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/aa6ded0c-ffd4-41a8-a9c6-2293ad48bd53/2.m3u8",
-"playInNatPlayer": "tot"
-},
+
 
 
 
