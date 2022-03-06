@@ -25,12 +25,6 @@
 "playInNatPlayer": "tot"
 },
 {
-"name": "CH7 HD",
-"image": "https://we-play.live/uploads/posters/ch7-hd-poster1602704980.jpeg",
-"url": "https://www.wopep.com/02_7HD_720p/chunklist.m3u8",
-"playInNatPlayer": "tot"
-},
-{
 "name": "MCOT HD",
 "image": "https://we-play.live/uploads/posters/mcot-hd-poster1602705016.jpeg",
 "url": "https://www.we-play.live/watching/tv/mcot-hd",
@@ -154,12 +148,6 @@
 "name": "Workpoint",
 "image": "https://we-play.live/uploads/posters/workpoint-poster1602705391.jpeg",
 "url": "https://we-play.live/watching/tv/workpoint",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Workpoint",
-"image": "https://we-play.live/uploads/posters/workpoint-poster1602705391.jpeg",
-"url": "https://www.moviemocha.com/?r=tv_view&id=15",
 "playInNatPlayer": "tot"
 },
 {
@@ -433,6 +421,30 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "Cinemax",
+"image": "https://ustvgo.tv/wp-content/uploads/2020/04/cinemax.jpg,
+"url": "https://ustvgo.tv/cinemax/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "MTV",
+"image": "https://ustvgo.tv/wp-content/uploads/2019/08/mtv.jpg",
+"url": "https://ustvgo.tv/mtv/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "The CW",
+"image": "https://seeklogo.com/images/T/The_CW-logo-41446F49E7-seeklogo.com.png",
+"url": "https://ustvgo.tv/the-cw-live-streaming-free/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "FXM",
+"image": "https://ustvgo.tv/wp-content/uploads/2019/08/FXM.png",
+"url": "https://ustvgo.tv/fxm/",
+"playInNatPlayer": "tot"
+},
+{
 "name": "NHK World",
 "image": "https://we-play.live/uploads/posters/nhk-world-poster1602706359.jpeg",
 "url": "https://we-play.live/watching/tv/nhk-world",
@@ -444,6 +456,13 @@
 "url": "https://we-play.live/watching/tv/cnn",
 "playInNatPlayer": "tot"
 },
+{
+"name": "Fox News",
+"image": "https://ustvgo.tv/wp-content/uploads/2018/10/foxnews.jpg",
+"url": "https://ustvgo.tv/fox-news-live-streaming-free/",
+"playInNatPlayer": "tot"
+},
+
 
 
 ]
