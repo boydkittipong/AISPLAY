@@ -199,6 +199,12 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "NEWS1",
+"image": "https://www.img02.xyz/assets/img/ch_logo/NEWS1.png",
+"url": "https://news1live.com/",
+"playInNatPlayer": "tot"
+},
+{
 "name": "Channel 8",
 "image": "https://sv1.picz.in.th/images/2020/12/01/jhrvoE.png",
 "url": "https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8",
