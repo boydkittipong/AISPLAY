@@ -153,7 +153,7 @@
 {
 "name": "Workpoint",
 "image": "https://we-play.live/uploads/posters/workpoint-poster1602705391.jpeg",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=15",
+"url": "https://www.livedoomovies.com:4431/02_WORKPOINT_720p/chunklist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -219,7 +219,7 @@
 {
 "name": "T Sports Channel",
 "image": "https://www.img02.xyz/assets/img/ch_logo/TSportsChannel.png",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=189",
+"url": "https://www.livedoomovies.com:4431/02_T_Sports_480p/chunklist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -452,7 +452,7 @@
 },
 {
 "name": "Cinemax",
-"image": "https://ustvgo.tv/wp-content/uploads/2020/04/cinemax.jpg,
+"image": "https://ustvgo.tv/wp-content/uploads/2020/04/cinemax.jpg",
 "url": "https://ustvgo.tv/cinemax/",
 "playInNatPlayer": "tot"
 },
