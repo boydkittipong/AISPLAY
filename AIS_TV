@@ -27,7 +27,7 @@
 {
 "name": "CH7 HD",
 "image": "https://we-play.live/uploads/posters/ch7-hd-poster1602704980.jpeg",
-"url": "https://smart-tv.livedoomovies.com:4431/02_7HD_720p/chunklist.m3u8",
+"url": "http://61.19.242.134/feed/202105171329/ch7hd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
