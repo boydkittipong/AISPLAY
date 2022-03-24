@@ -1,0 +1,120 @@
+{
+"name": "TV_MIJI",
+"author": "ฺฺBoyd_Kittipong",
+"image": "https://sv1.picz.in.th/images/2021/11/26/6wf5kk.md.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/TV",
+"stations": [
+
+
+{
+"name": "CH3 HD",
+"image": "https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg",
+"url": "https://www.we-play.live/watching/tv/ch3-hd",
+"playInNatPlayer": "tot"
+},
+{
+"name": "CH7 HD",
+"image": "https://we-play.live/uploads/posters/ch7-hd-poster1602704980.jpeg",
+"url": "https://www.we-play.live/watching/tv/ch7-hd",
+"playInNatPlayer": "tot"
+},
+{
+"name": "MCOT HD",
+"image": "https://we-play.live/uploads/posters/mcot-hd-poster1602705016.jpeg",
+"url": "https://www.we-play.live/watching/tv/mcot-hd",
+"playInNatPlayer": "tot"
+},
+{
+"name": "PPTV HD",
+"image": "https://we-play.live/uploads/posters/pptv-hd-poster1602705047.jpeg",
+"url": "https://www.we-play.live/watching/tv/pptv-hd",
+"playInNatPlayer": "tot"
+},
+{
+"name": "ONE HD",
+"image": "https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg",
+"url": "https://www.we-play.live/watching/tv/one-hd",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Amarin TV",
+"image": "https://we-play.live/uploads/posters/amarin-tv-poster1602705120.jpeg",
+"url": "https://www.we-play.live/watching/tv/amarin-tv",
+"playInNatPlayer": "tot"
+},
+{
+"name": "GMM25",
+"image": "https://we-play.live/uploads/posters/gmm25-poster1602705192.jpeg",
+"url": "https://www.we-play.live/watching/tv/gmm25",
+"playInNatPlayer": "tot"
+},
+{
+"name": "CH5 HD",
+"image": "https://we-play.live/uploads/posters/ch5-hd-poster1602705162.jpeg",
+"url": "https://www.we-play.live/watching/tv/ch5-hd",
+"playInNatPlayer": "tot"
+},
+{
+"name": "MONO29",
+"image": "https://we-play.live/uploads/posters/mono29-poster1602705220.jpeg",
+"url": "https://www.we-play.live/watching/tv/mono29",
+"playInNatPlayer": "tot"
+},
+{
+"name": "NationTV",
+"image": "https://we-play.live/uploads/posters/nationtv-poster1602705258.jpeg",
+"url": "https://www.we-play.live/watching/tv/nationtv",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Thai PBS",
+"image": "https://we-play.live/uploads/posters/thai-pbs-poster1602705288.jpeg",
+"url": "https://www.we-play.live/watching/tv/thai-pbs",
+"playInNatPlayer": "tot"
+},
+{
+"name": "ไทยรัฐ",
+"image": "https://we-play.live/uploads/posters/thairath-tv-poster1602705329.jpeg",
+"url": "https://www.we-play.live/watching/tv/thairath-tv",
+"playInNatPlayer": "tot"
+},
+{
+"name": "true4U",
+"image": "https://we-play.live/uploads/posters/true4u-poster1602705363.jpeg",
+"url": "https://www.we-play.live/watching/tv/true4u",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Workpoint",
+"image": "https://we-play.live/uploads/posters/workpoint-poster1602705391.jpeg",
+"url": "http://61.19.242.134/feed/202105171329/chworkpoint/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "เอ็นบีที NBT",
+"image": "https://we-play.live/uploads/posters/11-nbt-poster1603940103.jpeg",
+"url": "https://www.we-play.live/watching/tv/11-nbt",
+"playInNatPlayer": "tot"
+},
+{
+"name": "JKN 18",
+"image": "https://we-play.live/uploads/posters/jkn-18-poster.jpg",
+"url": "https://www.adintrend.tv/hd/ch30?t=live",
+"playInNatPlayer": "tot"
+},
+{
+"name": "CH8",
+"image": "https://we-play.live/uploads/posters/ch8-poster.jpg",
+"url": "https://we-play.live/watching/tv/ch8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "TOPNEWS",
+"image": "https://we-play.live/uploads/posters/topnews-poster.jpg",
+"url": "https://www.adintrend.tv/hd/ch40?t=live",
+"playInNatPlayer": "tot"
+},
+
+
+]
+}
