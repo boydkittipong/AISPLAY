@@ -1,7 +1,7 @@
 {
 "name": "TV_MIJI",
 "author": "ฺฺBoyd_Kittipong",
-"image": "http://image.free.in.th/v/2013/il/220324091909.png",
+"image": "http://image.free.in.th/v/2013/tl/220324091909.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/AISPLAY/main/TV_MIJI",
 "stations": [
 
@@ -184,6 +184,7 @@
 "name": "NEWS1",
 "image": "https://www.img02.xyz/assets/img/ch_logo/NEWS1.png",
 "url": "https://server1.streamssl.com/stream/news1_hi.m3u8",
+"url2":"http://news1.live14.com/stream/news1_hi.m3u8"
 "playInNatPlayer": "tot"
 },
 {
