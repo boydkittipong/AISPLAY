@@ -63,7 +63,7 @@
 {
 "name": "ONE HD",
 "image": "https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg",
-"url": "http://61.19.242.134/feed/202105171329/chonehd/index.m3u8",
+"url": "http://live2.dootvde.com/live/50022_one_hd.stream.smil/playist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -159,7 +159,7 @@
 {
 "name": "Workpoint",
 "image": "https://we-play.live/uploads/posters/workpoint-poster1602705391.jpeg",
-"url": "http://61.19.242.134/feed/202105171329/chworkpoint/index.m3u8 ",
+"url": "http://61.19.242.134/feed/202105171329/chworkpoint/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
