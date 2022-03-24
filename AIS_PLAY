@@ -6,7 +6,12 @@
 "groups": [
  
  
- 
+{
+"name": "TV_MIJI",
+"image": "https://sv1.picz.in.th/images/2021/11/26/6wf5kk.md.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/AISPLAY/main/TV_MIJI",
+"import": false
+}, 
 {
 "name": "AIS_TV",
 "image": "https://sv1.picz.in.th/images/2021/11/26/6wf5kk.md.png",
