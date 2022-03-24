@@ -63,7 +63,7 @@
 {
 "name": "ONE HD",
 "image": "https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=12",
+"url": "http://61.19.242.134/feed/202105171329/chonehd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -159,7 +159,7 @@
 {
 "name": "Workpoint",
 "image": "https://we-play.live/uploads/posters/workpoint-poster1602705391.jpeg",
-"url": "https://smart-tv.livedoomovies.com:4431/02_WORKPOINT_720p/chunklist.m3u8",
+"url": "http://61.19.242.134/feed/202105171329/chworkpoint/index.m3u8 ",
 "playInNatPlayer": "tot"
 },
 {
