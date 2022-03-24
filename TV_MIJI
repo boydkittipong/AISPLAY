@@ -115,6 +115,13 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "NEWS1",
+"image": "https://www.img02.xyz/assets/img/ch_logo/NEWS1.png",
+"url": "https://server1.streamssl.com/stream/news1_hi.m3u8",
+"url":"http://news1.live14.com/stream/news1_hi.m3u8"
+"playInNatPlayer": "tot"
+},
+{
 "name": "Samurai",
 "image": "https://image.winudf.com/v2/image1/Y29tLnNhbXVyYWl0di5zYW1ydXJhaXR2cGxheV9zY3JlZW5fMF8xNTUwNDI5MDA3XzAyOQ/screen-0.jpg?fakeurl=1&type=.jpg",
 "url": "http://61.19.242.134/feed/202105171329/LC2/index.m3u8",
@@ -178,13 +185,6 @@
 "name": "MTV Spankin New",
 "image": "https://hitskeeper.com/sites/default/files/2020-01/featuredimage-1.jpg",
 "url": "https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "NEWS1",
-"image": "https://www.img02.xyz/assets/img/ch_logo/NEWS1.png",
-"url": "https://server1.streamssl.com/stream/news1_hi.m3u8",
-"url2":"http://news1.live14.com/stream/news1_hi.m3u8"
 "playInNatPlayer": "tot"
 },
 {
