@@ -1,87 +1,87 @@
 {
 "name": "TV_MIJI",
 "author": "ฺฺBoyd_Kittipong",
-"image": "https://sv1.picz.in.th/images/2021/11/26/6wf5kk.md.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/wePLAY/main/TV",
+"image": "http://image.free.in.th/v/2013/il/220324091909.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/AISPLAY/main/TV_MIJI",
 "stations": [
 
 
 {
 "name": "CH3 HD",
 "image": "https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg",
-"url": "https://www.we-play.live/watching/tv/ch3-hd",
+"url": "http://61.19.242.134/feed/202105171329/ch3hd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "CH7 HD",
 "image": "https://we-play.live/uploads/posters/ch7-hd-poster1602704980.jpeg",
-"url": "https://www.we-play.live/watching/tv/ch7-hd",
+"url": "http://61.19.242.134/feed/202105171329/ch7hd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "MCOT HD",
 "image": "https://we-play.live/uploads/posters/mcot-hd-poster1602705016.jpeg",
-"url": "https://www.we-play.live/watching/tv/mcot-hd",
+"url": "http://61.19.242.134/feed/202105171329/chmcothd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "PPTV HD",
 "image": "https://we-play.live/uploads/posters/pptv-hd-poster1602705047.jpeg",
-"url": "https://www.we-play.live/watching/tv/pptv-hd",
+"url": "http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "ONE HD",
 "image": "https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg",
-"url": "https://www.we-play.live/watching/tv/one-hd",
+"url": "http://61.19.242.134/feed/202105171329/chonehd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "Amarin TV",
 "image": "https://we-play.live/uploads/posters/amarin-tv-poster1602705120.jpeg",
-"url": "https://www.we-play.live/watching/tv/amarin-tv",
+"url": "http://61.19.242.134/feed/202105171329/chamarin/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "GMM25",
 "image": "https://we-play.live/uploads/posters/gmm25-poster1602705192.jpeg",
-"url": "https://www.we-play.live/watching/tv/gmm25",
+"url": "http://61.19.242.134/feed/202105171329/chgmm/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "CH5 HD",
 "image": "https://we-play.live/uploads/posters/ch5-hd-poster1602705162.jpeg",
-"url": "https://www.we-play.live/watching/tv/ch5-hd",
+"url": "http://61.19.242.134/feed/202105171329/ch5hd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "MONO29",
 "image": "https://we-play.live/uploads/posters/mono29-poster1602705220.jpeg",
-"url": "https://www.we-play.live/watching/tv/mono29",
+"url": "http://61.19.242.134/feed/202105171329/chmono29/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "NationTV",
 "image": "https://we-play.live/uploads/posters/nationtv-poster1602705258.jpeg",
-"url": "https://www.we-play.live/watching/tv/nationtv",
+"url": "http://61.19.242.134/feed/202105171329/chnation/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "Thai PBS",
 "image": "https://we-play.live/uploads/posters/thai-pbs-poster1602705288.jpeg",
-"url": "https://www.we-play.live/watching/tv/thai-pbs",
+"url": "http://61.19.242.134/feed/202105171329/chthaipbs/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "ไทยรัฐ",
 "image": "https://we-play.live/uploads/posters/thairath-tv-poster1602705329.jpeg",
-"url": "https://www.we-play.live/watching/tv/thairath-tv",
+"url": "http://61.19.242.134/feed/202105171329/chthairath/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "true4U",
 "image": "https://we-play.live/uploads/posters/true4u-poster1602705363.jpeg",
-"url": "https://www.we-play.live/watching/tv/true4u",
+"url": "http://61.19.242.134/feed/202105171329/202105171329/chtrue4u/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -93,27 +93,131 @@
 {
 "name": "เอ็นบีที NBT",
 "image": "https://we-play.live/uploads/posters/11-nbt-poster1603940103.jpeg",
-"url": "https://www.we-play.live/watching/tv/11-nbt",
+"url": "http://61.19.242.134/feed/202105171329/chnbt/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "JKN 18",
 "image": "https://we-play.live/uploads/posters/jkn-18-poster.jpg",
-"url": "https://www.adintrend.tv/hd/ch30?t=live",
+"url": "http://61.19.242.134/feed/202105171329/newtv/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "CH8",
 "image": "https://we-play.live/uploads/posters/ch8-poster.jpg",
-"url": "https://we-play.live/watching/tv/ch8",
+"url": "http://61.19.242.134/feed/202105171329/ch8/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "TOPNEWS",
 "image": "https://we-play.live/uploads/posters/topnews-poster.jpg",
-"url": "https://www.adintrend.tv/hd/ch40?t=live",
+"url": "http://61.19.242.134/feed/202105171329/chtopnews/index.m3u8",
 "playInNatPlayer": "tot"
 },
+{
+"name": "Samurai",
+"image": "https://image.winudf.com/v2/image1/Y29tLnNhbXVyYWl0di5zYW1ydXJhaXR2cGxheV9zY3JlZW5fMF8xNTUwNDI5MDA3XzAyOQ/screen-0.jpg?fakeurl=1&type=.jpg",
+"url": "http://61.19.242.134/feed/202105171329/LC2/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Box Flim",
+"image": "https://tv.sritown.com/images/chlogo/box-film.png",
+"url": "http://61.19.242.134/feed/202105171329/LC52/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "SANOOK",
+"image": "https://s.isanook.com/sh/0/di/og-channel/s-tv.png",
+"url": "http://61.19.242.134/feed/202105171329/LC53/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "M",
+"image": "https://tv.sritown.com/images/chlogo/movie_hits_th.png",
+"url": "http://61.19.242.134/feed/202105171329/chmchannel/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "ZEENUNG",
+"image": "https://we-play.live/uploads/posters/-poster1602704662.jpeg",
+"url": "http://61.19.242.134/feed/202105171329/LC5/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "TRILL",
+"image": "https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/240?cb=20170606050150",
+"url": "http://61.19.242.134/feed/202105171329/LC26/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "WARNER",
+"image": "https://we-play.live/uploads/posters/-poster1602704746.jpeg",
+"url": "http://61.19.242.134/feed/202105171329/LC28/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Sexy KpopTV",
+"image": "https://play-lh.googleusercontent.com/NNN2QTB5dMxjWqnVfsGHglCS-D_-s0869HI2zCIoRZqEt3fDys22e0verSIyW5ON67U",
+"url": "https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "MTV Spankin New",
+"image": "https://hitskeeper.com/sites/default/files/2020-01/featuredimage-1.jpg",
+"url": "https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "NEWS1",
+"image": "https://www.img02.xyz/assets/img/ch_logo/NEWS1.png",
+"url": "https://server1.streamssl.com/stream/news1_hi.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Channel 8",
+"image": "https://sv1.picz.in.th/images/2020/12/01/jhrvoE.png",
+"url": "https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "True Film HD",
+"image": "https://we-play.live/uploads/posters/-poster1602704752.jpeg",
+"url": "https://we-play.live/watching/tv/true-film-hd",
+"playInNatPlayer": "tot"
+},
+{
+"name": "True Thai Film",
+"image": "https://we-play.live/uploads/posters/-poster1602704673.jpeg",
+"url": "https://we-play.live/watching/tv/true-thai-film",
+"playInNatPlayer": "tot"
+},
+{
+"name": "TRUE MOVIE HITS",
+"image": "https://we-play.live/uploads/posters/true-movie-hits-poster.jpg",
+"url": "https://we-play.live/watching/tv/true-movie-hits",
+"playInNatPlayer": "tot"
+},
+{
+"name": "True Chinese More",
+"image": "https://we-play.live/uploads/posters/true-chinese-more-poster.jpg",
+"url": "https://we-play.live/watching/tv/true-chinese-more",
+"playInNatPlayer": "tot"
+},
+{
+"name": "True Asian More",
+"image": "https://we-play.live/uploads/posters/true-asian-more-poster.jpg",
+"url": "https://we-play.live/watching/tv/true-asian-more",
+"playInNatPlayer": "tot"
+},
+{
+"name": "True Korean More",
+"image": "https://we-play.live/uploads/posters/true-korean-more-poster.jpg",
+"url": "https://we-play.live/watching/tv/true-korean-more",
+"playInNatPlayer": "tot"
+},
+
+
 
 
 ]
