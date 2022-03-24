@@ -121,6 +121,12 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "M Channel",
+"image": "https://cms.dmpcdn.com/livetv/2019/01/19/2171eaf4-036c-4958-ac0f-9d170d1faedf.png",
+"url": "http://27.254.130.62/feed/chmchannel/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
 "name": "Box Flim",
 "image": "https://tv.sritown.com/images/chlogo/box-film.png",
 "url": "http://61.19.242.134/feed/202105171329/LC52/index.m3u8",
