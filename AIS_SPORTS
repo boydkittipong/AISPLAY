@@ -7,70 +7,11 @@
 
 
 
-{
-"name": "FS1",
-"image": "https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png",
-"url": "http://stream2.grandma.fit/fs1.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "baygonhero1",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4514.png",
-"url": "https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r6/baygonhero9/chunks.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "baygonhero2",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4515.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/739965/baygonhero2",
-"playInNatPlayer": "tot"
-},
-{
-"name": "baygonhero3",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4516.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/281105/baygonhero3",
-"playInNatPlayer": "tot"
-},
-{
-"name": "baygonhero4",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4542.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/281106/baygonhero4",
-"playInNatPlayer": "tot"
-},
-{
-"name": "baygonhero5",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4543.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/281103/baygonhero5",
-"playInNatPlayer": "tot"
-},
-{
-"name": "baygonhero6",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4544.png",
-"url": "https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r6/baygonhero3/chunks.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "baygonhero7",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4545.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/281107/baygonhero7",
-"playInNatPlayer": "tot"
-},
-{
-"name": "baygonhero8",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--4546.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/281108/baygonhero8",
-"playInNatPlayer": "tot"
-},
+
 {
 "name": "True Premier Football HD 1",
 "image": "https://we-play.live/uploads/posters/-poster1602703965.jpeg",
 "url": "https://we-play.live/watching/tv/true-premier-football-hd-1",
-"playInNatPlayer": "tot"
-},
-{
-"name": "True Premier Football HD 1",
-"image": "https://we-play.live/uploads/posters/-poster1602703965.jpeg",
-"url": "https://moodooball.com/%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%AD%E0%B8%94%E0%B8%AA%E0%B8%94/?sch_id=2190797",
 "playInNatPlayer": "tot"
 },
 {
@@ -104,12 +45,6 @@
 "playInNatPlayer": "tot"
 },
 {
-"name": "TRUE SPORT HD1",
-"image": "https://we-play.live/uploads/posters/-poster1602704118.jpeg",
-"url": "https://www.wopep.com/02_2sporthd1_720p/chunklist.m3u8",
-"playInNatPlayer": "tot"
-},
-{
 "name": "TRUE SPORT HD2",
 "image": "https://we-play.live/uploads/posters/-poster1602704124.jpeg",
 "url": "https://we-play.live/watching/tv/true-sports-hd-2",
@@ -130,7 +65,7 @@
 {
 "name": "True Sport 2",
 "image": "https://we-play.live/uploads/posters/-poster1602704152.jpeg",
-"url": "https://www.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8",
+"url": "https://we-play.live/watching/tv/true-sports-2",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
@@ -167,129 +102,9 @@
 "playInNatPlayer": "tot"
 },
 {
-"name": "beIN SPORTS 1",
-"image": "https://we-play.live/uploads/posters/-poster1602703707.png",
-"url": "https://www.fifa5t.com/doballlive/ch026b/",
-"playInNatPlayer": "tot"
-},
-{
-"name": "beIN SPORTS 2",
-"image": "https://we-play.live/uploads/posters/-poster1602703712.png",
-"url": "https://www.doofootball.com/live/streaming/bein2englisharab/820026",
-"playInNatPlayer": "tot"
-},
-{
-"name": "beinsports1tu",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--640.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/737239/beinsports1tu",
-"playInNatPlayer": "tot"
-},
-{
-"name": "beinsports2tu",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--641.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/737237/beinsports2tu",
-"playInNatPlayer": "tot"
-},
-{
-"name": "beinsportsarabia1hd",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--752.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/784647/beinsportsarabia1hd",
-"playInNatPlayer": "tot"
-},
-{
-"name": "beinsportsarabia2hd",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--753.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/784648/beinsportsarabia2hd",
-"playInNatPlayer": "tot"
-},
-{
-"name": "foxsport1nl",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--241.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/736724/foxsport1nl",
-"playInNatPlayer": "tot"
-},
-{
-"name": "foxsport1n2",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--242.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/736726/foxsport2nl",
-"playInNatPlayer": "tot"
-},
-{
-"name": "cmorelivehd",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--484.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/739355/cmorelivehd",
-"playInNatPlayer": "tot"
-},
-{
-"name": "espnbrazil",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1232.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/737126/espnbrazil",
-"playInNatPlayer": "tot"
-},
-{
-"name": "ziggosportselect",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--285.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/723262/ziggosportselect",
-"playInNatPlayer": "tot"
-},
-{
-"name": "skysportpremiere",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--90.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/723262/skysportpremiere",
-"playInNatPlayer": "tot"
-},
-{
-"name": "astrosupersport1",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--253.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/763080/astrosupersport3",
-"playInNatPlayer": "tot"
-},
-{
-"name": "astrosupersport2",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--254.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/723261/astrosupersport2",
-"playInNatPlayer": "tot"
-},
-{
-"name": "novasport",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1058.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/723261/novasport",
-"playInNatPlayer": "tot"
-},
-{
-"name": "viasatfotboll",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--494.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/723261/viasatfotboll",
-"playInNatPlayer": "tot"
-},
-{
-"name": "arenasport1serbia",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--319.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/736735/arenasport1serbia",
-"playInNatPlayer": "tot"
-},
-{
-"name": "arenasport2serbia",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--320.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/736735/arenasport2serbia",
-"playInNatPlayer": "tot"
-},
-{
-"name": "arenasport3serbia",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--321.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/736735/arenasport3serbia",
-"playInNatPlayer": "tot"
-},
-{
-"name": "arenasport4serbia",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--322.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/736735/arenasport4serbia",
-"playInNatPlayer": "tot"
-},
-{
 "name": "NBA HD",
 "image": "https://we-play.live/uploads/posters/-poster1602704203.jpeg",
-"url": "https://www.livedoomovie.com:4431/02_nbahd_720p/chunklist.m3u8",
+"url": "https://we-play.live/watching/tv/nba-tv",
 "playInNatPlayer": "tot"
 },
 {
@@ -377,72 +192,6 @@
 "playInNatPlayer": "tot"
 },
 {
-"name": "canal11pt",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1787.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/723602/canal11pt",
-"playInNatPlayer": "true"
-},
-{
-"name": "diemasport1",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1059.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/722630/diemasport1",
-"playInNatPlayer": "true"
-},
-{
-"name": "sportklub1slovenia",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--333.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/774794/sportklub1slovenia",
-"playInNatPlayer": "true"
-},
-{
-"name": "sportklub2slovenia",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--334.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/720649/sportklub2slovenia",
-"playInNatPlayer": "true"
-},
-{
-"name": "digisport1romania",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--880.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/737265/digisport1romania",
-"playInNatPlayer": "true"
-},
-{
-"name": "sportdigital",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/739386/sportdigital",
-"playInNatPlayer": "true"
-},
-{
-"name": "sport1plus",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--149.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/691411/sport1plus",
-"playInNatPlayer": "true"
-},
-{
-"name": "skysportfootball",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--91.png",
-"url": "https://uload.ru.com/cdn/premium35/chunks.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "premiersports1",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--95.png",
-"url": "https://g2.fctelerium.com:999/hls/skysprem-20155.ts",
-"playInNatPlayer": "true"
-},
-{
-"name": "pfc",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1446.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/759808/pfc",
-"playInNatPlayer": "true"
-},
-{
-"name": "tv3max",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1219.png",
-"url": "https://xn--72cabb1da5b9dp4c5a9cvb0d.com/matchsys/live-football/744063/tv3max",
-"playInNatPlayer": "true"
-},
-{
 "name": "LFC TV",  
 "image": "https://we-play.live/uploads/posters/lfc-tv-poster1602800995.jpeg",  
 "url": "https://www.we-play.live/watching/tv/lfc-tv",
@@ -508,6 +257,48 @@
 "name": "ESPN2",
 "image": "https://ustvgo.tv/wp-content/uploads/2019/08/espn2-269x151.png",
 "url": "https://ustvgo.tv/espn2-live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Abu Dhabi Sports 1",  
+"image": "https://i.imgur.com/lKl2wZH.png",  
+"url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Abu Dhabi Sports 2",  
+"image": "https://photos.live-tv-channels.org/tv-logo/ae-abu-dhabi-sports-2-5918-300x225.jpg",  
+"url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Abu Dhabi Sports 3",  
+"image": "https://photos.live-tv-channels.org/tv-logo/ae-abu-dhabi-sports-3-5166-300x225.jpg",  
+"url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "ACC Network",  
+"image": "https://i.imgur.com/UHcFiHk.png",  
+"url": "https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Lax Sports Network TV",  
+"image": "https://i.imgur.com/Lt9ZUYA.png",  
+"url": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Local Now Sports",  
+"image": "https://f9q4g5j6.ssl.hwcdn.net/5ff5007140095248f263f987",  
+"url": "https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "MavTV Europe",  
+"image": "https://www.mavtv.com/assets/images/mavtv_logo.png",  
+"url": "https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 
