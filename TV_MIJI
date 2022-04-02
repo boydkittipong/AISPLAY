@@ -319,33 +319,15 @@
 "playInNatPlayer": "tot"
 },
 {
-"name": "astrosupersport",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--253.png",
-"url": "https://livesod88.com/?id=818406&ch=astrosupersport",
+"name": "ASTRO SUPERSPORT 1",
+"image": "https://www.livestream88.com/wp-content/uploads/astro-supersport-1.png",
+"url": "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
-"name": "sportdigital",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",
-"url": "https://livesod88.com/?id=815845&ch=sportdigital",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Baygon Hero 1",
-"image": "https://mobetz.com/api/table/icon/ch417.png",
-"url": "https://mobetz.com/doball/ch417/",
-"playInNatPlayer": "tot"
-},
-{
-"name": "C More Fotboll",
-"image": "https://mobetz.com/api/table/icon/ch340.png",
-"url": "https://mobetz.com/doball/ch340/",
-"playInNatPlayer": "tot"
-},
-{
-"name": "",
-"image": "",
-"url": "",
+"name": "Astro Supersport 4",
+"image": "https://www.livestream88.com/wp-content/uploads/astro-supersport-4.png",
+"url": "https://www.livestream88.com/sport/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-astro-supersport-4/",
 "playInNatPlayer": "tot"
 },
 {
