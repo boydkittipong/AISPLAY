@@ -1,20 +1,31 @@
-#EXTINF:-1 tvg-id="1" tvg-logo-small="http://thaiip.tv/tvlogo2/1.png" tvg-logo="http://thaiip.tv/tvlogo2/1.png" tvg-chno="1" group-title="THAI Digital TV" tvg-name="ททบ. 5",THAI 5
-https://tc-live1.sanook.com/live/22302_ch5.m3u8
-#EXTINF:-1  tvg-id="2" tvg-logo-small="http://thaiip.tv/tvlogo2/2.png" tvg-logo="http://thaiip.tv/tvlogo2/2.png" tvg-chno="2" group-title="THAI Digital TV" tvg-name="NBT2",NBT 2
-http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
-#EXTINF:-1  tvg-id="3" tvg-logo-small="http://thaiip.tv/tvlogo2/3.png" tvg-logo="http://thaiip.tv/tvlogo2/3.png" tvg-chno="3" group-title="THAI Digital TV" tvg-name="ไทย พีบีเอส",Thai PBS 3 HD
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-logo-small="http://thaiip.tv/tvlogo2/altv4.png" tvg-logo="http://thaiip.tv/tvlogo2/altv4.png" tvg-chno="4" group-title="THAI Digital TV" tvg-name="ALTV 4",ALTV 4
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="5" tvg-logo-small="http://thaiip.tv/tvlogo2/1.png" tvg-logo="http://thaiip.tv/tvlogo2/1.png" tvg-chno="5" group-title="THAI Digital TV" tvg-name="ช่อง 5",THAI 5 HD
-https://tc-live1.sanook.com/live/22302_ch5.m3u8
-#EXTINF:-1 tvg-id="6"  tvg-logo="http://thaiip.tv/tvlogo2/wch.png" tvg-chno="6" group-title="THAI Digital TV" tvg-name="White Channel",White Channel
+#EXTINF:-1 tvg-id="1"  tvg-logo="http://thaiip.tv/tvlogo2/wch.png" tvg-chno="1" group-title="Digital TV" tvg-name="White Channel",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:-1 tvg-id="7" tvg-logo-small="http://thaiip.tv/tvlogo2/7.png" tvg-logo="http://thaiip.tv/tvlogo2/7.png" tvg-chno="7" group-title="THAI Digital TV" tvg-name="ช่อง 7",THAI 7HD
-https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
-#EXTINF:-1 tvg-id="8" tvg-logo-small="http://thaiip.tv/tvlogo2/ch8.png" tvg-logo="http://thaiip.tv/tvlogo2/ch8.png" tvg-chno="8" group-title="THAI Digital TV" tvg-name="Channel 8",Channel8
-http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
-#EXTINF:-1 tvg-id="9" tvg-logo-small="http://thaiip.tv/tvlogo2/30.png" tvg-logo="http://thaiip.tv/tvlogo2/30.png" tvg-chno="9" group-title="THAI Digital TV" tvg-name="ช่อง 9",MCOT HD 30
-https://tc-live1.sanook.com/live/22302_ch9.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-logo-small="https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg" tvg-logo="https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg" tvg-chno="1" group-title="Digital TV" tvg-name="ONE HD",ONE HD
+http://61.19.242.134/feed/202105171329/chonehd/index.m3u8
+
+#EXTINF:-1  tvg-id="3" tvg-logo-small="https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg" tvg-logo="https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg" tvg-chno="3" group-title="Digital TV" tvg-name="CH3 HD",CH3 HD
+http://61.19.242.134/feed/202105171329/ch3hd/index.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-logo-small="https://we-play.live/uploads/posters/amarin-tv-poster1602705120.jpeg" tvg-logo="https://we-play.live/uploads/posters/amarin-tv-poster1602705120.jpeg" tvg-chno="4" group-title="Digital TV" tvg-name="Amarin TV",Amarin TV
+http://61.19.242.134/feed/202105171329/chamarin/index.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-logo-small="https://we-play.live/uploads/posters/ch5-hd-poster1602705162.jpeg" tvg-logo="https://we-play.live/uploads/posters/ch5-hd-poster1602705162.jpeg" tvg-chno="5" group-title="Digital TV" tvg-name="CH5 HD",TCH5 HD
+http://61.19.242.134/feed/202105171329/ch5hd/index.m3u8
+
+#EXTINF:-1  tvg-id="6" tvg-logo-small="https://we-play.live/uploads/posters/pptv-hd-poster1602705047.jpeg" tvg-logo="https://we-play.live/uploads/posters/pptv-hd-poster1602705047.jpeg" tvg-chno="6" group-title="Digital TV" tvg-name="PPTV HD",PPTV HD
+http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-logo-small="https://we-play.live/uploads/posters/ch7-hd-poster1602704980.jpeg" tvg-logo="https://we-play.live/uploads/posters/ch7-hd-poster1602704980.jpeg" tvg-chno="7" group-title="Digital TV" tvg-name="CH7 HD",CH7 HD
+http://61.19.242.134/feed/202105171329/ch7hd/index.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-logo-small="https://we-play.live/uploads/posters/ch8-poster.jpg" tvg-logo="https://we-play.live/uploads/posters/ch8-poster.jpg" tvg-chno="8" group-title="Digital TV" tvg-name="CH8",CH8
+http://61.19.242.134/feed/202105171329/ch8/index.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-logo-small="https://we-play.live/uploads/posters/mcot-hd-poster1602705016.jpeg" tvg-logo="https://we-play.live/uploads/posters/mcot-hd-poster1602705016.jpeg" tvg-chno="9" group-title="THAI Digital TV" tvg-name="MCOT HD",MCOT HD
+http://61.19.242.134/feed/202105171329/chmcothd/index.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-logo-small="https://we-play.live/uploads/posters/thai-pbs-poster1602705288.jpeg" tvg-logo="https://we-play.live/uploads/posters/thai-pbs-poster1602705288.jpeg" tvg-chno="10" group-title="THAI Digital TV" tvg-name="Thai PBS",Thai PBS
+http://61.19.242.134/feed/202105171329/chthaipbs/index.m3u8
 
 
