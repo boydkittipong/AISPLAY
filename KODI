@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-id="1"  tvg-logo="http://thaiip.tv/tvlogo2/wch.png" tvg-chno="1" group-title="Digital TV" tvg-name="White Channel",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-logo-small="https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg" tvg-logo="https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg" tvg-chno="1" group-title="Digital TV" tvg-name="ONE HD",ONE HD
+#EXTINF:-1 tvg-id="2" tvg-logo-small="https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg" tvg-logo="https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg" tvg-chno="2" group-title="Digital TV" tvg-name="ONE HD",ONE HD
 http://61.19.242.134/feed/202105171329/chonehd/index.m3u8
 
 #EXTINF:-1  tvg-id="3" tvg-logo-small="https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg" tvg-logo="https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg" tvg-chno="3" group-title="Digital TV" tvg-name="CH3 HD",CH3 HD
