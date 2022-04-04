@@ -5,7 +5,7 @@ https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
 https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo-small="https://we-play.live/uploads/posters/amarin-tv-poster1602705120.jpeg" tvg-logo="https://we-play.live/uploads/posters/amarin-tv-poster1602705120.jpeg" tvg-chno="4" group-title="Digital TV" tvg-name="Amarin TV",Amarin TV
-http://61.19.242.134/feed/202105171329/chamarin/index.m3u8https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
+https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo-small="https://we-play.live/uploads/posters/ch5-hd-poster1602705162.jpeg" tvg-logo="https://we-play.live/uploads/posters/ch5-hd-poster1602705162.jpeg" tvg-chno="5" group-title="Digital TV" tvg-name="CH5 HD",TCH5 HD
 https://freelive.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
