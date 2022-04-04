@@ -1,4 +1,5 @@
-#EXTINF:-1 tvg-id="2" tvg-logo-small="https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg" tvg-logo="https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg" tvg-chno="2" group-title="Digital TV" tvg-name="ONE HD",ONE HD
+#EXTINF:-1 tvg-id="2"tvg-logo="https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg"
+group-title="Digital TV" tvg-name="ONE HD",ONE HD
 https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
 
 #EXTINF:-1  tvg-id="3" tvg-logo-small="https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg" tvg-logo="https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg" tvg-chno="3" group-title="Digital TV" tvg-name="CH3 HD",CH3 HD
