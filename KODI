@@ -10,7 +10,7 @@ https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
 #EXTINF:-1 tvg-id="4" group-title="Digital TV" tvg-logo="https://we-play.live/uploads/posters/pptv-hd-poster1602705047.jpeg",PPTV HD
 https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5" group-title="Digital TV" tvg-logo="ttps://we-play.live/uploads/posters/ch5-hd-poster1602705162.jpeg",CH5 HD
+#EXTINF:-1 tvg-id="5" group-title="Digital TV" tvg-logo="https://we-play.live/uploads/posters/ch5-hd-poster1602705162.jpeg",CH5 HD
 https://freelive.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://we-play.live/uploads/posters/true4u-poster1602705363.jpeg",TRUE4U
