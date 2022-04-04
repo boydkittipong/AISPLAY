@@ -1,32 +1,13 @@
-#EXTINF:-1 tvg-id="1" group-title="Digital TV" tvg-logo="https://www.topnews.co.th/wp-content/uploads/2021/01/cropped-topnews-site-logo-3.png",TOPNEWS
+#EXTINF:-1 tvg-id="1" group-title="Digital TV" tvg-logo="https://we-play.live/uploads/posters/topnews-poster.jpg",TOPNEWS
 http://live.topnews.co.th/hls/topnews.m3u8
 
-#EXTINF:-1 tvg-id="2" group-title="Digital TV" tvg-logo="https://news1live.com/images/social-share-logo.png",NEWS1
+#EXTINF:-1 tvg-id="2" group-title="Digital TV" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/NEWS1.png",NEWS1
 https://server1.streamssl.com/stream/news1_hi.m3u8
 
-#EXTINF:-1  tvg-id="3" tvg-logo-small="https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg" tvg-logo="https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg",CH3 HD
-https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
+#EXTINF:-1 tvg-id="3" group-title="Digital TV" tvg-logo="https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg"",CH3 HD
+http://61.19.242.134/feed/202105171329/ch3hd/index.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo-small="https://we-play.live/uploads/posters/amarin-tv-poster1602705120.jpeg" tvg-logo="https://we-play.live/uploads/posters/amarin-tv-poster1602705120.jpeg",Amarin TV
-https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="5" tvg-logo-small="https://we-play.live/uploads/posters/ch5-hd-poster1602705162.jpeg" tvg-logo="https://we-play.live/uploads/posters/ch5-hd-poster1602705162.jpeg",CH5 HD
-https://freelive.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
-
-#EXTINF:-1  tvg-id="6" tvg-logo-small="https://we-play.live/uploads/posters/pptv-hd-poster1602705047.jpeg" tvg-logo="https://we-play.live/uploads/posters/pptv-hd-poster1602705047.jpeg",PPTV HD
-https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="7" tvg-logo-small="https://we-play.live/uploads/posters/ch7-hd-poster1602704980.jpeg" tvg-logo="https://we-play.live/uploads/posters/ch7-hd-poster1602704980.jpeg",CH7 HD
-https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="8" tvg-logo-small="https://we-play.live/uploads/posters/ch8-poster.jpg" tvg-logo="https://we-play.live/uploads/posters/ch8-poster.jpg",CH8
-https://freelive.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="9" tvg-logo-small="https://we-play.live/uploads/posters/mcot-hd-poster1602705016.jpeg" tvg-logo="https://we-play.live/uploads/posters/mcot-hd-poster1602705016.jpeg",MCOT HD
-https://freelive.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="10" tvg-logo-small="https://we-play.live/uploads/posters/thai-pbs-poster1602705288.jpeg",THAI PBS
-https://freelive.inwstream.com:1936/freelive-edge/thaipbs/playlist.m3u8
-
+#EXTINF:-1 tvg-id="4" group-title="Digital TV" tvg-logo="https://we-play.live/uploads/posters/pptv-hd-poster1602705047.jpeg",PPTV HD
+http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8
 
 
