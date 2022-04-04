@@ -17,7 +17,7 @@ http://61.19.242.134/feed/202105171329/ch5hd/index.m3u8
 http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-logo-small="https://we-play.live/uploads/posters/ch7-hd-poster1602704980.jpeg" tvg-logo="https://we-play.live/uploads/posters/ch7-hd-poster1602704980.jpeg" tvg-chno="7" group-title="Digital TV" tvg-name="CH7 HD",CH7 HD
-http://61.19.242.134/feed/202105171329/ch7hd/index.m3u8
+https://www.we-play.live/watching/tv/ch7-hd
 
 #EXTINF:-1 tvg-id="8" tvg-logo-small="https://we-play.live/uploads/posters/ch8-poster.jpg" tvg-logo="https://we-play.live/uploads/posters/ch8-poster.jpg" tvg-chno="8" group-title="Digital TV" tvg-name="CH8",CH8
 http://61.19.242.134/feed/202105171329/ch8/index.m3u8
