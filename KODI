@@ -21,6 +21,8 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://we-play.live/uploads/posters/thai-pbs-poster1602705288.jpeg",THAIPBS
 https://freelive.inwstream.com:1936/freelive-edge/thaipbs/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://we-play.live/uploads/posters/thai-pbs-poster1602705288.jpeg",THAIPBS
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://we-play.live/uploads/posters/amarin-tv-poster1602705120.jpeg",AMARIN TV
@@ -73,4 +75,6 @@ http://freelive.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2020/12/01/jhrvoE.png",Channel 8
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2020/12/01/jhrvoE.png",Channel 8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
