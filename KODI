@@ -58,6 +58,9 @@ http://freelive.inwstream.com:1935/freelive-edge/sangjun.stream/playlist.m3u8
 https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
 #EXTINF:-1 tvg-id="30" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F16%2F482a2a27-3942-4356-8f12-4aec229badc6.png&w=320&h=240",MCOT HD
 https://tc-live1.sanook.com/live/22302_ch9.m3u8
-
-
-
+#EXTINF:-1 tvg-id="31" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F16%2F396384be-35dc-4d11-bf04-06c9546ec7bc.png&w=320&h=240",ONE31
+https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
+#EXTINF:-1 tvg-id="32" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F8761bb82-f902-4372-8b9f-34b019d36fb7.png&w=320&h=240",Thairath TV 32
+https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
+#EXTINF:-1 tvg-id="33" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/c93cf2c0-b54f-11ea-8fac-236a281cd6c5_320.png",CH3 HD
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/18
