@@ -26,7 +26,7 @@ http://live.topnews.co.th/hls/topnews.m3u8
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
 #EXTINF:-1 tvg-id="14" group-title="Digital TV" tvg-logo="http://ctbtv.co.th/wp-content/uploads/2016/08/ctbtv-390x170.png",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:-1 tvg-id="15" group-title="Digital TV" tvg-logo="http://ctbtv.co.th/wp-content/uploads/2016/08/ctbtv-390x170.png",ZEE NUNG
+#EXTINF:-1 tvg-id="15" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Zee_Nung.jpg/revision/latest/scale-to-width-down/250?cb=20180625111402",ZEE NUNG
 https://freelive.inwstream.com:1936/freelive-edge/zeenang/playlist.m3u8
 #EXTINF:-1 tvg-id="16" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/15/799524c0-aec1-11ea-a6df-39e5f68ac856_320.png",TNN16
 https://freelive.inwstream.com:1936/freelive-edge/tnn24/playlist.m3u8
@@ -48,7 +48,16 @@ https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
 https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
 #EXTINF:-1 tvg-id="25" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png",GMM25
 https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="27" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6v9D.png",T Sport7
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
+#EXTINF:-1 tvg-id="26" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 1
+http://203.159.95.172:8081/live/action001/playlist.m3u8
+#EXTINF:-1 tvg-id="27" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F02%2F26%2Febe998c5-7d25-402b-ab70-46f1ad6dcc4e.png&w=320&h=240",CH8
+https://freelive.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
+#EXTINF:-1 tvg-id="28" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2021/06/01/PVL8Jn.png",Sangchan TV
+http://freelive.inwstream.com:1935/freelive-edge/sangjun.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="29" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F35a35017-8473-4953-8474-5c58d805b74a.png&w=320&h=240",MONO29
+https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
+#EXTINF:-1 tvg-id="30" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F16%2F482a2a27-3942-4356-8f12-4aec229badc6.png&w=320&h=240",MCOT HD
+https://tc-live1.sanook.com/live/22302_ch9.m3u8
+
 
 
