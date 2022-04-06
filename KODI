@@ -64,3 +64,13 @@ https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
 https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
 #EXTINF:-1 tvg-id="33" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/c93cf2c0-b54f-11ea-8fac-236a281cd6c5_320.png",CH3 HD
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/18
+#EXTINF:-1 tvg-id="34" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/18/e007f990-9082-11ec-9efa-2d434afe2b14_webp_320.png",AMARIN TV
+https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
+#EXTINF:-1 tvg-id="35" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F1b6b5ad2-a97c-4935-886a-bc6c60073f67.png&w=320&h=240",CH 7 HD
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/20
+#EXTINF:-1 tvg-id="36" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_320.png",PPTV HD 36
+https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="37" group-title="Digital TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-23-112706.png",CABLE 37 HD
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:-1 tvg-id="38" group-title="Digital TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-23-112706.png",SUN MOVIE
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZwGYjxbh0XOTBYiXeWVlY-6wh1_XR8U9tMMrGE6YSy8KjKbGyG6ZUP8ld&s=10
