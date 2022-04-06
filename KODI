@@ -73,4 +73,4 @@ https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="37" group-title="Digital TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-23-112706.png",CABLE 37 HD
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 tvg-id="38" group-title="Digital TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-23-112706.png",SUN MOVIE
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZwGYjxbh0XOTBYiXeWVlY-6wh1_XR8U9tMMrGE6YSy8KjKbGyG6ZUP8ld&s=10
+https://cdn6.goprimetime.info/feed/202105171329/LC1/index.m3u8
