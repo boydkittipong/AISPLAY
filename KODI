@@ -86,3 +86,9 @@ https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/chunks.m3u8
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="44" group-title="Sports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAr4nI.jpg",World of Freesports
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="45" group-title="Sports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAr4nI.jpg",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="46" group-title="Sports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAr4nI.jpg",True1
+http://139.99.80.237:9998/epl1a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="47" group-title="Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUtU8Td47J2kTGQW2dqzj6IHrqi_L_NHrXsA&usqp=CAU",MV Lao
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist.m3u8
