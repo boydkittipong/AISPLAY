@@ -72,8 +72,8 @@ http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/20
 https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="37" group-title="Cable TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-23-112706.png",CABLE 37 HD
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
-#EXTINF:-1 tvg-id="38" group-title="Cable TV" tvg-logo="https://thaitvstream.com/streaming/srtvonline/srtvonline.png",Surut TV
-https://live1.thaitvstream.com/play/srtvonline/index.m3u8
+#EXTINF:-1 tvg-id="38" group-title="Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7XtuRD_5ZF2GTm8qZgNAXx8Dn8FuGFAeWaA&usqp=CAU",MVTV
+https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="39" group-title="Cable TV" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",Siam TV
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 #EXTINF:-1 tvg-id="40" group-title="Cable TV" tvg-logo="https://thaitvstream.com/streaming/gochannel/gochannel.png",GOLIVE
