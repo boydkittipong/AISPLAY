@@ -82,6 +82,14 @@ https://live1.thaitvstream.com/play/gochannel/index.m3u8
 https://live.thaitvstream.com/play/thainews/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doofreemovie88.com/public/upload/tv/nk-tv-nongkhai79.webp",NK TV Nongkhai
 https://live1.thaitvstream.com/play/nongkhaichannel/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.popoptiq.com/wp-content/uploads/2010/12/6a00d83451d69069e200e551e7f89a8833-800wi.jpg",HBO
+https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/hd-hbo-thai/chunks.m3u8?nimblesessionid=9657867&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMjo0MToyOCBQTSZoYXNoX3ZhbHVlPTNXRzZpSHBiOEZONlBhaWFGTUpzUXc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNiZpZD0xMjQ5MTM=
+#EXTINF:-1 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704673.jpeg",True Thai Film
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/truethaifilm/chunks.m3u8?nimblesessionid=7054949&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMjo0MDo0MCBQTSZoYXNoX3ZhbHVlPWJJcW5TVW8rVTVPQWJHQ3JFRnBseHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704752.jpeg",True Film HD
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/truefilmhd/chunks.m3u8?nimblesessionid=7054450&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMjozODo0MSBQTSZoYXNoX3ZhbHVlPUZOL0lNTkwzSnZNNk80cXVmdGxHc1E9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1 group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/true-movie-hits-poster.jpg",TRUE MOVIE HITS
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/truemoviehits/chunks.m3u8?nimblesessionid=7054210&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMjozNzo1NCBQTSZoYXNoX3ZhbHVlPVhyMy8va0lFT01telBVa2M2enhMTEE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="42" group-title="Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTac9cFf1TvMV5zgbmbv0sOyQ9RjPDGazMkkqvkNJuEyorn6-T&usqp=CAU",Looktung TVHD
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="43" group-title="Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUtU8Td47J2kTGQW2dqzj6IHrqi_L_NHrXsA&usqp=CAU",MV Lao
@@ -196,5 +204,9 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.doofree88.com/storage/live/K1nk269CE9aAa7DunT5qBeIrV3WJymveVvlQC8T7.png",NHK Chinese
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MUTV
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://we-play.live/uploads/posters/nhk-world-poster1602706359.jpeg",NHK World
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/news/nhk/chunks.m3u8?nimblesessionid=7053678&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMjozNTo1NiBQTSZoYXNoX3ZhbHVlPVFxdXVTQTNvNGs4bWUzdmU2cFpWWmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://we-play.live/uploads/posters/mutv-poster1602800965.jpeg",MUTV
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/mutv/chunks.m3u8?nimblesessionid=7049464&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMjoyMjo0NSBQTSZoYXNoX3ZhbHVlPUdlRXgzRjMxVWZGd0dHeHdjR0pjZHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://we-play.live/uploads/posters/spotv-poster.jpg"",SPOTV
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/spotv/chunks.m3u8?nimblesessionid=7052973&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMjozMzoyNiBQTSZoYXNoX3ZhbHVlPXZFNVgvaDlYN3RUZVJxd25YMVFabHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
