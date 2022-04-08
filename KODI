@@ -80,6 +80,8 @@ https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 https://live1.thaitvstream.com/play/gochannel/index.m3u8
 #EXTINF:-1 tvg-id="41" group-title="Cable TV" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png",Thainews
 https://live.thaitvstream.com/play/thainews/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://doofreemovie88.com/public/upload/tv/nk-tv-nongkhai79.webp",NK TV Nongkhai
+https://live1.thaitvstream.com/play/nongkhaichannel/index.m3u8
 #EXTINF:-1 tvg-id="42" group-title="Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTac9cFf1TvMV5zgbmbv0sOyQ9RjPDGazMkkqvkNJuEyorn6-T&usqp=CAU",Looktung TVHD
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="43" group-title="Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUtU8Td47J2kTGQW2dqzj6IHrqi_L_NHrXsA&usqp=CAU",MV Lao
@@ -190,12 +192,6 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-061119.jpg",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L._SY355_.png",CBS News
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L._SY355_.png",CBS News
-https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmdEsRdX6PQ-2OXtpEcmTCbD16h4DHD_Bt1HEd8Qe7cfR5jAUf&usqp=CAU",BreaKingNew
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://apprecs.org/ios/images/app-icons/256/c0/922460096.jpg",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.doofree88.com/storage/live/K1nk269CE9aAa7DunT5qBeIrV3WJymveVvlQC8T7.png",NHK Chinese
