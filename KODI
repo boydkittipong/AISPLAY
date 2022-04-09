@@ -70,7 +70,7 @@ https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/20
 #EXTINF:-1 tvg-id="36" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_320.png",PPTV HD 36
 https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
-#EXTINF:-1 tvg-id="37" group-title="Cable TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-23-112706.png",CABLE 37 HD
+#EXTINF:-1 tvg-id="37" group-title="Cable TV" tvg-logo="http://cablechannel37.net/assets/images/main/logos/cable_channel_37.png",CABLE 37 HD
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 tvg-id="38" group-title="Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7XtuRD_5ZF2GTm8qZgNAXx8Dn8FuGFAeWaA&usqp=CAU",MVTV
 https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunks.m3u8
@@ -94,11 +94,11 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
 #EXTINF:-1 tvg-id="48" group-title="Sports" tvg-logo="https://www.elboox.com/wp-content/uploads/2021/04/%D9%82%D9%86%D8%A7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg",Dubai Sports4
 http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby
-#EXTINF:-1 tvg-id="49" group-title="Sports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAr4nI.jpg",World of Freesports
+#EXTINF:-1 tvg-id="49" group-title="Sports" tvg-logo="https://static.wixstatic.com/media/463348_e14dcab5932a4d339e991c4841aa2e11~mv2.png/v1/fill/w_1000,h_754,al_c,usm_0.66_1.00_0.01/463348_e14dcab5932a4d339e991c4841aa2e11~mv2.png",World of Freesports
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="50" group-title="Sports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAr4nI.jpg",RedBull TV
+#EXTINF:-1 tvg-id="50" group-title="Sports" tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="51" group-title="Sports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAr4nI.jpg",Maroc SPORT
+#EXTINF:-1 tvg-id="51" group-title="Sports" tvg-logo="https://pbs.twimg.com/profile_images/567731683659489280/xm17tKS0_400x400.jpeg",Maroc SPORT
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="52" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT SPORTS 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
