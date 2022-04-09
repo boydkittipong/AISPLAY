@@ -204,7 +204,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://we-play.live/uploads/posters/nhk-world-poster1602706359.jpeg",NHK World
 #EXTVLCOPT:http-referrer=https://we-play.live/
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/news/nhk/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://we-play.live/
+https://we-play.live/watching/tv/nhk-world|User-Agent=exoplayer_video&Referer=https://we-play.live/
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://we-play.live/uploads/posters/mutv-poster1602800965.jpeg",MUTV
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/mutv/chunks.m3u8?nimblesessionid=7049464&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMjoyMjo0NSBQTSZoYXNoX3ZhbHVlPUdlRXgzRjMxVWZGd0dHeHdjR0pjZHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://we-play.live/uploads/posters/spotv-poster.jpg"",SPOTV
