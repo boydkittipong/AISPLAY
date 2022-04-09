@@ -208,5 +208,29 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://we-play.live/uploads/posters/nhk-world-poster1602706359.jpeg",NHK World
 https://b-nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459-b/nhkwlive-ojp/index_1M.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://avk-wellcom.ru/assets/24h-img/83ff27866428d26e9a1009c9955c0055.jpg",KBS WORLD
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-thaifilm.png",Thai Film (TH)
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-movie-hits.png",Movie Hits (TH)
+https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/film-hd.png",True Film 1 (TH)
+https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/h2-hd.png",H2 (TH)
+https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-inside-hd-1.png",Inside (TH)
+https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport HD 1
+https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport HD 2
+https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport HD 3
+https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport 5
+https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport 7
+https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/premier-sports.png",Premier Sports (UK)
+https://streaming.livescorethai.net/iptv/uk-premiersports.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bundesliga.png",Sky Bundesliga (DE)
+https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mutv.png",MUTV (UK)
+https://streaming.livescorethai.net/iptv/uk-mutv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
