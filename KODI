@@ -70,6 +70,10 @@ https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/20
 #EXTINF:-1 tvg-id="36" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_320.png",PPTV HD 36
 https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 1
+http://203.159.95.172:8081/live/action001/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 2
+http://203.159.95.172:8081/live/banner003/playlist.m3u8
 #EXTINF:-1 tvg-id="37" group-title="Cable TV" tvg-logo="http://cablechannel37.net/assets/images/main/logos/cable_channel_37.png",CABLE 37 HD
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 tvg-id="38" group-title="Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7XtuRD_5ZF2GTm8qZgNAXx8Dn8FuGFAeWaA&usqp=CAU",MVTV
