@@ -209,4 +209,4 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://we-play.live/uploads/posters/nhk-world-poster1602706359.jpeg",NHK World
 https://b-nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459-b/nhkwlive-ojp/index_1M.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://avk-wellcom.ru/assets/24h-img/83ff27866428d26e9a1009c9955c0055.jpg",KBS WORLD
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
