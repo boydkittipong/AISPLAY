@@ -48,8 +48,8 @@ https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
 https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
 #EXTINF:-1 tvg-id="25" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png",GMM25
 https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="26" group-title="Cable TV" tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 1
-http://203.159.95.172:8081/live/action001/playlist.m3u8
+#EXTINF:-1 tvg-id="26" group-title="Cable TV" tvg-logo="https://licenceindia.s3.ap-south-1.amazonaws.com/s3fs-public/brandmay27licenseindia9335dde5d9c77e26.jpg",FashionTV
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 #EXTINF:-1 tvg-id="27" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/26/ebe998c5-7d25-402b-ab70-46f1ad6dcc4e.png",CH8
 https://freelive.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
 #EXTINF:-1 tvg-id="28" group-title="Cartoon" tvg-logo="http://thaiip.tv/tvlogo2/cartoonclub.png",CARTOON CLUB
@@ -74,18 +74,34 @@ https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 tvg-id="38" group-title="Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7XtuRD_5ZF2GTm8qZgNAXx8Dn8FuGFAeWaA&usqp=CAU",MVTV
 https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="39" group-title="Cable TV" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",Siam TV
-https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1 tvg-id="39" group-title="Cable TV" tvg-logo="https://f.ptcdn.info/741/071/000/qkd0885sqMBhQa1NxDw-o.jpg",Sun Movie
+http://61.19.242.134/feed/202105171329/LC1/index.m3u8
 #EXTINF:-1 tvg-id="40" group-title="Cable TV" tvg-logo="https://thaitvstream.com/streaming/gochannel/gochannel.png",GOLIVE
 https://live1.thaitvstream.com/play/gochannel/index.m3u8
-#EXTINF:-1 tvg-id="41" group-title="Cable TV" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png",Thainews
-https://live.thaitvstream.com/play/thainews/index.m3u8
+#EXTINF:-1 tvg-id="41" group-title="Cable TV" tvg-logo="https://maxtvs.net/admin/img/channel/ae0f306d2745018eeced.jpg",A3Bikini TV
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://doofreemovie88.com/public/upload/tv/nk-tv-nongkhai79.webp",NK TV Nongkhai
 https://live1.thaitvstream.com/play/nongkhaichannel/index.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 1
 http://203.159.95.172:8081/live/action001/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 2
 http://203.159.95.172:8081/live/banner003/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://image.winudf.com/v2/image1/Y29tLnNhbXVyYWl0di5zYW1ydXJhaXR2cGxheV9zY3JlZW5fMF8xNTUwNDI5MDA3XzAyOQ/screen-0.jpg?fakeurl=1&type=.jpg",Samurai
+http://61.19.242.134/feed/202105171329/LC2/index.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://tv.sritown.com/images/chlogo/box-film.png",Box Flim
+http://61.19.242.134/feed/202105171329/LC52/index.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://f.ptcdn.info/741/071/000/qkd0au4553rHw6R3s3sR-o.jpg",SANOOK
+http://61.19.242.134/feed/202105171329/LC53/index.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/240?cb=20170606050150",TRILL
+http://61.19.242.134/feed/202105171329/LC26/index.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://we-play.live/uploads/posters/-poster1602704746.jpeg",WARNER
+http://61.19.242.134/feed/202105171329/LC28/index.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://play-lh.googleusercontent.com/NNN2QTB5dMxjWqnVfsGHglCS-D_-s0869HI2zCIoRZqEt3fDys22e0verSIyW5ON67U",Sexy KpopTV
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://image.komkhaotuathai.com/uploads/images/contents/2020/07/2VX0hGW1NHe1k8ru_175213.jpg",Southern TV
+https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/chunks.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.inwiptv.com/postor/20211007195247%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%20HD.jpg",Farm TV
+https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="43" group-title="Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUtU8Td47J2kTGQW2dqzj6IHrqi_L_NHrXsA&usqp=CAU",MV Lao
 https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="44" group-title="Sports" tvg-logo="https://www.elboox.com/wp-content/uploads/2021/04/%D9%82%D9%86%D8%A7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg",Dubai Sports
