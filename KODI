@@ -178,9 +178,9 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="http://i.picasion.com/resize90/65f92203e0cd066cf7f654f34ef3a098.png",CBS NEWS
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-28-014942.jpg",CHANNEL NEWS ASIA
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg",CHANNEL NEWS ASIA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-061119.jpg",ALJAZEERA
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/03b196dbd29d42a38cf5ec661f993360.webp",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://apprecs.org/ios/images/app-icons/256/c0/922460096.jpg",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
