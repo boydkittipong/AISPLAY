@@ -92,36 +92,55 @@ https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/chunks.m3u8
 https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="48" group-title="Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUtU8Td47J2kTGQW2dqzj6IHrqi_L_NHrXsA&usqp=CAU",MV Lao
 https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="49" group-title="Sports" tvg-logo="https://www.elboox.com/wp-content/uploads/2021/04/%D9%82%D9%86%D8%A7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg",Dubai Sports
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="50" group-title="Sports" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport1.png",Dubai Sports1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
-#EXTINF:-1 tvg-id="51" group-title="Sports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAFzW2.jpg",Dubai Sports2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
-#EXTINF:-1 tvg-id="52" group-title="Sports" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png",Dubai Sports3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
-#EXTINF:-1 tvg-id="53" group-title="Sports" tvg-logo="https://www.elboox.com/wp-content/uploads/2021/04/%D9%82%D9%86%D8%A7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg",Dubai Sports4
-http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby
-#EXTINF:-1 tvg-id="54" group-title="Sports" tvg-logo="https://static.wixstatic.com/media/463348_e14dcab5932a4d339e991c4841aa2e11~mv2.png/v1/fill/w_1000,h_754,al_c,usm_0.66_1.00_0.01/463348_e14dcab5932a4d339e991c4841aa2e11~mv2.png",World of Freesports
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="55" group-title="Sports" tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png",RedBull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="56" group-title="Sports" tvg-logo="https://pbs.twimg.com/profile_images/567731683659489280/xm17tKS0_400x400.jpeg",Maroc SPORT
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="57" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT SPORTS 1
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="58" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT SPORTS 2
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="59" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT SPORTS 3
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="60" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT SPORTS 4
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="61" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT SPORTS 5
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="62" group-title="Sports" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568167382705_947.jpg",CCTV 5
-http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 tvg-id="63" group-title="Sports" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/12/16/1576480496280_505.jpg",CCTV 5 +
-http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-thaifilm.png",Thai Film (TH)
+https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-movie-hits.png",Movie Hits (TH)
+https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/film-hd.png",True Film 1 (TH)
+https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/hbo.png",HBO (English)
+https://streaming.livescorethai.net/iptv/hd-hboeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-movies-hd-premiere.png",Sky Movies Premiere
+https://streaming.livescorethai.net/iptv/uk-skypremiere.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Virgin_Media_One_logo.png/220px-Virgin_Media_One_logo.png",Virgin Media One(Ireland)
+https://streaming.livescorethai.net/iptv/ie-tv3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Virgin_Media_Two_logo.png/200px-Virgin_Media_Two_logo.png",Virgin Media Two(Ireland)
+https://streaming.livescorethai.net/iptv/ie-3e.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cbs-drama.png",CBS Drama (UK)
+https://streaming.livescorethai.net/iptv/uk-cbsdrama.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/universal-channel.png",Universal Channel (UK)
+https://streaming.livescorethai.net/iptv/uk-universal.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/comedy-central.png",Comedy Central (UK)
+https://streaming.livescorethai.net/iptv/uk-comedycentral.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-inside-hd-1.png",Inside (TH)
+https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lifetime.png",Lifetime (TH)
+https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-wild.png",True Explore Wild (TH)
+https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/h2-hd.png",H2 (TH)
+https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/history.png",H (TH)
+https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/afc-asian-food-channel.png",Asian Food Channel (TH)
+https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-earth.png",BBC Earth (TH)
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/asia-discovery.png",Discovery Asia (TH)
+https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/discovery-turbo.png",Discovery Turbo (UK)
+https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Cartoon" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/boomerang.png",Boomerang(TH)
+https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Cartoon" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cartoon-network.png",Cartoon Network (TH)
+https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Cartoon" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nickelodeon.png",Nickelodeon (EN)
+https://streaming.livescorethai.net/iptv/sd-nickelodeoneng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Cartoon" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nickjr.png",Nick Jr. (UK)
+https://streaming.livescorethai.net/iptv/uk-nickjr.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Cartoon" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cbeebies.png",Cbeebies (UK)
+https://streaming.livescorethai.net/iptv/uk-cbeebieshd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD1
 https://streaming.livescorethai.net/iptv/bsb-epl1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD2
@@ -132,6 +151,46 @@ https://streaming.livescorethai.net/iptv/bsb-epl3.stream/chunks.m3u8|User-Agent=
 https://streaming.livescorethai.net/iptv/bsb-epl4.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/True-Premier-Football-HD5.png",True Premier Football HD5
 https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport HD 1
+https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport HD 2
+https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport HD 3
+https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport 5
+https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport 7
+https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/premier-sports.png",Premier Sports (UK)
+https://streaming.livescorethai.net/iptv/uk-premiersports.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bundesliga.png",Sky Bundesliga (DE)
+https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-premier.png",Sky Sports Premier League (UK)
+https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-news.png",Sky Sports News (UK)
+https://streaming.livescorethai.net/iptv/uk-skysports-news.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-mix.png",Sky Sports Mix (UK)
+https://streaming.livescorethai.net/iptv/uk-skysports-mix.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-golf.png",Sky Sports Golf (UK)
+https://streaming.livescorethai.net/iptv/uk-skysports-golf.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-football-1.png",Sky Sports Football (UK)
+https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-atlantic-1.png",Sky Atlantic (UK)
+https://streaming.livescorethai.net/iptv/uk-skyatlantic.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-atlantic-1.png",Sky News (UK)
+https://streaming.livescorethai.net/iptv/uk-skynews.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mutv.png",MUTV (UK)
+https://streaming.livescorethai.net/iptv/uk-mutv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lfc-tv.png",Liverpool FC TV
+https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-tennis.png",True Tennis HD (TH)
+https://streaming.livescorethai.net/iptv/hd-tennis.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/golf-channel.png",Golf Channel Thailand (TH)
+https://streaming.livescorethai.net/iptv/hd-golf.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nba-tv.png",NBA TV (TH)
+https://streaming.livescorethai.net/iptv/hd-nba.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/golf.png",NBC Golf
+https://streaming.livescorethai.net/iptv/hd-golfeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png",uk-skysports-epl
 https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://e3.365dm.com/tvlogos/channels/3838-Logo.png",uk-skysports-football
@@ -178,6 +237,36 @@ https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/playlist.m3u8|User
 https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://media.cardplayer.com/assets/000/025/163/Main-WPT-Logo.jpg",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 tvg-id="49" group-title="Sports" tvg-logo="https://www.elboox.com/wp-content/uploads/2021/04/%D9%82%D9%86%D8%A7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg",Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="50" group-title="Sports" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport1.png",Dubai Sports1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
+#EXTINF:-1 tvg-id="51" group-title="Sports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAFzW2.jpg",Dubai Sports2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
+#EXTINF:-1 tvg-id="52" group-title="Sports" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png",Dubai Sports3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
+#EXTINF:-1 tvg-id="53" group-title="Sports" tvg-logo="https://www.elboox.com/wp-content/uploads/2021/04/%D9%82%D9%86%D8%A7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg",Dubai Sports4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby
+#EXTINF:-1 tvg-id="54" group-title="Sports" tvg-logo="https://static.wixstatic.com/media/463348_e14dcab5932a4d339e991c4841aa2e11~mv2.png/v1/fill/w_1000,h_754,al_c,usm_0.66_1.00_0.01/463348_e14dcab5932a4d339e991c4841aa2e11~mv2.png",World of Freesports
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="55" group-title="Sports" tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="56" group-title="Sports" tvg-logo="https://pbs.twimg.com/profile_images/567731683659489280/xm17tKS0_400x400.jpeg",Maroc SPORT
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-id="57" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT SPORTS 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="58" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT SPORTS 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="59" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT SPORTS 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="60" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT SPORTS 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="61" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT SPORTS 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="62" group-title="Sports" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568167382705_947.jpg",CCTV 5
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-id="63" group-title="Sports" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/12/16/1576480496280_505.jpg",CCTV 5 +
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="http://i.picasion.com/resize90/71c8e173bd1af2df31eaae8a0b7e73c2.png",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="http://i.picasion.com/resize90/a423e4e6b140d137b29889f4d74b1ba2.png",FOX NEWS
@@ -196,91 +285,4 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://we-play.live/uploads/posters/nhk-world-poster1602706359.jpeg",NHK World
 https://b-nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459-b/nhkwlive-ojp/index_1M.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-thaifilm.png",Thai Film (TH)
-https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-movie-hits.png",Movie Hits (TH)
-https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/film-hd.png",True Film 1 (TH)
-https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/hbo.png",HBO (English)
-https://streaming.livescorethai.net/iptv/hd-hboeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-movies-hd-premiere.png",Sky Movies Premiere
-https://streaming.livescorethai.net/iptv/uk-skypremiere.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Virgin_Media_One_logo.png/220px-Virgin_Media_One_logo.png",Virgin Media One(Ireland)
-https://streaming.livescorethai.net/iptv/ie-tv3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Virgin_Media_Two_logo.png/200px-Virgin_Media_Two_logo.png",Virgin Media Two(Ireland)
-https://streaming.livescorethai.net/iptv/ie-3e.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cbs-drama.png",CBS Drama (UK)
-https://streaming.livescorethai.net/iptv/uk-cbsdrama.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/universal-channel.png",Universal Channel (UK)
-https://streaming.livescorethai.net/iptv/uk-universal.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/comedy-central.png",Comedy Central (UK)
-https://streaming.livescorethai.net/iptv/uk-comedycentral.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport HD 1
-https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport HD 2
-https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport HD 3
-https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport 5
-https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport 7
-https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/premier-sports.png",Premier Sports (UK)
-https://streaming.livescorethai.net/iptv/uk-premiersports.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bundesliga.png",Sky Bundesliga (DE)
-https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-premier.png",Sky Sports Premier League (UK)
-https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-news.png",Sky Sports News (UK)
-https://streaming.livescorethai.net/iptv/uk-skysports-news.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-mix.png",Sky Sports Mix (UK)
-https://streaming.livescorethai.net/iptv/uk-skysports-mix.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-golf.png",Sky Sports Golf (UK)
-https://streaming.livescorethai.net/iptv/uk-skysports-golf.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-football-1.png",Sky Sports Football (UK)
-https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-atlantic-1.png",Sky Atlantic (UK)
-https://streaming.livescorethai.net/iptv/uk-skyatlantic.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-atlantic-1.png",Sky News (UK)
-https://streaming.livescorethai.net/iptv/uk-skynews.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mutv.png",MUTV (UK)
-https://streaming.livescorethai.net/iptv/uk-mutv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lfc-tv.png",Liverpool FC TV
-https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-tennis.png",True Tennis HD (TH)
-https://streaming.livescorethai.net/iptv/hd-tennis.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/golf-channel.png",Golf Channel Thailand (TH)
-https://streaming.livescorethai.net/iptv/hd-golf.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nba-tv.png",NBA TV (TH)
-https://streaming.livescorethai.net/iptv/hd-nba.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/golf.png",NBC Golf
-https://streaming.livescorethai.net/iptv/hd-golfeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-inside-hd-1.png",Inside (TH)
-https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lifetime.png",Lifetime (TH)
-https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-wild.png",True Explore Wild (TH)
-https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/h2-hd.png",H2 (TH)
-https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/history.png",H (TH)
-https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/afc-asian-food-channel.png",Asian Food Channel (TH)
-https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-earth.png",BBC Earth (TH)
-https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/asia-discovery.png",Discovery Asia (TH)
-https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/discovery-turbo.png",Discovery Turbo (UK)
-https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Cartoon" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/boomerang.png",Boomerang(TH)
-https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Cartoon" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cartoon-network.png",Cartoon Network (TH)
-https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Cartoon" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nickelodeon.png",Nickelodeon (EN)
-https://streaming.livescorethai.net/iptv/sd-nickelodeoneng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Cartoon" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nickjr.png",Nick Jr. (UK)
-https://streaming.livescorethai.net/iptv/uk-nickjr.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Cartoon" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cbeebies.png",Cbeebies (UK)
-https://streaming.livescorethai.net/iptv/uk-cbeebieshd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+
