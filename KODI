@@ -78,17 +78,17 @@ https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunks.m3u8
 https://live1.thaitvstream.com/play/gochannel/index.m3u8
 #EXTINF:-1 tvg-id="41" group-title="Cable TV" tvg-logo="https://maxtvs.net/admin/img/channel/ae0f306d2745018eeced.jpg",A3Bikini TV
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://doofreemovie88.com/public/upload/tv/nk-tv-nongkhai79.webp",NK TV Nongkhai
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://doofreemovie88.com/public/upload/tv/nk-tv-nongkhai79.webp",NK TV Nongkhai
 https://live1.thaitvstream.com/play/nongkhaichannel/index.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 1
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 1
 http://203.159.95.172:8081/live/action001/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 2
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 2
 http://203.159.95.172:8081/live/banner003/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://play-lh.googleusercontent.com/NNN2QTB5dMxjWqnVfsGHglCS-D_-s0869HI2zCIoRZqEt3fDys22e0verSIyW5ON67U",Sexy KpopTV
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://image.komkhaotuathai.com/uploads/images/contents/2020/07/2VX0hGW1NHe1k8ru_175213.jpg",Southern TV
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment"tvg-logo="https://image.komkhaotuathai.com/uploads/images/contents/2020/07/2VX0hGW1NHe1k8ru_175213.jpg",Southern TV
 https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/chunks.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.inwiptv.com/postor/20211007195247%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%20HD.jpg",Farm TV
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment"tvg-logo="https://www.inwiptv.com/postor/20211007195247%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%20HD.jpg",Farm TV
 https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="43" group-title="Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUtU8Td47J2kTGQW2dqzj6IHrqi_L_NHrXsA&usqp=CAU",MV Lao
 https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist.m3u8
@@ -122,61 +122,61 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="56" group-title="Sports" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/12/16/1576480496280_505.jpg",CCTV 5 +
 http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD1
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD1
 https://streaming.livescorethai.net/iptv/bsb-epl1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD2
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD2
 https://streaming.livescorethai.net/iptv/bsb-epl2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD3
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD3
 https://streaming.livescorethai.net/iptv/bsb-epl3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD4
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD4
 https://streaming.livescorethai.net/iptv/bsb-epl4.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/True-Premier-Football-HD5.png",True Premier Football HD5
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/True-Premier-Football-HD5.png",True Premier Football HD5
 https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png",uk-skysports-epl
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png",uk-skysports-epl
 https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://e3.365dm.com/tvlogos/channels/3838-Logo.png",uk-skysports-football
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://e3.365dm.com/tvlogos/channels/3838-Logo.png",uk-skysports-football
 https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://e3.365dm.com/tvlogos/channels/4002-Logo.png",uk-skysports-mainevent
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://e3.365dm.com/tvlogos/channels/4002-Logo.png",uk-skysports-mainevent
 https://streaming.livescorethai.net/iptv/uk-skysports-mainevent.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://e3.365dm.com/tvlogos/channels/3838-Logo.png",uk-skysports-mainevent
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://e3.365dm.com/tvlogos/channels/3838-Logo.png",uk-skysports-mainevent
 https://streaming.livescorethai.net/iptv/uk-skysports-mainevent.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://topnet.ma/site/uploads/2021/Nov/08/BT%20Sport%201%20HD.jpg",UK-BTsport1hd
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://topnet.ma/site/uploads/2021/Nov/08/BT%20Sport%201%20HD.jpg",UK-BTsport1hd
 https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/channel/f1f95a63-3ee4-5fd8-b25e-c2003f571c31.png",UK-BTsport3hd
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/channel/f1f95a63-3ee4-5fd8-b25e-c2003f571c31.png",UK-BTsport3hd
 https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://api-soccer.iamtheme.com/images/tv/f1J22pVOYOIf5qw6fFZakLx9stJTKJla1167.png",Beinsport 2 EN
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://api-soccer.iamtheme.com/images/tv/f1J22pVOYOIf5qw6fFZakLx9stJTKJla1167.png",Beinsport 2 EN
 https://streaming.livescorethai.net/iptv/hd-bein2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210617-091522-tv-station_Thai-BeIN-Sports-1.png",Beinsport 1 TH
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210617-091522-tv-station_Thai-BeIN-Sports-1.png",Beinsport 1 TH
 https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-2-1078.png",Beinsport 2 TH
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-2-1078.png",Beinsport 2 TH
 https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://api-soccer.iamtheme.com/images/tv/dhYruZGT8FK0IhTPasplhSjV1hh1EqVtv-station-th-bein-sports-3-1079.png",Beinsport 3 TH
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://api-soccer.iamtheme.com/images/tv/dhYruZGT8FK0IhTPasplhSjV1hh1EqVtv-station-th-bein-sports-3-1079.png",Beinsport 3 TH
 https://streaming.livescorethai.net/iptv/epl-bein3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/beinsports1.png.webp",Beinsport1 v5
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/beinsports1.png.webp",Beinsport1 v5
 https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/beinsport2-300x73.png.webp",Beinsport2 v5
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/beinsport2-300x73.png.webp",Beinsport2 v5
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",Bein 2
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",Bein 2
 https://streaming.livescorethai.net/iptv/hd-bein2.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://moviesland.eu/uploads/cache/channel_thumb/uploads/png/2e32c99c85bf472682f81edfb24a104c.png",Bein 5
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://moviesland.eu/uploads/cache/channel_thumb/uploads/png/2e32c99c85bf472682f81edfb24a104c.png",Bein 5
 https://streaming.livescorethai.net/iptv/hd-bein5.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://moviesland.eu/uploads/cache/channel_thumb/uploads/png/e88204f89c0759d2c77e5e0c57856a08.png",Bein 6
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://moviesland.eu/uploads/cache/channel_thumb/uploads/png/e88204f89c0759d2c77e5e0c57856a08.png",Bein 6
 https://streaming.livescorethai.net/iptv/hd-bein6.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F207%2Fbein-sports-hd-1.png",Bein 7
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F207%2Fbein-sports-hd-1.png",Bein 7
 https://streaming.livescorethai.net/iptv/hd-bein7.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static.epg.best/qa/beINSports8.qa.png",Bein 8
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://static.epg.best/qa/beINSports8.qa.png",Bein 8
 https://streaming.livescorethai.net/iptv/hd-bein8.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/42/64/42/42644282ab24398b2823477e8165b9b3.png",Bein 9
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://i.pinimg.com/originals/42/64/42/42644282ab24398b2823477e8165b9b3.png",Bein 9
 https://streaming.livescorethai.net/iptv/hd-bein9.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i0.wp.com/moonstar.tv/wp-content/uploads/2020/02/5dfccbae7152d80ff8c56e49.jpg?fit=750%2C422&ssl=1",Bein 10
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://i0.wp.com/moonstar.tv/wp-content/uploads/2020/02/5dfccbae7152d80ff8c56e49.jpg?fit=750%2C422&ssl=1",Bein 10
 https://streaming.livescorethai.net/iptv/hd-bein10.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/bt-sport-1.png.webp",BTSport 1 s2
+#EXTINF:-1 vgroup-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/bt-sport-1.png.webp",BTSport 1 s2
 https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/bt-sport2.png.webp",BTSport 2 s1
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/bt-sport2.png.webp",BTSport 2 s1
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://media.cardplayer.com/assets/000/025/163/Main-WPT-Logo.jpg",World Poker Tour
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://media.cardplayer.com/assets/000/025/163/Main-WPT-Logo.jpg",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="http://i.picasion.com/resize90/71c8e173bd1af2df31eaae8a0b7e73c2.png",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
