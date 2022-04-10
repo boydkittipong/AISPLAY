@@ -117,6 +117,7 @@ https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8|User-Agent=
 https://streaming.livescorethai.net/iptv/hd-hboeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-movies-hd-premiere.png",Sky Movies Premiere
 https://streaming.livescorethai.net/iptv/uk-skypremiere.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Virgin_Media_One_logo.png/220px-Virgin_Media_One_logo.png",Virgin Media One(Ireland)
 https://streaming.livescorethai.net/iptv/ie-tv3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Virgin_Media_Two_logo.png/200px-Virgin_Media_Two_logo.png",Virgin Media Two(Ireland)
@@ -127,6 +128,7 @@ https://streaming.livescorethai.net/iptv/uk-cbsdrama.stream/chunks.m3u8|User-Age
 https://streaming.livescorethai.net/iptv/uk-universal.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/comedy-central.png",Comedy Central (UK)
 https://streaming.livescorethai.net/iptv/uk-comedycentral.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-inside-hd-1.png",Inside (TH)
 https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lifetime.png",Lifetime (TH)
@@ -183,7 +185,7 @@ https://streaming.livescorethai.net/iptv/uk-skysports-golf.stream/chunks.m3u8|Us
 https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-atlantic-1.png",Sky Atlantic (UK)
 https://streaming.livescorethai.net/iptv/uk-skyatlantic.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-atlantic-1.png",Sky News (UK)
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-news.png",Sky News (UK)
 https://streaming.livescorethai.net/iptv/uk-skynews.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mutv.png",MUTV (UK)
 https://streaming.livescorethai.net/iptv/uk-mutv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
@@ -273,10 +275,6 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="63" group-title="Sports" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/12/16/1576480496280_505.jpg",CCTV 5 +
 http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="General" tvg-logo="https://i.postimg.cc/K8mr7tpS/5-1.png",KBS World
-http://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="General" tvg-logo="https://i.postimg.cc/rmRSyjsW/Arirang-logo.png",Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="http://i.picasion.com/resize90/71c8e173bd1af2df31eaae8a0b7e73c2.png",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="http://i.picasion.com/resize90/a423e4e6b140d137b29889f4d74b1ba2.png",FOX NEWS
