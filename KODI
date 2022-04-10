@@ -220,9 +220,6 @@ https://streaming.livescorethai.net/iptv/uk-cbsdrama.stream/chunks.m3u8|User-Age
 https://streaming.livescorethai.net/iptv/uk-universal.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/comedy-central.png",Comedy Central (UK)
 https://streaming.livescorethai.net/iptv/uk-comedycentral.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-
-
-
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport HD 1
 https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png",True Sport HD 2
@@ -251,8 +248,6 @@ https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/chunks.m3u
 https://streaming.livescorethai.net/iptv/uk-skyatlantic.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-atlantic-1.png",Sky News (UK)
 https://streaming.livescorethai.net/iptv/uk-skynews.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-
-
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mutv.png",MUTV (UK)
 https://streaming.livescorethai.net/iptv/uk-mutv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lfc-tv.png",Liverpool FC TV
@@ -265,9 +260,6 @@ https://streaming.livescorethai.net/iptv/hd-golf.stream/chunks.m3u8|User-Agent=e
 https://streaming.livescorethai.net/iptv/hd-nba.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/golf.png",NBC Golf
 https://streaming.livescorethai.net/iptv/hd-golfeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-
-
-
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-inside-hd-1.png",Inside (TH)
 https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lifetime.png",Lifetime (TH)
@@ -286,8 +278,6 @@ https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|User-Age
 https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/discovery-turbo.png",Discovery Turbo (UK)
 https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-
-
 #EXTINF:-1  tvg-id="N/A" group-title="Cartoon" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/boomerang.png",Boomerang(TH)
 https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Cartoon" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cartoon-network.png",Cartoon Network (TH)
