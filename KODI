@@ -89,14 +89,14 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/c
 https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Cartoon" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cartoon-network.png",Cartoon Network (TH)
 https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 group-title="KidsTV"tvg-logo="https://www.img.in.th/images/52787280db33f47616d06400c93ef6db.jpg",TOONEE
+http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Cartoon" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nickelodeon.png",Nickelodeon (EN)
 https://streaming.livescorethai.net/iptv/sd-nickelodeoneng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Cartoon" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nickjr.png",Nick Jr. (UK)
 https://streaming.livescorethai.net/iptv/uk-nickjr.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Cartoon" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cbeebies.png",Cbeebies (UK)
 https://streaming.livescorethai.net/iptv/uk-cbeebieshd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://www.img.in.th/images/52787280db33f47616d06400c93ef6db.jpg",TOONEE
-http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
 #EXTINF:-1 group-title="KidsTV"tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_contv_anime_1.png",CONTV Anime
 https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
 #EXTINF:-1 group-title="KidsTV"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1200px-PBS_Kids_Logo.svg.png",PBS Kids
