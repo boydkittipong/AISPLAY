@@ -256,8 +256,17 @@ https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/playlist.m3u8|User
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/bt-sport2.png.webp",BTSport 2 s1
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://media.cardplayer.com/assets/000/025/163/Main-WPT-Logo.jpg",World Poker Tour
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
+https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="SPORTS", Astro Sport 1
+https://www.mireasa-live.com/cdn/premium123/chunks.m3u8|Referer=https://player.licenses4.me
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="SPORTS", Astro Sport 3
+https://www.mireasa-live.com/cdn/premium125/chunks.m3u8|Referer=https://player.licenses4.me
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://pokerindustrypro.com/site_media/media/uploads/news/wpt-2022-new-logo.jpg",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/cpmepvrs/laliga-1.png?width=500" group-title="Sports",  LALIGA
 http://mytv.fun/live/828ek2bb7g/padet80m3v/683001.m3u8
