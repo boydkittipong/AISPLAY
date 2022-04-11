@@ -175,7 +175,7 @@ https://streaming.livescorethai.net/iptv/hd-tennis.stream/chunks.m3u8|User-Agent
 https://streaming.livescorethai.net/iptv/hd-golf.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nba-tv.png",NBA TV (TH)
 https://streaming.livescorethai.net/iptv/hd-nba.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602703707",Beinsport 1 TH
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602703707.png",Beinsport 1 TH
 https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602703712.png",Beinsport 2 TH
 https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
@@ -247,40 +247,36 @@ https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/playlist.m3u8|User
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://media.cardplayer.com/assets/000/025/163/Main-WPT-Logo.jpg",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/06/16/st1HuW.png" group-title="Sports",  LALIGA
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/cpmepvrs/laliga-1.png?width=500" group-title="Sports",  LALIGA
 http://mytv.fun/live/828ek2bb7g/padet80m3v/683001.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bznKEb.png" group-title="Sports",  CRICKET
-http://mytv.fun/live/828ek2bb7g/padet80m3v/688714.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bznZXf.png" group-title="Sports",  PSL
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/o1qmay0z/psl-1.png?width=500" group-title="Sports",  PSL
 http://mytv.fun/live/828ek2bb7g/padet80m3v/678030.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/11/07/bjc068.jpg" group-title="Sports",  PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/yvuloxza/premier-league-1.png?width=500" group-title="Sports",  PREMIER LEAGUE
 http://mytv.fun/live/828ek2bb7g/padet80m3v/678029.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bzr7dz.png" group-title="Sports",  GRANDSTAND
-http://mytv.fun/live/828ek2bb7g/padet80m3v/678031.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bzrYPR.png" group-title="Sports",  VARIETY2  
-http://mytv.fun/live/828ek2bb7g/padet80m3v/678021.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bzrryR.png" group-title="Sports",  ACTION
-http://mytv.fun/live/828ek2bb7g/padet80m3v/683568.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bzrHT0.png" group-title="Sports",  VARITY1
-http://mytv.fun/live/828ek2bb7g/padet80m3v/678020.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bzrpNI.png" group-title="Sports",  FOOTBALL
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=500" group-title="Sports",  FOOTBALL
 http://mytv.fun/live/828ek2bb7g/padet80m3v/678024.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/20/bzvvLz.png" group-title="Sports",  RUGBY
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/l0xffoec/grandstand-1.png?width=500", group-title="Sports",  GRANDSTAND
+http://mytv.fun/live/828ek2bb7g/padet80m3v/678031.m3u8
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/krybzs0y/action-1.png?width=500" group-title="Sports",  ACTION
+http://mytv.fun/live/828ek2bb7g/padet80m3v/683568.m3u8
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/t2knfhmd/cricket-8.png?width=500" group-title="Sports",  CRICKET
+http://mytv.fun/live/828ek2bb7g/padet80m3v/688714.m3u8
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/ngeluwwy/rugby-5.png?width=500" group-title="Sports",  RUGBY
 http://mytv.fun/live/828ek2bb7g/padet80m3v/678026.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bzrITE.png" group-title="Sports",  GOLF 
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/3q3luzsn/golf-7.png?width=500" group-title="Sports",  GOLF 
 http://mytv.fun/live/828ek2bb7g/padet80m3v/678028.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bzrMlN.png" group-title="Sports",  MOTORSPORT
-http://mytv.fun/live/828ek2bb7g/padet80m3v/6780245.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/20/bzXWG0.png" group-title="Sports",  BLITZ  
-http://mytv.fun/live/828ek2bb7g/padet80m3v/682921.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bzVKm8.png" group-title="Sports",  MAXIMO1
-http://mytv.fun/live/828ek2bb7g/padet80m3v/682919.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/20/bzVn2W.png" group-title="Sports",  VRAITY4
-http://mytv.fun/live/828ek2bb7g/padet80m3v/678023.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/20/bzVG8b.png" group-title="Sports", TENNIS
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/3tgfanwj/tennis.png?width=500" group-title="Sports", TENNIS
 http://mytv.fun/live/828ek2bb7g/padet80m3v/678027.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/11/30/jf4huW.png" group-title="Sports",  VRAITY3
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/kuqlfro4/variety-1-1.png?width=500" group-title="Sports",  VARITY1
+http://mytv.fun/live/828ek2bb7g/padet80m3v/678020.m3u8
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/u5njoe0e/variety-2-1.png?width=500" group-title="Sports",  VARIETY2  
+http://mytv.fun/live/828ek2bb7g/padet80m3v/678021.m3u8
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/agensyws/variety-3-1.png?width=500" group-title="Sports",  VRAITY3
 http://mytv.fun/live/828ek2bb7g/padet80m3v/678022.m3u8
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/wq1enpv2/variety-4-1.png?width=500" group-title="Sports",  VRAITY4
+http://mytv.fun/live/828ek2bb7g/padet80m3v/678023.m3u8
+
+
 
 #EXTINF:-1 tvg-id="49" group-title="Sports" tvg-logo="https://www.elboox.com/wp-content/uploads/2021/04/%D9%82%D9%86%D8%A7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg",Dubai Sports
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
