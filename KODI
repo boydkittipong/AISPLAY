@@ -117,6 +117,11 @@ https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8|User-Agent=
 https://streaming.livescorethai.net/iptv/hd-hboeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-movies-hd-premiere.png",Sky Movies Premiere
 https://streaming.livescorethai.net/iptv/uk-skypremiere.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/comedy-central.png",Comedy Central (UK)
+https://streaming.livescorethai.net/iptv/uk-comedycentral.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://we-play.live/uploads/posters/true-chinese-more-poster.jpg",True Chinese More (TH)
+https://smart-tv.livedoomovies.com:4431/02_FoxMoviesTH_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+
 
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Virgin_Media_One_logo.png/220px-Virgin_Media_One_logo.png",Virgin Media One(Ireland)
 https://streaming.livescorethai.net/iptv/ie-tv3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
@@ -149,6 +154,9 @@ https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8|User-Ag
 https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_320.png",T Sports Channel
+https://smart-tv.livedoomovies.com:4431/02_T_Sports_480p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704118.jpeg",True Sport 1
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD1
 https://streaming.livescorethai.net/iptv/bsb-epl1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD2
@@ -181,6 +189,11 @@ https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8|User-Agent
 https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png",Beinsport 3 TH
 https://streaming.livescorethai.net/iptv/epl-bein3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-spotv1.png",SPOTV1
+https://smart-tv.livedoomovies.com:4431/02_foxsport_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-spotv2.png",SPOTV2
+https://smart-tv.livedoomovies.com:4431/02_FoxSport2_TH_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+
 
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/premier-sports.png",Premier Sports (UK)
 https://streaming.livescorethai.net/iptv/uk-premiersports.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
