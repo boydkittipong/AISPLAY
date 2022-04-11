@@ -80,9 +80,11 @@ https://live1.thaitvstream.com/play/nongkhaichannel/index.m3u8
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Entertainment"tvg-logo="https://play-lh.googleusercontent.com/NNN2QTB5dMxjWqnVfsGHglCS-D_-s0869HI2zCIoRZqEt3fDys22e0verSIyW5ON67U",Sexy KpopTV
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://licenceindia.s3.ap-south-1.amazonaws.com/s3fs-public/brandmay27licenseindia9335dde5d9c77e26.jpg",FashionTV
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://doofreemovie88.com/public/upload/tv/fashiontv65.webp",FashionTV
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 
+#EXTINF:-1 tvg-id="N/A" group-title="Cartoon" tvg-logo="http://thaiip.tv/tvlogo2/cartoonclub.png",CartoonClub (TH)
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Cartoon" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/boomerang.png",Boomerang(TH)
 https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Cartoon" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cartoon-network.png",Cartoon Network (TH)
@@ -93,18 +95,22 @@ https://streaming.livescorethai.net/iptv/sd-nickelodeoneng.stream/chunks.m3u8|Us
 https://streaming.livescorethai.net/iptv/uk-nickjr.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Cartoon" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cbeebies.png",Cbeebies (UK)
 https://streaming.livescorethai.net/iptv/uk-cbeebieshd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-id="N/A" group-title="Cartoon" tvg-logo="http://thaiip.tv/tvlogo2/cartoonclub.png",CartoonClub (TH)
-http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="21" group-title="Cartoon" tvg-logo="https://sv1.picz.in.th/images/2021/11/28/6KXLJW.jpg",FWTOON
+#EXTINF:-1 group-title="KidsTV"tvg-logo="https://www.img.in.th/images/52787280db33f47616d06400c93ef6db.jpg",TOONEE
+http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
+#EXTINF:-1 group-title="KidsTV"tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_contv_anime_1.png",CONTV Anime
+https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
+#EXTINF:-1 group-title="KidsTV"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1200px-PBS_Kids_Logo.svg.png",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="21" group-title="Cartoon" tvg-logo="https://doofreemovie88.com/public/upload/cover/fwtoon61.webp",FWTOON
 https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://sv1.picz.in.th/images/2021/11/12/ueNbxy.jpg",FWMOV
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://doofreemovie88.com/public/upload/tv/fwmov53.webp",FWMOV
 http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://sv1.picz.in.th/images/2021/11/12/ueNod9.jpg",FWSOV
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://doofreemovie88.com/public/upload/tv/fwson70.webp",FWSOV
 http://freelive.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="Movie"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 1
+#EXTINF:-1 tvg-id="N/A" group-title="Movie"tvg-logo="https://fusovideoarte.com/2021/wp-content/uploads/2021/08/Sobre.jpg",FusoMOV 1
 http://203.159.95.172:8081/live/action001/playlist.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="Movie"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 2
+#EXTINF:-1 tvg-id="N/A" group-title="Movie"tvg-logo="https://fusovideoarte.com/2021/wp-content/uploads/2021/08/Sobre.jpg",FusoMOV 2
 http://203.159.95.172:8081/live/banner003/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-thaifilm.png",Thai Film (TH)
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
@@ -323,8 +329,6 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg",CHANNEL NEWS ASIA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cna.png",CHANNEL NEWS ASIA
-https://streaming.livescorethai.net/iptv/sd-channelnewsasia.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/aljazeera.png",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://apprecs.org/ios/images/app-icons/256/c0/922460096.jpg",CGTN
