@@ -1,24 +1,3 @@
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-foxpremium.png" group-title="MOVIES", Fox Movies Premium
-https://smart-tv.livedoomovies.com:4431/02_FoxMoviesTH_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-foxpremium.png" group-title="MOVIES", T Sports Channel
-https://smart-tv.livedoomovies.com:4431/02_T_Sports_480p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-foxpremium.png" group-title="MOVIES", SPOTV1
-https://smart-tv.livedoomovies.com:4431/02_foxsport_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-foxpremium.png" group-title="MOVIES", SPOTV2
-https://smart-tv.livedoomovies.com:4431/02_FoxSport2_TH_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
-
 #EXTINF:-1 tvg-id="1" group-title="News" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/NEWS1.png",NEWS1
 https://server1.streamssl.com/stream/news1_hi.m3u8
 #EXTINF:-1 tvg-id="2" group-title="Digital TV" tvg-logo="https://we-play.live/uploads/posters/11-nbt-poster1603940103.jpeg",NBT 2
@@ -175,8 +154,7 @@ https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8|User-Ag
 https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 
-#EXTINF:-1  tvg-id="Erz.mnctv" group-title="Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_320.png",T Sports Channel
-https://smart-tv.livedoomovies.com:4431/02_T_Sports_480p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704118.jpeg",True Sport 1
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD1
 https://streaming.livescorethai.net/iptv/bsb-epl1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
@@ -210,10 +188,7 @@ https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8|User-Agent
 https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png",Beinsport 3 TH
 https://streaming.livescorethai.net/iptv/epl-bein3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-id="Erz.mnctv" group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-spotv1.png",SPOTV1
-https://smart-tv.livedoomovies.com:4431/02_foxsport_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
-#EXTINF:-1 tvg-id="Erz.mnctv" group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-spotv2.png",SPOTV2
-https://smart-tv.livedoomovies.com:4431/02_FoxSport2_TH_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+
 
 
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/premier-sports.png",Premier Sports (UK)
