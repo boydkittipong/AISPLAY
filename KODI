@@ -82,6 +82,15 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_3
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://doofreemovie88.com/public/upload/tv/fashiontv65.webp",FashionTV
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://doofreemovie88.com/public/upload/tv/fashiontv65.webp",Fashion TV International
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://photos.live-tv-channels.org/tv-logo/runway-tv-5561.jpg",Runway TV
+https://vse2-as-all57.secdn.net/runway-origin/live/runway/chunklist_sess128748071.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://luxpro.mc/wp-content/uploads/2019/03/wfc.jpg",World Fashion
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_sdmid.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://photos.live-tv-channels.org/tv-logo/hu-fishing-hunting-channel-8171-300x225.jpg",Fishing Offshore
+https://30a-tv.com/feeds/720p/40.m3u8
+
 
 #EXTINF:-1 tvg-id="N/A" group-title="Cartoon" tvg-logo="http://thaiip.tv/tvlogo2/cartoonclub.png",CartoonClub (TH)
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
@@ -300,7 +309,7 @@ http://mytv.fun/live/828ek2bb7g/padet80m3v/678023.m3u8
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="50" group-title="Sports" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport1.png",Dubai Sports1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
-#EXTINF:-1 tvg-id="51" group-title="Sports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAFzW2.jpg",Dubai Sports2
+#EXTINF:-1 tvg-id="51" group-title="Sports" tvg-logo="https://maxtvs.net/admin/img/channel/4ab44c25cec811de74c0.jpg",Dubai Sports2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
 #EXTINF:-1 tvg-id="52" group-title="Sports" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png",Dubai Sports3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
@@ -344,7 +353,7 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 group-title="News"tvg-logo="http://www.isv.net/logos/arirangtv.png",Arirang (KR) 
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="News"tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CApg0D.jpg",DW EN
+#EXTINF:-1 group-title="News"tvg-logo="https://s3.spbtv.com/spbtv-world-production/50577931455a0d496a75.png",DW EN
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="News"tvg-logo="https://www.img01.xyz/assets/img/ch_logo/RT_TV.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
