@@ -286,20 +286,6 @@ http://mytv.fun/live/828ek2bb7g/padet80m3v/678022.m3u8
 http://mytv.fun/live/828ek2bb7g/padet80m3v/678023.m3u8
 
 
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",ASSP-A
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/155
-#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-A" tvg-logo="https://i.ibb.co/M27hPW9/JHDET.png" group-title="SPORTS",ASSP2-A
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/156
-#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-A" tvg-logo="https://i.ibb.co/3yqCpYV/gkg.png" group-title="SPORTS",ASSP3-A
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/157
-#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-A" tvg-logo="https://i.ibb.co/Qct3SqW/s4.png" group-title="SPORTS",ASSP4-A
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/158
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="https://i.ibb.co/CMrDP1P/S1.png" group-title="SPORTS",Sport TV 1
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/176
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2" tvg-logo="https://i.ibb.co/8Xvt9qy/S2.png" group-title="SPORTS",Sport TV 2
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/177
-
-
 #EXTINF:-1 tvg-id="49" group-title="Sports" tvg-logo="https://www.elboox.com/wp-content/uploads/2021/04/%D9%82%D9%86%D8%A7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg",Dubai Sports
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="50" group-title="Sports" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport1.png",Dubai Sports1
