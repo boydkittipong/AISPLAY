@@ -362,6 +362,13 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 group-title="News"tvg-logo="https://payload.cargocollective.com/1/4/146919/13926257/V_BoxedBlackBorder_569.png",ABC NewsLive
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
+
+#EXTINF:-1 tvg-id="5f5bd7fb15c9a300077ee52a" tvg-chno="818" tvg-logo="https://images.pluto.tv/channels/5f5bd7fb15c9a300077ee52a/colorLogoPNG.png" group-title="Sports",Gameplay: Sports
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5bd7fb15c9a300077ee52a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5f5bd666c0a7600007af6c20" tvg-chno="819" tvg-logo="https://images.pluto.tv/channels/5f5bd666c0a7600007af6c20/colorLogoPNG.png" group-title="Sports",Gameplay: Call of Duty
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5bd666c0a7600007af6c20/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
 #EXTINF:-1 group-title="CableTV"tvg-logo="https://thaitvstream.com/streaming/srtvonline/srtvonline.png",SurutTv
 https://live1.thaitvstream.com/play/srtvonline/index.m3u8
 #EXTINF:-1 group-title="CableTV"tvg-logo="https://thaitvstream.com/streaming/aetv/aetv.png",AETV
@@ -402,8 +409,35 @@ https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
 https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="5f5bd7fb15c9a300077ee52a" tvg-chno="818" tvg-logo="https://images.pluto.tv/channels/5f5bd7fb15c9a300077ee52a/colorLogoPNG.png" group-title="Sports",Gameplay: Sports
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5bd7fb15c9a300077ee52a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5f5bd666c0a7600007af6c20" tvg-chno="819" tvg-logo="https://images.pluto.tv/channels/5f5bd666c0a7600007af6c20/colorLogoPNG.png" group-title="Sports",Gameplay: Call of Duty
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5bd666c0a7600007af6c20/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
+#EXTINF:-1, tvg-logo="https://dltv.ac.th/upload/data/channels/01_channel_logo.png" tvg-name="DLTV1 ประถมศึกษาปีที่ 1"  group-title="Education",DLTV1 ประถมศึกษาปีที่ 1
+https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
+#EXTINF:-1, tvg-logo="https://dltv.ac.th/upload/data/channels/02_channel_logo.png" tvg-name="DLTV2 ประถมศึกษาปีที่ 2"  group-title="Education",DLTV2 ประถมศึกษาปีที่ 2
+https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
+#EXTINF:-1, tvg-logo="https://dltv.ac.th/upload/data/channels/03_channel_logo.png" tvg-name="DLTV3 ประถมศึกษาปีที่ 3"  group-title="Education",DLTV3 ประถมศึกษาปีที่ 3
+https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
+#EXTINF:-1, tvg-logo="https://dltv.ac.th/upload/data/channels/04_channel_logo.png" tvg-name="DLTV4 ประถมศึกษาปีที่ 4"  group-title="Education",DLTV4 ประถมศึกษาปีที่ 4
+https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
+#EXTINF:-1, tvg-logo="https://dltv.ac.th/upload/data/channels/05_channel_logo.png" tvg-name="DLTV5 ประถมศึกษาปีที่ 5"  group-title="Education",DLTV5 ประถมศึกษาปีที่ 5
+https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
+#EXTINF:-1, tvg-logo="https://dltv.ac.th/upload/data/channels/06_channel_logo.png" tvg-name="DLTV6 ประถมศึกษาปีที่ 6"  group-title="Education",DLTV6 ประถมศึกษาปีที่ 6
+https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
+#EXTINF:-1, tvg-logo="https://dltv.ac.th/upload/data/channels/07_channel_logo.png" tvg-name="DLTV7 มัธยมศึกษาปีที่ 1"  group-title="Education",DLTV7 มัธยมศึกษาปีที่ 1
+https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
+#EXTINF:-1, tvg-logo="https://dltv.ac.th/upload/data/channels/08_channel_logo.png" tvg-name="DLTV8 มัธยมศึกษาปีที่ 2"  group-title="Education",DLTV8 มัธยมศึกษาปีที่ 2
+https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
+#EXTINF:-1, tvg-logo="https://dltv.ac.th/upload/data/channels/09_channel_logo.png" tvg-name="DLTV9 มัธยมศึกษาปีที่ 3"  group-title="Education",DLTV9 มัธยมศึกษาปีที่ 3
+https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
+#EXTINF:-1, tvg-logo="https://dltv.ac.th/upload/data/channels/10_channel_logo.png" tvg-name="DLTV10 อนุบาลศึกษาปีที่ 1"  group-title="Education",DLTV10 อนุบาลศึกษาปีที่ 1
+https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
+#EXTINF:-1, tvg-logo="https://dltv.ac.th/upload/data/channels/11_channel_logo.png" tvg-name="DLTV11 อนุบาลศึกษาปีที่ 2"  group-title="Education",DLTV11 อนุบาลศึกษาปีที่ 2
+https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
+#EXTINF:-1, tvg-logo="https://dltv.ac.th/upload/data/channels/12_channel_logo.png" tvg-name="DLTV12 อนุบาลศึกษาปีที่ 3"  group-title="Education",DLTV12 อนุบาลศึกษาปีที่ 3
+https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
+#EXTINF:-1, tvg-logo="https://dltv.ac.th/upload/data/channels/13_channel_logo.png" tvg-name="DLTV13 อาชีวศึกษา"  group-title="Education",DLTV13 อาชีวศึกษา
+https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
+#EXTINF:-1, tvg-logo="https://dltv.ac.th/upload/data/channels/14_channel_logo.png" tvg-name="DLTV14 อุดมศึกษา"  group-title="Education",DLTV14 อุดมศึกษา
+https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
+#EXTINF:-1, tvg-logo="https://dltv.ac.th/upload/data/channels/15_channel_logo.png" tvg-name="DLTV15 ภาษาต่างประเทศ"  group-title="Education",DLTV15 ภาษาต่างประเทศ
+https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/th/3/35/ETV_Logo.jpg" tvg-name="ETV SD"  group-title="Education",ETV SD
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
