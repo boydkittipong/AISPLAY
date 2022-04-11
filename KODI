@@ -1,3 +1,11 @@
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-foxpremium.png" group-title="MOVIES", Fox Movies Premium
+https://smart-tv.livedoomovies.com:4431/02_FoxMoviesTH_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-foxpremium.png" group-title="MOVIES", T Sports Channel
+https://smart-tv.livedoomovies.com:4431/02_T_Sports_480p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-foxpremium.png" group-title="MOVIES", SPOTV1
+https://smart-tv.livedoomovies.com:4431/02_foxsport_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-foxpremium.png" group-title="MOVIES", SPOTV2
+https://smart-tv.livedoomovies.com:4431/02_FoxSport2_TH_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 #EXTINF:-1 tvg-id="1" group-title="News" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/NEWS1.png",NEWS1
 https://server1.streamssl.com/stream/news1_hi.m3u8
 #EXTINF:-1 tvg-id="2" group-title="Digital TV" tvg-logo="https://we-play.live/uploads/posters/11-nbt-poster1603940103.jpeg",NBT 2
