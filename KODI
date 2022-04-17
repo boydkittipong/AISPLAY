@@ -507,3 +507,11 @@ https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
 https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://tv.sritown.com/images/chlogo/box-film.png" group-title="Variety",Box Flim"
+http://61.19.242.134/feed/202105171329/LC52/index.m3u8
+#EXTINF:-1 tvg-logo="https://f.ptcdn.info/741/071/000/qkd0au4553rHw6R3s3sR-o.jpg" group-title="Variety",SANOOK"
+http://61.19.242.134/feed/202105171329/LC53/index.m3u8
+#EXTINF:-1 tvg-logo="https://f.ptcdn.info/741/071/000/qkd0885sqMBhQa1NxDw-o.jpg" group-title="Variety",Sun Movie"
+http://61.19.242.134/feed/202105171329/LC1/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnNhbXVyYWl0di5zYW1ydXJhaXR2cGxheV9zY3JlZW5fMF8xNTUwNDI5MDA3XzAyOQ/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Variety",Samurai"
+http://61.19.242.134/feed/202105171329/LC2/index.m3u8
