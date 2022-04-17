@@ -121,6 +121,10 @@ http://freelive.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m
 http://203.159.95.172:8081/live/action001/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Movie"tvg-logo="https://fusovideoarte.com/2021/wp-content/uploads/2021/08/Sobre.jpg",FusoMOV 2
 http://203.159.95.172:8081/live/banner003/playlist.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="Movie"tvg-logo="https://fusovideoarte.com/2021/wp-content/uploads/2021/08/Sobre.jpg",FusoMOV 3
+http://203.159.95.172:8081/live/action001/playlist.m3u8
+
+
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-thaifilm.png",Thai Film (TH)
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-movie-hits.png",Movie Hits (TH)
