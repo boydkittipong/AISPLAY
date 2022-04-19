@@ -474,11 +474,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5bd666c0a7600007af6c
 https://live1.thaitvstream.com/play/srtvonline/index.m3u8
 #EXTINF:-1 group-title="CableTV"tvg-logo="https://thaitvstream.com/streaming/aetv/aetv.png",AETV
 https://live1.thaitvstream.com/play/aetv/index.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19562634_ico.png",@แอททีวี
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19562634_ico.png",@TV
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.img01.xyz/assets/img/ch_logo/MANGORN.png",มังกร
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.img01.xyz/assets/img/ch_logo/MANGORN.png",Dragon
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://samuigreenstation.net/wp-content/uploads/2021/07/14808-1500x844.jpg",จอมยุทธ์
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://samuigreenstation.net/wp-content/uploads/2021/07/14808-1500x844.jpg",Jom Yut
 http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment"tvg-logo="https://image.makewebeasy.net/makeweb/0/HSqZMq6g7/LOOXAround/photo.jpg",Cool Channel
 https://moviektu.com/Cool/playlist.m3u8
@@ -488,7 +488,7 @@ https://cdn-th-vip.livestreaming.in.th/ToplineChannel/ToplineChannel/chunklist.m
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mixmajor.jpg"  group-title="Variety",Mix Major
 https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/Thaibaan83.png" group-title="Variety",ไทบ้าน
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/Thaibaan83.png" group-title="Variety",ThaiBaan
 https://edge6a.v2h-cdn.com/appt3/Thaiban.stream_360p/chunklist_w1872615169.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/69.png" group-title="Variety",69TV
 https://edge6a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w1306517951.m3u8
@@ -498,23 +498,13 @@ https://edge6a.v2h-cdn.com/appt7/BANTERG.stream_720p/chunklist_w1190974940.m3u8
 https://edge6a.v2h-cdn.com/appt3/Happy.stream_360p/chunklist_w260432085.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/09/thai-variety.jpg" group-title="Variety",Thai Variety
 https://edge6a.v2h-cdn.com/v2h/V2H11.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/05-esan-tv.png" group-title="Variety",อีสานทีวี
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/05-esan-tv.png" group-title="Variety",Esan TV
 https://edge6a.v2h-cdn.com/m2s6/encoder_fk.stream_360p/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1-channel-12.jpg" group-title="Variety",สยาม
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1-channel-12.jpg" group-title="Variety",Siam TV
 https://edge6a.v2h-cdn.com/v2h/V2H12.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%89-channel-13.jpg" group-title="Variety",ลิโด้
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%89-channel-13.jpg" group-title="Variety",Lido TV
 https://edge6a.v2h-cdn.com/v2h/V2H13.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2-channel-14.jpg" group-title="Variety",สกาล่า
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2-channel-14.jpg" group-title="Variety",Sakala
 https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%B2-channel-15.jpg" group-title="Variety",ราม่า
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%B2-channel-15.jpg" group-title="Variety",Rama
 https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://tv.sritown.com/images/chlogo/box-film.png" group-title="Variety",Box Flim"
-http://61.19.242.134/feed/202105171329/LC52/index.m3u8
-#EXTINF:-1 tvg-logo="https://f.ptcdn.info/741/071/000/qkd0au4553rHw6R3s3sR-o.jpg" group-title="Variety",SANOOK"
-http://61.19.242.134/feed/202105171329/LC53/index.m3u8
-#EXTINF:-1 tvg-logo="https://f.ptcdn.info/741/071/000/qkd0885sqMBhQa1NxDw-o.jpg" group-title="Variety",Sun Movie"
-http://61.19.242.134/feed/202105171329/LC1/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnNhbXVyYWl0di5zYW1ydXJhaXR2cGxheV9zY3JlZW5fMF8xNTUwNDI5MDA3XzAyOQ/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Variety",Samurai"
-http://61.19.242.134/feed/202105171329/LC2/index.m3u8
