@@ -63,7 +63,7 @@ http://203.159.95.172:8081/live/action001/playlist.m3u8
 http://203.159.95.172:8081/live/action001/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="MoviesTV"tvg-logo="https://fusovideoarte.com/2021/wp-content/uploads/2021/08/Sobre.jpg",FusoMOV 2
 http://203.159.95.172:8081/live/banner003/playlist.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="http://thaitv8.com/ch8-ci415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png",CHANNEL 8
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600003437566/fv1orlGpwB8BpwqZtZGcSM1GbjNgIbM6eIvnq4UrVfRoq6wcZUMHAfr2PX0ZjMdKIfg-=s300?v=1",CHANNEL 8
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
 #EXTINF:-1 tvg-id="14" group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtAFcpzRw9I--0dUuqhTkQnj8MOEXmXai70OXtPXlJMpas6n1dyc1DzO-pphEzDbbjg&usqp=CAU",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
@@ -228,7 +228,7 @@ https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8|User-Agen
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/blogs.dir/1/files/2018/03/NHK-Logo.png",NHK
-https://nhkwlive-burnin.webcdn.stream.ne.jp/vtt/th_G/webvtt.m3u8
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cna.png",Channel NewsAsia
 https://streaming.livescorethai.net/iptv/sd-channelnewsasia.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-news.png",Sky News (UK)
@@ -239,15 +239,13 @@ https://streaming.livescorethai.net/iptv/uk-alibi.stream/chunks.m3u8|User-Agent=
 https://streaming.livescorethai.net/iptv/uk-sky1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/4-channel.png",Channel 4 (UK)
 https://streaming.livescorethai.net/iptv/uk-channel4hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cna.png",Arirang (KR)
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/arirang.png",Arirang (KR)
 https://streaming.livescorethai.net/iptv/sd-arirang.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-news.png",Bloomberg Asia
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bloomberge-relevision.png",Bloomberg Asia
 https://streaming.livescorethai.net/iptv/sd-bloomberg.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/alibi.png",CNN (UK)
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cnn.png",CNN (UK)
 https://streaming.livescorethai.net/iptv/uk-cnn.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-01.png",FOX News (UK)
-https://streaming.livescorethai.net/iptv/uk-foxnews.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/4-channel.png",Gold (UK)
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/gold.png",Gold (UK)
 https://streaming.livescorethai.net/iptv/uk-gold.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-world-news.png",BBC World News
 https://streaming.livescorethai.net/iptv/hd-bbcworldnews.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
