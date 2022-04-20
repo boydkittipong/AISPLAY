@@ -57,19 +57,19 @@ https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlis
 http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="MoviesTV" tvg-logo="https://doofreemovie88.com/public/upload/tv/fwson70.webp",FWSOV
 http://freelive.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="MoviesTV"tvg-logo="https://fusovideoarte.com/2021/wp-content/uploads/2021/08/Sobre.jpg",FusoMOV 1
+#EXTINF:-1 tvg-id="N/A" group-title="MoviesTV"tvg-logo="https://img.freepik.com/free-vector/click-movie-logo-vector_18099-274.jpg",FusoMOV 1
 http://203.159.95.172:8081/live/action001/playlist.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="MoviesTV"tvg-logo="https://fusovideoarte.com/2021/wp-content/uploads/2021/08/Sobre.jpg",FusoMOV 2
+#EXTINF:-1 tvg-id="N/A" group-title="MoviesTV"tvg-logo="https://img.freepik.com/free-vector/click-movie-logo-vector_18099-274.jpg",FusoMOV 2
 http://203.159.95.172:8081/live/banner003/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600003437566/fv1orlGpwB8BpwqZtZGcSM1GbjNgIbM6eIvnq4UrVfRoq6wcZUMHAfr2PX0ZjMdKIfg-=s300?v=1",CHANNEL 8
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
 #EXTINF:-1 tvg-id="14" group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtAFcpzRw9I--0dUuqhTkQnj8MOEXmXai70OXtPXlJMpas6n1dyc1DzO-pphEzDbbjg&usqp=CAU",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-thaifilm.png",Thai Film (TH)
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://we-play.live/uploads/posters/-poster1602704673.jpeg"",Thai Film (TH)
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-movie-hits.png",Movie Hits (TH)
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://we-play.live/uploads/posters/true-movie-hits-poster.jpg",Movie Hits (TH)
 https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/film-hd.png",True Film 1 (TH)
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://we-play.live/uploads/posters/-poster1602704752.jpeg",True Film 1 (TH)
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/hbo.png",HBO (English)
 https://streaming.livescorethai.net/iptv/hd-hboeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
