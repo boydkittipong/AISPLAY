@@ -658,3 +658,5 @@ https://streaming.livescorethai.net/iptv/sd-tnn24.stream/chunks.m3u8|User-Agent=
 https://streaming.livescorethai.net/iptv/sd-nation.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/โทรทัศน์รัฐสภา.png",TPTV
 https://streaming.livescorethai.net/iptv/sd-tptv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="12" group-title="News" tvg-logo="https://we-play.live/uploads/posters/topnews-poster.jpg",TOPNEWS
+https://p0.cdn.vet/live/ch40/i/ch40i.m3u8?sid=cjeYmZhMjExNjU3YTVkNzhjNjg0NQNDY4Njc2ZmRhNmZkNjk0
