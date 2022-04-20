@@ -1,0 +1,26 @@
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",Ch3HD
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/dooball2you/3hd/digitaltv/3hd/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD1
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/dooball2you/tpf1/sport/tpf1/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD2
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/dooball2you/tpf2/sport/tpf2/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD3
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/dooball2you/tpf3/sport/tpf3/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD4
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/dooball2you/tpf4/sport/tpf4/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/beinsports1.png.webp",Beinsport1
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/dooball2you/bein1/sport/bein1/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/beinsport2-300x73.png.webp",Beinsport2
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/dooball2you/bein2/sport/bein3/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/bt-sport-1.png.webp",BT Sport1
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/dooball2you/btsport1/sport-inter/btsport1/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/bt-sport2.png.webp",BT Sport2
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/dooball2you/btsport2/sport-inter/btsport2/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/bt-sport3.png.webp",BT Sport3
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/dooball2you/btsport3/sport-inter/btsport3/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/arenasport1.png.webp",ArenaSport1
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/dooball2you/arenasport1/sport-inter/arenasport1/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-sporttv1.jpg",Sport TV 1
+https://www.livedoomovies.com:4431/02_SPORTTV_1_720p/chunklist.m3u8|User-Agent=exoplayer_video&Referer=https://www.doomovie-hd.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-sporttv2.jpg",Sport TV 2
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/dooball2you/sporttv2/sport-inter/sporttv2/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
