@@ -6,17 +6,17 @@ https://streaming.livescorethai.net/iptv/hd-pptv.stream/chunks.m3u8|User-Agent=e
 https://streaming.livescorethai.net/iptv/hd-ch5.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/7-channel.png",CH7
 https://streaming.livescorethai.net/iptv/hd-ch7.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg",ONE31
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/3MnQ146501.png",ONE31
 https://streaming.livescorethai.net/iptv/hd-gmmone.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/gmm-channel.png",GMM25
 https://streaming.livescorethai.net/iptv/sd-gmmchannel.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/amarin-tv.png",AMARIN TV
 https://streaming.livescorethai.net/iptv/hd-amarin.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/gmm-channel.png",MONO29
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mono29.png",MONO29
 https://streaming.livescorethai.net/iptv/hd-mono.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/amarin-tv.png",Workpoint TV
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/workpoint.png",Workpoint TV
 https://streaming.livescorethai.net/iptv/hd-workpoint.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-4u.png",True4U 24
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-4u.png",True4U
 https://streaming.livescorethai.net/iptv/sd-24u.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/8-channel.png",CH8
 https://streaming.livescorethai.net/iptv/hd-ch8.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
@@ -26,11 +26,11 @@ https://streaming.livescorethai.net/iptv/hd-mcot.stream/chunks.m3u8|User-Agent=e
 https://streaming.livescorethai.net/iptv/hd-thairath.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/thai-pbs.png",Thai PBS
 https://streaming.livescorethai.net/iptv/hd-tpbs.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg",NBT
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/%E0%B8%AA%E0%B8%97%E0%B8%97.png",NBT
 https://streaming.livescorethai.net/iptv/sd-nbt.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://we-play.live/uploads/posters/jkn-18-poster.jpg",JKN18
 https://streaming.livescorethai.net/iptv/sd-new.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/amarin-tv.png",TNN
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/tnn.png",TNN24
 https://streaming.livescorethai.net/iptv/sd-tnn24.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nation.png",Nation TV
 https://streaming.livescorethai.net/iptv/sd-nation.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
@@ -41,6 +41,17 @@ https://streaming.livescorethai.net/iptv/sd-tptv.stream/chunks.m3u8|User-Agent=e
 https://p0.cdn.vet/live/ch40/i/ch40i.m3u8?sid=cjeYmZhMjExNjU3YTVkNzhjNjg0NQNDY4Njc2ZmRhNmZkNjk0
 #EXTINF:-1 tvg-id="N/A" group-title="News" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/NEWS1.png",NEWS1
 https://server1.streamssl.com/stream/news1_hi.m3u8
+
+#EXTINF:-1 tvg-id="N/A" group-title="KidsTV" tvg-logo="http://thaiip.tv/tvlogo2/cartoonclub.png",CartoonClub (TH)
+https://edge1-bkk.3bb.co.th:9443/cartoonLiveApp/cartoonLiveApp.stream/chunklist_w1586345374.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="KidsTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/boomerang.png",Boomerang(TH)
+https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="KidsTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cartoon-network.png",Cartoon Network (TH)
+https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 group-title="KidsTV"tvg-logo="https://www.img.in.th/images/52787280db33f47616d06400c93ef6db.jpg",TOONEE(TH)
+http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
+#EXTINF:-1 tvg-id="21" group-title="KidsTV" tvg-logo="https://doofreemovie88.com/public/upload/cover/fwtoon61.webp",FWTOON
+https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="N/A" group-title="Cable TV"tvg-logo="https://www.i-pic.info/i/0vDA146455.png",Southern TV
 https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/chunks.m3u8
@@ -74,18 +85,6 @@ https://edge6a.v2h-cdn.com/v2h/V2H13.stream_360p/playlist.m3u8
 https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Cable TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/rama-channel-2.png",Rama Channel
 https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="N/A" group-title="KidsTV" tvg-logo="http://thaiip.tv/tvlogo2/cartoonclub.png",CartoonClub (TH)
-https://edge1-bkk.3bb.co.th:9443/cartoonLiveApp/cartoonLiveApp.stream/chunklist_w1586345374.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="KidsTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/boomerang.png",Boomerang(TH)
-https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="KidsTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cartoon-network.png",Cartoon Network (TH)
-https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://www.img.in.th/images/52787280db33f47616d06400c93ef6db.jpg",TOONEE(TH)
-http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
-#EXTINF:-1 tvg-id="21" group-title="KidsTV" tvg-logo="https://doofreemovie88.com/public/upload/cover/fwtoon61.webp",FWTOON
-https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="N/A" group-title="MoviesTV" tvg-logo="https://doofreemovie88.com/public/upload/tv/fwmov53.webp",FWMOV
 http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
@@ -185,11 +184,11 @@ https://streaming.livescorethai.net/iptv/hd-bein2.stream/chunks.m3u8|User-Agent=
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/bein-sports-3-poster.jpg",Beinsport 3 TH
 https://streaming.livescorethai.net/iptv/epl-bein3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://moviesland.eu/uploads/cache/channel_thumb/uploads/png/2e32c99c85bf472682f81edfb24a104c.png",Beinsport 5
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.beinmediagroup.com/fr/wp-content/uploads/sites/2/2015/09/beIN_SPORTS_MAX5HD_Couleur.jpg",Beinsport 5
 https://streaming.livescorethai.net/iptv/hd-bein5.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://moviesland.eu/uploads/cache/channel_thumb/uploads/png/e88204f89c0759d2c77e5e0c57856a08.png",Beinsport 6
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.beinmediagroup.com/fr/wp-content/uploads/sites/2/2015/09/beIN_SPORTS_MAX6HD_Couleur.jpg",Beinsport 6
 https://streaming.livescorethai.net/iptv/hd-bein6.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-extra-1-1164.png",beIN SPORT XTRA
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.laosmovies.com/uploads/tv_image/bein-sport-extra.png",beIN SPORT XTRA
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dailyracquetball.com/wp-content/uploads/2018/02/OlympicChannel.jpg",Olympic Channel
 https://streaming.livescorethai.net/iptv/hd-bein7.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
@@ -227,16 +226,16 @@ https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/chunks.m3u8|Use
 
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--333.png",SK1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--333.png",SK1
 http://194.15.225.98:8000/play/a2qu
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--334.png",SK2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--334.png",SK2
 http://194.15.225.98:8000/play/a2qz
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--335.png",SK3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--335.png",SK3
 http://194.15.225.98:8000/play/a2qt
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/i/lf/0/1447433721/1065.png",EUROSPORT 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/i/lf/0/1447433721/1065.png",EUROSPORT 1
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/c4/17/19/c41719b6235bd284e351e6210121ed1d.jpg",EUROSPORT 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/c4/17/19/c41719b6235bd284e351e6210121ed1d.jpg",EUROSPORT 2
 http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="49" group-title="Sports" tvg-logo="https://sv1.picz.in.th/images/2022/04/21/8aYfry.png",Dubai Sports
@@ -249,7 +248,7 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
 #EXTINF:-1 tvg-id="53" group-title="Sports" tvg-logo="https://sv1.picz.in.th/images/2022/04/21/8aYTyb.png",Dubai Sports4
 http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://therushchannel.com/wp-content/uploads/2021/02/hero_logo.png",RUSH HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://therushchannel.com/wp-content/uploads/2021/02/hero_logo.png",RUSH HD
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568167382705_947.jpg",CCTV5
@@ -285,8 +284,6 @@ https://streaming.livescorethai.net/iptv/uk-sky1.stream/chunks.m3u8|User-Agent=e
 https://streaming.livescorethai.net/iptv/uk-channel4hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/arirang.png",Arirang (KR)
 https://streaming.livescorethai.net/iptv/sd-arirang.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bloomberge-relevision.png",Bloomberg Asia
-https://streaming.livescorethai.net/iptv/sd-bloomberg.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cnn.png",CNN (UK)
 https://streaming.livescorethai.net/iptv/uk-cnn.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/gold.png",Gold (UK)
@@ -299,7 +296,7 @@ https://streaming.livescorethai.net/iptv/uk-bbcnewshd.stream/chunks.m3u8|User-Ag
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://apprecs.org/ios/images/app-icons/256/c0/922460096.jpg",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 group-title="News"tvg-logo="https://pbs.twimg.com/profile_images/778129630284902401/gXjFkqGM_400x400.jpg",Bloomberg Asia
+#EXTINF:-1 group-title="News"tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bloomberge-relevision.png",Bloomberg Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 group-title="News"tvg-logo="https://s3.spbtv.com/spbtv-world-production/50577931455a0d496a75.png",DW EN
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
