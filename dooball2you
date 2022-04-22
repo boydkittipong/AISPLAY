@@ -158,7 +158,7 @@ https://streaming.livescorethai.net/iptv/hd-bein5.stream/playlist.m3u8|User-Agen
 https://streaming.livescorethai.net/iptv/hd-bein6.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.beinmediagroup.com/fr/wp-content/uploads/sites/2/2015/09/beIN_SPORTS_MAX7HD_Couleur.jpg",Beinsport 7
 https://streaming.livescorethai.net/iptv/hd-bein7.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.laosmovies.com/uploads/tv_image/bein-sport-extra.png",beIN SPORT XTRA
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.laosmovies.com/uploads/tv_image/bein-sport-extra.png",Beinsport XTRA
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 
