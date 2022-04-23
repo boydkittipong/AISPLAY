@@ -317,7 +317,7 @@ https://live1.thaitvstream.com/play/gochannel/index.m3u8
 https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="37" group-title="Cable TV" tvg-logo="https://shorturl.asia/SdKUV",CABLE 37 HD
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.abu.org.my/wp-content/uploads/2019/04/tvb-resized.png"  group-title="Cable TV",TVB Thai
+#EXTINF:0 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/tvb.png"  group-title="Cable TV",TVB Thai
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 #EXTINF:-1 group-title="CableTV"tvg-logo="https://thaitvstream.com/streaming/aetv/aetv.png",AETV
 https://live1.thaitvstream.com/play/aetv/index.m3u8
