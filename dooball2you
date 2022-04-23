@@ -1,5 +1,5 @@
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-tsport5.png",TRUE SPORT 5
-https://smart-tv.livedoomovies.com:4431/02_sport5_480p/chunklist.m3u8|User-Agent=exoplayer_video&Referer=https://www.movie87hd.com/
+https://cdn.googlecdnforstreaming.live/dooball888/ch26/chunks.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/3-channel.png",CH3
 https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/pptv-channel.png",PPTV
