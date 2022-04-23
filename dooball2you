@@ -146,18 +146,18 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/sport/spotv2/chunks
 
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602703707.png",Beinsport 1 TH
 https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602703712.png",Beinsport 2 EN
-https://streaming.livescorethai.net/iptv/hd-bein2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/bein-sports-3-poster.jpg",Beinsport 3 TH
 https://streaming.livescorethai.net/iptv/epl-bein3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.beinmediagroup.com/fr/wp-content/uploads/sites/2/2015/09/beIN_SPORTS_MAX5HD_Couleur.jpg",Beinsport 5
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png",Beinsport 2
+https://streaming.livescorethai.net/iptv/hd-bein2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",Beinsport 5
 https://streaming.livescorethai.net/iptv/hd-bein5.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.beinmediagroup.com/fr/wp-content/uploads/sites/2/2015/09/beIN_SPORTS_MAX6HD_Couleur.jpg",Beinsport 6
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png",Beinsport 6
 https://streaming.livescorethai.net/iptv/hd-bein6.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.beinmediagroup.com/fr/wp-content/uploads/sites/2/2015/09/beIN_SPORTS_MAX7HD_Couleur.jpg",Beinsport 7
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F207%2Fbein-sports-hd-1.png",Beinsport 7
 https://streaming.livescorethai.net/iptv/hd-bein7.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.laosmovies.com/uploads/tv_image/bein-sport-extra.png",Beinsport XTRA
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658",Beinsport XTRA
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 
