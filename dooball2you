@@ -1,5 +1,5 @@
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-tsport5.png",TRUE SPORT 5
-http://139.99.27.33:9998/assp1/tracks-v1a1/mono.m3u8
+https://www.livedoomovies.com/02_T_Sports_480p/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/3-channel.png",CH3
 https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/pptv-channel.png",PPTV
