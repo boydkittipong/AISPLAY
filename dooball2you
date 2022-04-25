@@ -57,15 +57,15 @@ https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlis
 http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="MoviesTV" tvg-logo="https://doofreemovie88.com/public/upload/tv/fwson70.webp",FWSOV
 http://freelive.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="MoviesTV"tvg-logo="https://www.i-pic.info/i/VizT146509.png",FusoMOV 1
+#EXTINF:-1 tvg-id="N/A" group-title="MoviesTV"tvg-logo="https://www.i-pic.info/i/Y6o8148406.png",FusoMOV 1
 http://203.159.95.172:8081/live/action001/playlist.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="MoviesTV"tvg-logo="https://www.i-pic.info/i/0ECL146508.png",FusoMOV 2
+#EXTINF:-1 tvg-id="N/A" group-title="MoviesTV"tvg-logo="https://www.i-pic.info/i/iFxv148407.png",FusoMOV 2
 http://203.159.95.172:8081/live/banner003/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/fa1y146451.png",CHANNEL 8
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/JhHN146453.png",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://we-play.live/uploads/posters/-poster1602704673.jpeg",Thai Film (TH)
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://we-play.live/uploads/posters/-poster1602704673.jpeg",True Thai Film (TH)
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://we-play.live/uploads/posters/true-movie-hits-poster.jpg",Movie Hits (TH)
 https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
