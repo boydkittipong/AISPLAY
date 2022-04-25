@@ -457,13 +457,29 @@
 "playInNatPlayer": "tot"
 },
 {
-"name": "Sky Sports Football",
-"image": "https://img.apksum.com/ea/com.bskyb.fbscore/5.10.2/icon.png",
-"url": "http://udoofree.com/movie2/262/single-live?watch=1",
+"name": "Arenasport1",
+"image": "https://ballmun.com/asset/logo-channel/Arena%20sport%201.png",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport1/sport-inter/arenasport1/chunks.m3u8",
 "playInNatPlayer": "tot"
 },
-
-
+{
+"name": "Sky Sports EPL",
+"image": "https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-premier.png",
+"url": "https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "SK1",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--333.png",
+"url": "http://194.15.225.98:8000/play/a2qu",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Dubai Sports",
+"image": "https://sv1.picz.in.th/images/2022/04/21/8aYfry.png",
+"url": "http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8",
+"playInNatPlayer": "tot"
+},
 
 
 
