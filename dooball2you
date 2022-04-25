@@ -67,13 +67,13 @@ https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://we-play.live/uploads/posters/-poster1602704673.jpeg",True Thai Film (TH)
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://we-play.live/uploads/posters/true-movie-hits-poster.jpg",Movie Hits (TH)
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/dZvR148415.png",True Movie Hits (TH)
 https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://we-play.live/uploads/posters/-poster1602704752.jpeg",True Film 1 (TH)
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/CWAO148414.png",True Film 1 (TH)
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/hbo.png",HBO (English)
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/0GOq148417.png",HBO (English)
 https://streaming.livescorethai.net/iptv/hd-hboeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/wb-tv.png",Warner TV (HD)
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://www.i-pic.info/i/bPrx148418.png",Warner TV (HD)
 https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/universal-channel.png",Universal Channel (UK)
 https://streaming.livescorethai.net/iptv/uk-universal.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
