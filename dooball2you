@@ -1,45 +1,45 @@
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/3-channel.png",CH3
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
 https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/pptv-channel.png",PPTV
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/jnG4148392.png",PPTV
 https://streaming.livescorethai.net/iptv/hd-pptv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/5-channel.png",CH5
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/6TZS148380.png",CH5
 https://streaming.livescorethai.net/iptv/hd-ch5.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/7-channel.png",CH7
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/fsq3148381.png",CH7
 https://streaming.livescorethai.net/iptv/hd-ch7.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/3MnQ146501.png",ONE31
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/nxJd148391.png",ONE31
 https://streaming.livescorethai.net/iptv/hd-gmmone.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/gmm-channel.png",GMM25
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/wQxS148385.png",GMM25
 https://streaming.livescorethai.net/iptv/sd-gmmchannel.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/amarin-tv.png",AMARIN TV
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/5PcV148378.png",AMARIN TV
 https://streaming.livescorethai.net/iptv/hd-amarin.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mono29.png",MONO29
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/ay0i148387.png",MONO29
 https://streaming.livescorethai.net/iptv/hd-mono.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/workpoint.png",Workpoint TV
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/6tGq148397.png",Workpoint TV
 https://streaming.livescorethai.net/iptv/hd-workpoint.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-4u.png",True4U
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/skWC148395.png",True4U
 https://streaming.livescorethai.net/iptv/sd-24u.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/8-channel.png",CH8
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/yJ2z148382.png",CH8
 https://streaming.livescorethai.net/iptv/hd-ch8.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mcot-hd.png",9 MCOT
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/i3GZ148383.png",9 MCOT
 https://streaming.livescorethai.net/iptv/hd-mcot.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/thairath-tv.png",Thairath TV
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/PnKO148394.png",Thairath TV
 https://streaming.livescorethai.net/iptv/hd-thairath.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/thai-pbs.png",Thai PBS
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/XFrL148393.png",Thai PBS
 https://streaming.livescorethai.net/iptv/hd-tpbs.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/%E0%B8%AA%E0%B8%97%E0%B8%97.png",NBT
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/PREF148389.png",NBT
 https://streaming.livescorethai.net/iptv/sd-nbt.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://we-play.live/uploads/posters/jkn-18-poster.jpg",JKN18
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/tQeY148386.png",JKN18
 https://streaming.livescorethai.net/iptv/sd-new.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/tnn.png",TNN16
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/GcQn148403.png",TNN16
 https://streaming.livescorethai.net/iptv/sd-tnn24.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nation.png",Nation TV
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/sRiS148388.png",Nation TV
 https://streaming.livescorethai.net/iptv/sd-nation.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/โทรทัศน์รัฐสภา.png",TPTV
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/n3Lo148404.png",TPTV
 https://streaming.livescorethai.net/iptv/sd-tptv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
-#EXTINF:-1 tvg-id="N/A" group-title="News" tvg-logo="https://we-play.live/uploads/posters/topnews-poster.jpg",TOPNEWS
+#EXTINF:-1 tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/nxJd148391.png",TOPNEWS
 https://live.topnews.co.th/hls/topnews_a_1080.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="News" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/NEWS1.png",NEWS1
+#EXTINF:-1 tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/dzqn148390.png",NEWS1
 https://server1.streamssl.com/stream/news1_hi.m3u8
 
 #EXTINF:-1 tvg-id="N/A" group-title="KidsTV" tvg-logo="https://shorturl.asia/zdWAU",CartoonClub(TH)
@@ -104,15 +104,15 @@ https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/chunks.m3u8|Us
 https://streaming.livescorethai.net/iptv/sd-dmaxeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602703965.jpeg",True Premier Football HD1
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://ballmun.com/asset/logo-channel/True_premier1.png",True Premier Football HD1
 https://streaming.livescorethai.net/iptv/bsb-epl1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602703981.jpeg",True Premier Football HD2
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://ballmun.com/asset/logo-channel/True_premier2.png",True Premier Football HD2
 https://streaming.livescorethai.net/iptv/bsb-epl2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602703991.jpeg",True Premier Football HD3
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://ballmun.com/asset/logo-channel/True_premier3.png",True Premier Football HD3
 https://streaming.livescorethai.net/iptv/bsb-epl3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704002.jpeg",True Premier Football HD4
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://ballmun.com/asset/logo-channel/True_premier4.png",True Premier Football HD4
 https://streaming.livescorethai.net/iptv/bsb-epl4.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704009.jpeg",True Premier Football HD5
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://ballmun.com/asset/logo-channel/True_premier5.png",True Premier Football HD5
 https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704118.jpeg",True Sport 1
 https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
