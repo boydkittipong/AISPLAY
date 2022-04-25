@@ -42,7 +42,7 @@ https://live.topnews.co.th/hls/topnews_a_1080.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/dzqn148390.png",NEWS1
 https://server1.streamssl.com/stream/news1_hi.m3u8
 
-#EXTINF:-1 tvg-id="N/A" group-title="KidsTV" tvg-logo="https://shorturl.asia/zdWAU",CartoonClub(TH)
+#EXTINF:-1 tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/ANk6148438.png",CartoonClub(TH)
 https://edge1-bkk.3bb.co.th:9443/cartoonLiveApp/cartoonLiveApp.stream/chunklist_w1586345374.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="KidsTV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/boomerang.png",Boomerang(TH)
 https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
@@ -65,7 +65,7 @@ http://203.159.95.172:8081/live/banner003/playlist.m3u8
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/JhHN146453.png",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://we-play.live/uploads/posters/-poster1602704673.jpeg",True Thai Film (TH)
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/YnjQ148431.png",True Thai Film (TH)
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/dZvR148415.png",True Movie Hits (TH)
 https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
@@ -73,9 +73,9 @@ https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8|User-Ag
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/0GOq148417.png",HBO (English)
 https://streaming.livescorethai.net/iptv/hd-hboeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://www.i-pic.info/i/bPrx148418.png",Warner TV (HD)
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://www.i-pic.info/i/pXRq148432.png",Warner TV (HD)
 https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/universal-channel.png",Universal Channel (UK)
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/k4bc148427.png",Universal Channel (UK)
 https://streaming.livescorethai.net/iptv/uk-universal.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 #EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/tlc.png",TLC (EN)
