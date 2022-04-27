@@ -114,6 +114,12 @@ https://streaming.livescorethai.net/iptv/bsb-epl3.stream/chunks.m3u8|User-Agent=
 https://streaming.livescorethai.net/iptv/bsb-epl4.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://ballmun.com/asset/logo-channel/True_premier5.png",True Premier Football HD5
 https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602703707.png",Beinsport 1 TH
+https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/bein-sports-3-poster.jpg",Beinsport 3 TH
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/sport/bein3/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
+
+
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704118.jpeg",True Sport 1
 https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704124.jpeg",True Sport 2
@@ -145,10 +151,6 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/sport/spotv1/chunks
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/sport/spotv2/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
 
 
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602703707.png",Beinsport 1 TH
-https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/bein-sports-3-poster.jpg",Beinsport 3 TH
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/sport/bein3/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F216%2Fbein-sports-french-1.png",Beinsport 1 FR
 https://streaming.livescorethai.net/iptv/fr-bein1hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F211%2Fbein-sports-french-1.png",Beinsport 2 FR
