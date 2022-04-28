@@ -15,7 +15,7 @@ https://streaming.livescorethai.net/iptv/hd-amarin.stream/chunks.m3u8|User-Agent
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/ay0i148387.png",MONO29
 https://streaming.livescorethai.net/iptv/hd-mono.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/6tGq148397.png",Workpoint TV
-https://streaming.livescorethai.net/iptv/hd-workpoint.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/skWC148395.png",True4U
 https://streaming.livescorethai.net/iptv/sd-24u.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/yJ2z148382.png",CH8
