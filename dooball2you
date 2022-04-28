@@ -78,6 +78,15 @@ https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8|User-Age
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/k4bc148427.png",Universal Channel (UK)
 https://streaming.livescorethai.net/iptv/uk-universal.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/1q6y150076.png",A3Bikini TV
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment"tvg-logo="https://www.i-pic.info/i/96Lg150079.png",Sexy KpopTV
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment"tvg-logo="https://www.i-pic.info/i/eAyF150078.png",MTV Asia
+https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/7Bim150077.png",FashionTV
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+
 #EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://www.i-pic.info/i/ji0F149425.png",TLC (EN)
 https://streaming.livescorethai.net/iptv/sd-tlceng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://www.i-pic.info/i/ZFSR149424.png",AXN (TH)
@@ -253,16 +262,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/9Cwz150075.png",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-
-#EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://maxtvs.net/admin/img/channel/ae0f306d2745018eeced.jpg",A3Bikini TV
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="Entertainment"tvg-logo="https://play-lh.googleusercontent.com/NNN2QTB5dMxjWqnVfsGHglCS-D_-s0869HI2zCIoRZqEt3fDys22e0verSIyW5ON67U",Sexy KpopTV
-https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="Entertainment"tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mtv.png",MTV Asia
-https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://doofreemovie88.com/public/upload/tv/fashiontv65.webp",FashionTV
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-
 
 
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/blogs.dir/1/files/2018/03/NHK-Logo.png",NHK
