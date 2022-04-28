@@ -5,7 +5,7 @@ https://streaming.livescorethai.net/iptv/hd-pptv.stream/chunks.m3u8|User-Agent=e
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/6TZS148380.png",CH5
 https://streaming.livescorethai.net/iptv/hd-ch5.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/fsq3148381.png",CH7
-https://streaming.livescorethai.net/iptv/hd-ch7.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/nxJd148391.png",ONE31
 https://streaming.livescorethai.net/iptv/hd-gmmone.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/wQxS148385.png",GMM25
@@ -150,11 +150,6 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/sport/spotv1/chunks
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ballmun.com/asset/logo-channel/Spo%20TV%202.png",Spotv2
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/sport/spotv2/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
 
-
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/ldeP149443.png",Beinsport 1 FR
-https://streaming.livescorethai.net/iptv/fr-bein1hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/6XGm149444.png",Beinsport 2 FR
-https://streaming.livescorethai.net/iptv/fr-bein2hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/tglY149436.png",Beinsport 1
 https://streaming.livescorethai.net/iptv/hd-bein8.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
