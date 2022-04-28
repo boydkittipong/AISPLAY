@@ -218,7 +218,7 @@ https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/chunks.m3u8|User-A
 
 
 
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/kVTR150021.png",Premier Sports (UK)
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/nFLr150080",Premier Sports (UK)
 https://streaming.livescorethai.net/iptv/uk-premiersports.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/wKG1150031.png",Sky Bundesliga (DE)
 https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
@@ -255,7 +255,7 @@ http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/WwTE150073.png",CCTV4
 https://streaming.livescorethai.net/iptv/sd-cctv4.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.i-pic.info/i/yCKD150071.png",CCTV5
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.i-pic.info/i/32eO150074.png",CCTV5
 http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/mpuD150072.png",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
