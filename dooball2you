@@ -219,29 +219,29 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/ballmun/sporttv1/sport-inter/sporttv1/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/ballmun/sporttv2/sport-inter/sporttv2/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://ballmun.com/
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--333.png",SK1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/KHye150067.png",SK1
 http://194.15.225.98:8000/play/a2qu
-#EXTINF:-1 group-title="Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--334.png",SK2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/7iA4150068.png",SK2
 http://194.15.225.98:8000/play/a2qz
-#EXTINF:-1 group-title="Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--335.png",SK3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/2X0w150069.png",SK3
 http://194.15.225.98:8000/play/a2qt
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/i/lf/0/1447433721/1065.png",EUROSPORT 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/ybng150064.png",EUROSPORT 1
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/c4/17/19/c41719b6235bd284e351e6210121ed1d.jpg",EUROSPORT 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/RcsE150066.png",EUROSPORT 2
 http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="49" group-title="Sports" tvg-logo="https://sv1.picz.in.th/images/2022/04/21/8aYfry.png",Dubai Sports
+#EXTINF:-1 tvg-id="49" group-title="Sports" tvg-logo="https://www.i-pic.info/i/QMEr150062.png",Dubai Sports
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="50" group-title="Sports" tvg-logo="https://sv1.picz.in.th/images/2022/04/21/8aYBU1.png",Dubai Sports1
+#EXTINF:-1 tvg-id="50" group-title="Sports" tvg-logo="https://www.i-pic.info/i/WdsZ150061.png",Dubai Sports1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
-#EXTINF:-1 tvg-id="51" group-title="Sports" tvg-logo="https://sv1.picz.in.th/images/2022/04/21/8aY3c9.png",Dubai Sports2
+#EXTINF:-1 tvg-id="51" group-title="Sports" tvg-logo="https://www.i-pic.info/i/D9gt150059.png",Dubai Sports2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
-#EXTINF:-1 tvg-id="52" group-title="Sports" tvg-logo="https://sv1.picz.in.th/images/2022/04/21/8aY9sJ.png",Dubai Sports3
+#EXTINF:-1 tvg-id="52" group-title="Sports" tvg-logo="https://www.i-pic.info/i/G7b4150060.png",Dubai Sports3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
-#EXTINF:-1 tvg-id="53" group-title="Sports" tvg-logo="https://sv1.picz.in.th/images/2022/04/21/8aYTyb.png",Dubai Sports4
+#EXTINF:-1 tvg-id="53" group-title="Sports" tvg-logo="https://www.i-pic.info/i/XimK150063.png",Dubai Sports4
 http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby
-#EXTINF:-1 group-title="Sports" tvg-logo="https://discoverflow.co/sites/discoverflow.co.anguilla/files/Rush_0.png",RUSH HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/ODqv150065.png",RUSH HD
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/sd-cctv.png",CCTV4
