@@ -336,5 +336,4 @@ https://edge6a.v2h-cdn.com/v2h/V2H13.stream_360p/playlist.m3u8
 https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Cable TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/rama-channel-2.png",Rama Channel
 https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Cable TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/rama-channel-2.png",Rama Channel
-https://h4.ustvgo.la/MLB/myStream/chunks.m3u8
+
