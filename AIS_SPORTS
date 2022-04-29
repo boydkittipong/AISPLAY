@@ -211,7 +211,7 @@
 },
 {
 "name": "WWE Network",
-"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/09/wwe-269x151.png",
+"image": "https://variety.com/wp-content/uploads/2022/01/WWE-Network-Disney-Plus-Hotstar-Indonesia.png",
 "url": "https://ustvgo.tv/wwe-network/",
 "referer": "https://ustvgo.tv/",
 "playInNatPlayer": "true"
@@ -302,9 +302,93 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "SK1",  
+"image": "https://www.i-pic.info/i/KHye150067.png",  
+"url": "http://194.15.225.98:8000/play/a2qu",
+"playInNatPlayer": "true"
+},
+{
+"name": "SK2",  
+"image": "https://www.i-pic.info/i/7iA4150068.png",  
+"url": "http://194.15.225.98:8000/play/a2qz",
+"playInNatPlayer": "true"
+},
+{
+"name": "SK3",  
+"image": "https://www.i-pic.info/i/2X0w150069.png",  
+"url": "http://194.15.225.98:8000/play/a2qt",
+"playInNatPlayer": "true"
+},
+{
+"name": "UROSPORT 1",  
+"image": "https://www.i-pic.info/i/ybng150064.png",  
+"url": "http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "UROSPORT 2",  
+"image": "https://www.i-pic.info/i/RcsE150066.png",  
+"url": "http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "RUSH HD",  
+"image": "https://www.i-pic.info/i/ODqv150065.png",  
+"url": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dubai Sports",  
+"image": "https://www.i-pic.info/i/QMEr150062.png",  
+"url": "http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dubai Sports1",  
+"image": "https://www.i-pic.info/i/WdsZ150061.png",  
+"url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dubai Sports2",  
+"image": "https://www.i-pic.info/i/D9gt150059.png",  
+"url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dubai Sports3",  
+"image": "https://www.i-pic.info/i/G7b4150060.png",  
+"url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dubai Sports4",  
+"image": "https://www.i-pic.info/i/XimK150063.png",  
+"url": "http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby",
+"playInNatPlayer": "true"
+},
+{
+"name": "World Poker Tour",  
+"image": "https://www.i-pic.info/i/9Cwz150075.png",  
+"url": "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "CCTV5",  
+"image": "https://www.i-pic.info/i/32eO150074.png",  
+"url": "http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name": "TRUE SPORT 5",  
 "image": "https://www.img02.xyz/assets/img/ch_logo/sd-tsport5.png",  
 "url": "https://www.movie87hd.com/?r=tv_view&id=32",
+"playInNatPlayer": "true"
+},
+{
+"name": "T Sports Channel",  
+"image": "https://www.img01.xyz/assets/img/ch_logo/TSportsChannel.png",  
+"url": "https://www.movie87hd.com/?r=tv_view&id=189",
 "playInNatPlayer": "true"
 },
 
