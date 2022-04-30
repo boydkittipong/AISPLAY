@@ -336,30 +336,33 @@ https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
 https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="SonyPIX.in" group-title="English Movie",Sony Pix HD
-http://103.55.144.46/hls/sonypixhd.m3u8
-
-
-#EXTINF:-1 tvg-id="SonyPIX.in" group-title="English Movie",Cinema World
-http://210.210.155.35:80/dr9445/h/h04/01.m3u8
-
 
 #EXTINF:-1 tvg-id="SonyPIX.in" group-title="English Movie",Fox life
 http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO
-http://190.171.101.36/HBO/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-id="" group-title="English Movie",AXN
-http://125.209.88.166:45793/BRN/AXNHD.stream/playlist.m3u8
-
-
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="" group-title="English Movie",KIX
-http://210.210.155.35:80/dr9445/h/h07/01.m3u8
-
 #EXTINF:0 tvg-id="" group-title="English Movie",Cinemax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/swM1L4e.png",Discovery Kids
+http://103.55.144.46/hls/dis-kid.m3u8
+
+#EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
+http://103.55.144.46/hls/travelxp.m3u8
+
+#EXTINF:-68 tvg-logo="" group-title="Documentary",Love nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-68 tvg-logo="" group-title="Documentary",CGTN
+http://iptv.prosto.tv:7000/ch84/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
+http://103.55.144.46/hls/bbcearth.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
+http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34481?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+
+#EXTINF:-73 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary",Nasa tv
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
