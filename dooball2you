@@ -337,26 +337,26 @@ https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="SonyPIX.in" group-title="English Movie",Fox life
+#EXTINF:-1 tvg-id="SonyPIX.in" tvg-logo="https://multireach.in/wp-content/uploads/2020/11/Fox-Life-HD.png" group-title="English Movie",Fox life
 http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",MOVIES | Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="" group-title="English Movie",Cinemax
+#EXTINF:0 tvg-id="" tvg-logo="https://www.kindpng.com/picc/m/287-2873744_cinemax-logo-png-transparent-png.png" group-title="English Movie",MOVIES | Cinemax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
 
 
-#EXTINF:-68 tvg-logo="" group-title="Documentary",Love nature
+#EXTINF:-68 tvg-logo="https://youflix4k.com/uploads/cache/channel_thumb/uploads/jpg/fdac4f340cec2d7241e76007079bec45.jpg" group-title="Documentary",Love nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-73 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary",Nasa tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
-#EXTINF:-1 tvg-id="playboy.co" tvg-name="PLAYBOY" group-title="DISH MX",PLAY BOY
+#EXTINF:-1 tvg-id="playboy.co" tvg-name="PLAYBOY" group-title="DISH MX" tvg-logo="https://admovethailand.files.wordpress.com/2012/12/playboy_logo_2598.gif",XXX | PLAY BOY
 http://38.123.205.70:8000/play/a09a/index.m3u8
-#EXTINF:-1 tvg-id="sextreme.co" tvg-name="SEXTREME" group-title="DISH MX",SEX XTREME
+#EXTINF:-1 tvg-id="sextreme.co" tvg-name="SEXTREME" group-title="DISH MX" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/94/Sextre1.jpg/revision/latest?cb=20200602222628&path-prefix=pt-br",XXX | SEX XTREME
 http://38.123.205.70:8000/play/a09c/index.m3u8
-#EXTINF:-1 tvg-id="venus.co" tvg-name="VENUS" group-title="DISH MX",VENUS
+#EXTINF:-1 tvg-id="venus.co" tvg-name="VENUS" group-title="DISH MX" tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-venus.jpg",XXX | VENUS
 http://38.123.205.70:8000/play/a09b/index.m3u8
