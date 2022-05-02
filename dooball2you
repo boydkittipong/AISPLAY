@@ -349,6 +349,8 @@ http://38.123.205.70:8000/play/a09a/index.m3u8
 http://38.123.205.70:8000/play/a09c/index.m3u8
 #EXTINF:-1 tvg-id="venus.co" tvg-name="VENUS" group-title="DISH MX" tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-venus.jpg",XXX | VENUS
 http://38.123.205.70:8000/play/a09b/index.m3u8
+#EXTINF:-1 tvg-id="venus.co" tvg-name="EROX" group-title="DISH MX" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/erox_logo2019.png",XXX | EROX
+http://94.229.250.73:8008/play/a002
 
 #EXTINF:0 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KvDHAwT62s.png" group-title="RADIO",RADIO | COOL Fahrenheit
 https://coolism-web.cdn.byteark.com/;stream/1
