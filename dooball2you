@@ -94,7 +94,7 @@ https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8|User-Agen
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://multireach.in/wp-content/uploads/2020/11/Fox-Life-HD.png" group-title="Variety",Fox life
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Yj8J152288.png" group-title="Variety",Fox life
 http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://www.i-pic.info/i/ji0F149425.png",TLC (EN)
 https://streaming.livescorethai.net/iptv/sd-tlceng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
