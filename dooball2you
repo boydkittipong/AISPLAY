@@ -86,10 +86,13 @@ https://streaming.livescorethai.net/iptv/uk-universal.stream/chunks.m3u8|User-Ag
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Entertainment"tvg-logo="https://www.i-pic.info/i/96Lg150079.png",Sexy KpopTV
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/taLW152185.png",KIX
+http://210.210.155.35:80/dr9445/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Entertainment"tvg-logo="https://www.i-pic.info/i/eAyF150078.png",MTV Asia
 https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/7Bim150077.png",FashionTV
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://multireach.in/wp-content/uploads/2020/11/Fox-Life-HD.png" group-title="Variety",Fox life
 http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
