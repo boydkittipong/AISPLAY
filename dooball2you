@@ -119,7 +119,7 @@ https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/chunks.m3u8|Us
 https://streaming.livescorethai.net/iptv/sd-dmaxeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-68 tvg-logo="https://www.i-pic.info/i/oh9y152091.png" group-title="Documentary",Love nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-73 tvg-logo="https://www.i-pic.info/i/Rc6A152062.png" group-title="Documentary",Nasa tv
+#EXTINF:-73 tvg-logo="https://www.i-pic.info/i/PtMD152101.png" group-title="Documentary",Nasa tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
