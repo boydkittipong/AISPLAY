@@ -50,7 +50,7 @@ https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8|User-Ag
 https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1 group-title="KidsTV"tvg-logo="https://www.i-pic.info/i/jb2N148473.png",CARTOON | TOONEE(TH)
 http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
-#EXTINF:-1 tvg-id="21" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/gLBx148487.png",FWTOON
+#EXTINF:-1 tvg-id="21" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/gLBx148487.png",CARTOON | FWTOON
 https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="N/A" group-title="MoviesTV" tvg-logo="https://www.i-pic.info/i/cOh2148486.png",FWSOV
