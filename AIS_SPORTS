@@ -7,7 +7,12 @@
 
 
 
-
+{
+"name": "PPTV HD",  
+"image": "https://www.img02.xyz/assets/img/ch_logo/hd-pptv.png",  
+"url": "https://www.movie87hd.com/?r=tv_view&id=9",
+"playInNatPlayer": "true"
+},
 {
 "name": "T Sports Channel",  
 "image": "https://www.img01.xyz/assets/img/ch_logo/TSportsChannel.png",  
@@ -60,12 +65,6 @@
 "name": "TRUE SPORT HD3",
 "image": "https://we-play.live/uploads/posters/-poster1602704141.jpeg",
 "url": "https://we-play.live/watching/tv/true-sports-hd-3",
-"playInNatPlayer": "tot"
-},
-{
-"name": "TRUE SPORT HD4",
-"image": "https://sv1.picz.in.th/images/2021/07/29/2K9j82.png",
-"url": "https://www.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -174,12 +173,6 @@
 "playInNatPlayer": "tot"
 },
 {
-"name": "Sport TV 5",
-"image": "https://sv1.picz.in.th/images/2021/07/29/2K9TjP.png",
-"url": "https://we-play.live/watching/tv/sport-tv-5",
-"playInNatPlayer": "tot"
-},
-{
 "name": "BT SPORT HD1",
 "image": "https://we-play.live/uploads/posters/bt-sport-1-hd-poster1602800664.jpeg",
 "url": "https://we-play.live/watching/tv/bt-sport-1-hd",
@@ -211,27 +204,31 @@
 },
 {
 "name": "Galatasaray TV",  
-"image": "https://i1.wp.com/www.sporkolik.net/wp-content/uploads/2018/05/gs-tv-artik-sifresiz.jpg?fit=900%2C451",  
+"image": "https://i1.wp.com/www.sporkolik.net/wp-content/uploads/2018/05/gs-tv-artik-sifresiz.jpg",  
 "url": "https://galatasaray.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "WWE Network",
-"image": "https://variety.com/wp-content/uploads/2022/01/WWE-Network-Disney-Plus-Hotstar-Indonesia.png",
-"url": "https://ustvgo.tv/wwe-network/",
-"referer": "https://ustvgo.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Olympic Channel",
-"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2020/09/oly.jpg",
-"url": "https://ustvgo.tv/olympic-channel/",
-"referer": "https://ustvgo.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "Arena Sport 1",
 "image": "https://we-play.live/uploads/posters/arena-sport-1-poster1602801264.jpeg",
+"url": "https://www.we-play.live/watching/tv/arena-sport-1",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Arena Sport 2",
+"image": "https://we-play.live/uploads/posters/arena-sport-2-poster1602801279.jpeg",
+"url": "https://www.we-play.live/watching/tv/arena-sport-2",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Arena Sport 3",
+"image": "https://we-play.live/uploads/posters/arena-sport-3-poster1602801297.jpeg",
+"url": "https://www.we-play.live/watching/tv/arena-sport-3",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Arena Sport 4",
+"image": "https://we-play.live/uploads/posters/arena-sport-4-poster1602801314.jpeg",
 "url": "https://www.we-play.live/watching/tv/arena-sport-1",
 "playInNatPlayer": "tot"
 },
@@ -242,52 +239,28 @@
 "playInNatPlayer": "tot"
 },
 {
-"name": "ACC Network",
-"image": "https://ustvgo.tv/wp-content/uploads/2021/06/accn.jpg",
-"url": "https://ustvgo.tv/acc-network/",
+"name": "ESPN Netherland",
+"image": "https://we-play.live/uploads/posters/espn-netherland-poster.jpg",
+"url": "https://we-play.live/watching/tv/espn-netherland",
 "playInNatPlayer": "tot"
 },
 {
-"name": "MLB Network",
-"image": "https://ustvgo.tv/wp-content/uploads/2019/05/MLB.png",
-"url": "https://ustvgo.tv/mlb-network/",
+"name": "ESPN 2 Netherland",
+"image": "https://we-play.live/uploads/posters/espn-2-netherland-poster.jpg",
+"url": "https://we-play.live/watching/tv/espn-2-netherland",
 "playInNatPlayer": "tot"
 },
 {
-"name": "Fox Sports 2",
-"image": "https://ustvgo.tv/wp-content/uploads/2019/01/fs2-269x151.png",
-"url": "https://ustvgo.tv/fox-sports-2/",
-"playInNatPlayer": "true"
+"name": "ESPN 3 Netherland",
+"image": "https://we-play.live/uploads/posters/espn-3-netherland-poster.jpg",
+"url": "https://we-play.live/watching/tv/espn-3-netherland",
+"playInNatPlayer": "tot"
 },
 {
-"name": "ESPN2",
-"image": "https://ustvgo.tv/wp-content/uploads/2019/08/espn2-269x151.png",
-"url": "https://ustvgo.tv/espn2-live/",
-"playInNatPlayer": "true"
-},
-{
-"name": "ACC Network",  
-"image": "https://i.imgur.com/UHcFiHk.png",  
-"url": "https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Lax Sports Network TV",  
-"image": "https://i.imgur.com/Lt9ZUYA.png",  
-"url": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Local Now Sports",  
-"image": "https://f9q4g5j6.ssl.hwcdn.net/5ff5007140095248f263f987",  
-"url": "https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "MavTV Europe",  
-"image": "https://www.mavtv.com/assets/images/mavtv_logo.png",  
-"url": "https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
-"playInNatPlayer": "true"
+"name": "ESPN 4 Netherland",
+"image": "https://we-play.live/uploads/posters/espn-4-netherland-poster.jpg",
+"url": "https://we-play.live/watching/tv/espn-4-netherland",
+"playInNatPlayer": "tot"
 },
 {
 "name": "SK1",  
@@ -317,6 +290,68 @@
 "name": "UROSPORT 2",  
 "image": "https://www.i-pic.info/i/RcsE150066.png",  
 "url": "http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "WWE Network",
+"image": "https://variety.com/wp-content/uploads/2022/01/WWE-Network-Disney-Plus-Hotstar-Indonesia.png",
+"url": "https://ustvgo.tv/wwe-network/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Olympic Channel",
+"image": "https://worldarchery.sport/sites/default/files/styles/style_teaser/public/news/images/main/olympic_channel_header.png",
+"url": "https://ustvgo.tv/olympic-channel/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ACC Network (US)",
+"image": "https://ustvgo.tv/wp-content/uploads/2021/06/accn.jpg",
+"url": "https://ustvgo.tv/acc-network/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "MLB Network (US)",
+"image": "https://ustvgo.tv/wp-content/uploads/2019/05/MLB.png",
+"url": "https://ustvgo.tv/mlb-network/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Fox Sports 2 (US)",
+"image": "https://ustvgo.tv/wp-content/uploads/2019/01/fs2-269x151.png",
+"url": "https://ustvgo.tv/fox-sports-2/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ESPN2 (US)",
+"image": "https://ustvgo.tv/wp-content/uploads/2019/08/espn2-269x151.png",
+"url": "https://ustvgo.tv/espn2-live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ACC Network (US)",  
+"image": "https://i.imgur.com/UHcFiHk.png",  
+"url": "https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Lax Sports Network TV",  
+"image": "https://i.imgur.com/Lt9ZUYA.png",  
+"url": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Local Now Sports",  
+"image": "https://f9q4g5j6.ssl.hwcdn.net/5ff5007140095248f263f987",  
+"url": "https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "MavTV Europe",  
+"image": "https://www.mavtv.com/assets/images/mavtv_logo.png",  
+"url": "https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
