@@ -9,6 +9,12 @@
 
 
 {
+"name": "T Sports Channel",  
+"image": "https://www.img01.xyz/assets/img/ch_logo/TSportsChannel.png",  
+"url": "https://www.movie87hd.com/?r=tv_view&id=189",
+"playInNatPlayer": "true"
+},
+{
 "name": "True Premier Football HD 1",
 "image": "https://we-play.live/uploads/posters/-poster1602703965.jpeg",
 "url": "https://we-play.live/watching/tv/true-premier-football-hd-1",
@@ -96,9 +102,9 @@
 "playInNatPlayer": "tot"
 },
 {
-"name": "beIN SPORTS 2",
-"image": "https://we-play.live/uploads/posters/-poster1602703712.png",
-"url": "https://www.we-play.live/watching/tv/bein-sports-2",
+"name": "beIN SPORTS 3",
+"image": "https://we-play.live/uploads/posters/bein-sports-3-poster.jpg",
+"url": "https://we-play.live/watching/tv/bein-sports-3",
 "playInNatPlayer": "tot"
 },
 {
@@ -260,24 +266,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Abu Dhabi Sports 1",  
-"image": "https://i.imgur.com/lKl2wZH.png",  
-"url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Abu Dhabi Sports 2",  
-"image": "https://photos.live-tv-channels.org/tv-logo/ae-abu-dhabi-sports-2-5918-300x225.jpg",  
-"url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Abu Dhabi Sports 3",  
-"image": "https://photos.live-tv-channels.org/tv-logo/ae-abu-dhabi-sports-3-5166-300x225.jpg",  
-"url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
 "name": "ACC Network",  
 "image": "https://i.imgur.com/UHcFiHk.png",  
 "url": "https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8",
@@ -380,15 +368,21 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "TRUE SPORT 5",  
-"image": "https://www.img02.xyz/assets/img/ch_logo/sd-tsport5.png",  
-"url": "https://dooballrealtime.com/live-football/?id=2194727#https://www.ballzaa.com/linkdooball.php",
+"name": "Abu Dhabi Sports 1",  
+"image": "https://i.imgur.com/lKl2wZH.png",  
+"url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "T Sports Channel",  
-"image": "https://www.img01.xyz/assets/img/ch_logo/TSportsChannel.png",  
-"url": "https://www.movie87hd.com/?r=tv_view&id=189",
+"name": "Abu Dhabi Sports 2",  
+"image": "https://photos.live-tv-channels.org/tv-logo/ae-abu-dhabi-sports-2-5918-300x225.jpg",  
+"url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Abu Dhabi Sports 3",  
+"image": "https://photos.live-tv-channels.org/tv-logo/ae-abu-dhabi-sports-3-5166-300x225.jpg",  
+"url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 
