@@ -444,42 +444,8 @@
 "url": "https://www.livestream88.com/sport/sport-tv-4/",
 "playInNatPlayer": "tot"
 },
-{
-"name": "LFCTV",
-"image": "https://media-assets-01.thedrum.com/cache/images/thedrum-prod/public-drum_basic_article-111620-main_images-client-liverpoolfc--default--440.jpg",
-"url": "http://udoofree.com/movie2/409/single-live?watch=1",
-"playInNatPlayer": "tot"
-},
-{
-"name": "FusoMOV 1",
-"image": "https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",
-"url": "http://203.159.95.172:8081/live/action001/playlist.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Arenasport1",
-"image": "https://ballmun.com/asset/logo-channel/Arena%20sport%201.png",
-"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport1/sport-inter/arenasport1/chunks.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Sky Sports EPL",
-"image": "https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-premier.png",
-"url": "https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "SK1",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--333.png",
-"url": "http://194.15.225.98:8000/play/a2qu",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Dubai Sports",
-"image": "https://sv1.picz.in.th/images/2022/04/21/8aYfry.png",
-"url": "http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8",
-"playInNatPlayer": "tot"
-},
+
+
 
 
 
