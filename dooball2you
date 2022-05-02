@@ -328,9 +328,9 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cable TV"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19562634_ico.png",@TV
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
-#EXTINF:-1 group-title="Cable TV"tvg-logo="https://www.tvjaa.com/storage/tv-channels/mangorn.png",Dragon
+#EXTINF:-1 group-title="Cable TV"tvg-logo="https://www.tvjaa.com/storage/tv-channels/mangorn.png",Dragon TV
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
-#EXTINF:-1 group-title="Cable TV"tvg-logo="https://samuigreenstation.net/wp-content/uploads/2021/07/14808-1500x844.jpg",JOM YUT
+#EXTINF:-1 group-title="Cable TV"tvg-logo="https://s2.dmcdn.net/v/StXKv1WVIjy5ZeW2u/x1080",JOM YUT TV
 http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
 #EXTINF:-1 group-title="Cable TV"tvg-logo="https://image.makewebeasy.net/makeweb/0/HSqZMq6g7/LOOXAround/photo.jpg",Cool Channel
 https://moviektu.com/Cool/playlist.m3u8
