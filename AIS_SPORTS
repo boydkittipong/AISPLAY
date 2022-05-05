@@ -205,6 +205,12 @@
 {
 "name": "Galatasaray TV",  
 "image": "https://i1.wp.com/www.sporkolik.net/wp-content/uploads/2018/05/gs-tv-artik-sifresiz.jpg",  
+"url": "http://93.152.174.144:4000/play/barcatv/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "BARCA TV",  
+"image": "https://we-play.live/uploads/posters/barca-tv-poster1602801508.jpeg",  
 "url": "https://galatasaray.com/",
 "playInNatPlayer": "true"
 },
@@ -444,7 +450,18 @@
 "url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "RMC Sport 1",  
+"image": "https://img.sport-tv-guide.live/images/stations/a1427.png",  
+"url": "https://uload.ru.com/cdn/premium119/chunks.m3u8|Referer=https://player.licenses4.me",
+"playInNatPlayer": "true"
+},
+{
+"name": "RMC Sport 2",  
+"image": "https://img.sport-tv-guide.live/images/stations/a1428.png",  
+"url": "https://uload.ru.com/cdn/premium120/chunks.m3u8|Referer=https://player.licenses4.me",
+"playInNatPlayer": "true"
+},
 
 
 
