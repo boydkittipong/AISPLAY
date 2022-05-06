@@ -374,8 +374,6 @@ http://203.154.177.124:8899/live/ch12/playlist.m3u8
 http://203.154.177.124:8899/live/ch21/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", abc Australia 
 http://203.154.177.124:8899/live/ch8/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", pet club tv
-http://203.154.177.124:8899/live/ch9/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Egg Network 
 http://45.126.83.51/uq2663/h/h22/index.m3u8
 
