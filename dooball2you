@@ -146,7 +146,7 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
-#EXTINF:-73 tvg-logo="https://cdn2.ettoday.net/images/4602/d4602278.jpg" group-title="Documentary",Pet Club TV
+#EXTINF:-73 tvg-logo="https://www.i-pic.info/i/D05t155247.png" group-title="Documentary",Pet Club TV
 http://203.154.177.124:8899/live/ch9/playlist.m3u8
 
 
@@ -217,7 +217,7 @@ https://streaming.livescorethai.net/iptv/uk-mutv.stream/chunks.m3u8|User-Agent=e
 https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/k8wy152107.png",GSTV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://photos.live-tv-channels.org/tv-logo/es-barca-tv-9678.jpg",Barca tv
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/sAiF155255.png",Barca tv
 http://93.152.174.144:4000/play/barcatv/index.m3u8
 
 
@@ -413,10 +413,8 @@ http://45.126.83.51/uq2663/h/h22/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Barca tv
-http://93.152.174.144:4000/play/barcatv/index.m3u8
-#EXTINF:0 tvg-logo="TEST" group-title="SportsArab1",REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",Sport stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR", trace sport stars
