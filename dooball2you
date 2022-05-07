@@ -135,7 +135,7 @@ http://203.154.243.89:28010/pa/animal.ts
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/J2eQ155235.png",KNOWLEDGE | Science world(TH)
 http://203.154.243.89:28010/pa/sci.ts
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/Dq0i155440.png",KNOWLEDGE | True Explore Wild (TH)
-https://streaming.livescorethai.net/iptv/hd-natgeowildeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/8UiS149431.png",KNOWLEDGE | H (TH)
 https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/iO4Z149430.png",KNOWLEDGE | H2 (TH)
