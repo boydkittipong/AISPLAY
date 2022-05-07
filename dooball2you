@@ -365,7 +365,7 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cable TV"tvg-logo="https://www.i-pic.info/i/Kkdz152039.png",@TV
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
-#EXTINF:-1 group-title="Cable TV"tvg-logo="https://www.i-pic.info/i/MDWt152059.png",Dragon TV
+#EXTINF:-1 group-title="Cable TV"tvg-logo="https://www.i-pic.info/i/MDWt152059.png",Mungkorn
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 #EXTINF:-1 group-title="Cable TV"tvg-logo="https://www.i-pic.info/i/TuLv152058.png",JOM YUT TV
 http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
