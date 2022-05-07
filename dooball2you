@@ -464,14 +464,6 @@ http://62.28.71.186:45678/http/192.168.150.173:7073/spt3
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Sport tv +
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ballmun.com/asset/logo-channel/Arena%20sport%201.png",Arenasport1
-http://203.154.243.89:21201/nakhon
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ballmun.com/asset/logo-channel/Arena%20sport%202.png",Arenasport2
-http://203.154.243.89:21202/nakhon
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ballmun.com/asset/logo-channel/Arena%20sport%203.png",Arenasport3
-http://203.154.243.89:21203/nakhon
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ballmun.com/asset/logo-channel/Arena%20sport%204.png",Arenasport4
-http://203.154.243.89:21204/nakhon
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
