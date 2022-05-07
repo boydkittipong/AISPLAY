@@ -46,19 +46,22 @@ https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/AGu7155232.png",Hi
 http://203.154.243.89:28010/pa/hinews.ts
 
-#EXTINF:-1 tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/ANk6148438.png",CARTOON | CartoonClub(TH)
+#EXTINF:-1 tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/ANk6148438.png",KIDS TV | CartoonClub(TH)
 https://edge1-bkk.3bb.co.th:9443/cartoonLiveApp/cartoonLiveApp.stream/chunklist_w1586345374.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/Zt6a148469.png",CARTOON | Boomerang(TH)
+#EXTINF:-1  tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/Zt6a148469.png",KIDS TV | Boomerang(TH)
 https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/fxdz148470.png",CARTOON | Cartoon Network(TH)
+#EXTINF:-1  tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/fxdz148470.png",KIDS TV | Cartoon Network(TH)
 https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://www.i-pic.info/i/jb2N148473.png",CARTOON | TOONEE(TH)
+#EXTINF:-1 group-title="KidsTV"tvg-logo="https://www.i-pic.info/i/jb2N148473.png",KIDS TV | TOONEE(TH)
 http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/Wd4w155237.png",CARTOON | UMI(TH)
+#EXTINF:-1 tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/Wd4w155237.png",KIDS TV | UMI(TH)
 http://203.154.243.89:28010/pa/umi.ts
-#EXTINF:-1 tvg-id="21" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/gLBx148487.png",CARTOON | FWTOON
+#EXTINF:-1 tvg-id="21" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/gLBx148487.png",KIDS TV | FWTOON
 https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/VBJT155433.png",TV SERIES | True Series (TH)
+https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/cOh2148486.png",TV SERIES | FWSOV
 http://freelive.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/YN4i155233.png",TV SERIES | PING
