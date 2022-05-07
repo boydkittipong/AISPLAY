@@ -380,6 +380,13 @@ https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/nwNt152066.png",Rama Channel
 https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
 
+#EXTINF:-1  tvg-id="N/A" group-title="Cable TV" tvg-logo="https://i.ytimg.com/vi/ZLJDxzDvC0w/maxresdefault.jpg",Chinese Music
+http://203.154.243.89:28008/nakhon/nongmhui
+#EXTINF:-1  tvg-id="N/A" group-title="Cable TV" tvg-logo="https://images.all-free-download.com/images/graphiclarge/music_logo_flying_notes_and_dark_round_design_6826717.jpg",Nakhon Plange
+http://203.154.243.89:28008/nakhon/nakhonplange
+#EXTINF:-1  tvg-id="N/A" group-title="Cable TV" tvg-logo="https://t4.ftcdn.net/jpg/01/06/47/61/360_F_106476142_zMZkkTkhMeq0DIjV20oJI00e3QXLYIGN.jpg",Mon Plange
+http://203.154.243.89:28008/nakhon/monplange
+
 #EXTINF:-1 tvg-id="playboy.co" tvg-name="PLAYBOY" group-title="DISH MX" tvg-logo="https://www.i-pic.info/i/dMAL152063.png",XXX | PLAY BOY
 http://38.123.205.70:8000/play/a09a/index.m3u8
 #EXTINF:-1 tvg-id="sextreme.co" tvg-name="SEXTREME" group-title="DISH MX" tvg-logo="https://www.i-pic.info/i/VETO152052.png",XXX | SEX XTREME
