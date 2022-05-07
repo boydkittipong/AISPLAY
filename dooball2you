@@ -41,6 +41,8 @@ https://streaming.livescorethai.net/iptv/sd-tptv.stream/chunks.m3u8|User-Agent=e
 https://live.topnews.co.th/hls/topnews_a_1080.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/dzqn148390.png",NEWS1
 https://server1.streamssl.com/stream/news1_hi.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/AGu7155232.png",Hi
+http://203.154.243.89:28010/pa/hinews.ts
 
 #EXTINF:-1 tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/ANk6148438.png",CARTOON | CartoonClub(TH)
 https://edge1-bkk.3bb.co.th:9443/cartoonLiveApp/cartoonLiveApp.stream/chunklist_w1586345374.m3u8
@@ -50,11 +52,17 @@ https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8|User-Ag
 https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1 group-title="KidsTV"tvg-logo="https://www.i-pic.info/i/jb2N148473.png",CARTOON | TOONEE(TH)
 http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/Wd4w155237.png",CARTOON | UMI(TH)
+http://203.154.243.89:28010/pa/umi.ts
 #EXTINF:-1 tvg-id="21" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/gLBx148487.png",CARTOON | FWTOON
 https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="N/A" group-title="MoviesTV" tvg-logo="https://www.i-pic.info/i/cOh2148486.png",TV SERIES | FWSOV
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/cOh2148486.png",TV SERIES | FWSOV
 http://freelive.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/YN4i155233.png",TV SERIES | PING
+http://203.154.243.89:28010/pa/ping.ts
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/RQ7a155236.png",TV SERIES | SERIES CHANNEL
+http://203.154.243.89:28007/mss/series
 #EXTINF:-1 tvg-id="N/A" group-title="MoviesTV" tvg-logo="https://www.i-pic.info/i/yozx148485.png",MOVIES | FWMOV
 http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="MoviesTV"tvg-logo="https://www.i-pic.info/i/Y6o8148406.png",MOVIES | FusoMOV 1
@@ -65,6 +73,12 @@ http://203.159.95.172:8081/live/banner003/playlist.m3u8
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/OZgs148484.png",MOVIES | CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/JcYa155231.png",MOVIES | H CHANNEL
+http://203.154.243.89:28010/pa/hchannel.ts
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/r3zy155234.png",MOVIES | Universal
+http://203.154.243.89:28010/pa/universal.ts
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/WM7s155229.png",MOVIES | IZAa TV
+http://203.154.243.89:28007/mss/izaa
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/YnjQ148431.png",MOVIES | True Thai Film (TH)
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/dZvR148415.png",MOVIES | True Movie Hits (TH)
@@ -94,6 +108,7 @@ https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8|User-Agen
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 
 
+
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Yj8J152288.png" group-title="Variety",Fox life (EN)
 http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://www.i-pic.info/i/ji0F149425.png",TLC (EN)
@@ -104,26 +119,33 @@ https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8|User-Agent=ex
 https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://www.i-pic.info/i/HNdC149435.png",Lifetime (TH)
 https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/8UiS149431.png",H (TH)
+
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/NsGF155230.png",KNOWLEDGE | Animal world(TH)
+http://203.154.243.89:28010/pa/animal.ts
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/J2eQ155235.png",KNOWLEDGE | Science world(TH)
+http://203.154.243.89:28010/pa/sci.ts
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/8UiS149431.png",KNOWLEDGE | H (TH)
 https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/iO4Z149430.png",H2 (TH)
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/iO4Z149430.png",KNOWLEDGE | H2 (TH)
 https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/F8JO149429.png",Asian Food Channel (TH)
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/F8JO149429.png",KNOWLEDGE | Asian Food Channel (TH)
 https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/89tg149420.png",BBC Earth (TH)
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/89tg149420.png",KNOWLEDGE | BBC Earth (TH)
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/fAXp149423.png",Discovery Asia (TH)
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/fAXp149423.png",KNOWLEDGE | Discovery Asia (TH)
 https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/s0bP149432.png",National Geographic (TH)
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/s0bP149432.png",KNOWLEDGE | National Geographic (TH)
 https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/968J149427.png",Discovery Turbo (UK)
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/968J149427.png",KNOWLEDGE | Discovery Turbo (UK)
 https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/KjCf149428.png",DMAX (EN)
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/KjCf149428.png",KNOWLEDGE | DMAX (EN)
 https://streaming.livescorethai.net/iptv/sd-dmaxeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-68 tvg-logo="https://www.i-pic.info/i/oh9y152091.png" group-title="Documentary",Love nature (EN)
+#EXTINF:-68 tvg-logo="https://www.i-pic.info/i/oh9y152091.png" group-title="Documentary",KNOWLEDGE | Love nature (EN)
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-73 tvg-logo="https://www.i-pic.info/i/PtMD152101.png" group-title="Documentary",Nasa tv (EN)
+#EXTINF:-73 tvg-logo="https://www.i-pic.info/i/PtMD152101.png" group-title="Documentary",KNOWLEDGE | Nasa tv (EN)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+
 #EXTINF:-73 tvg-logo="https://cdn2.ettoday.net/images/4602/d4602278.jpg" group-title="Documentary",Pet Club TV
 http://203.154.177.124:8899/live/ch9/playlist.m3u8
 
