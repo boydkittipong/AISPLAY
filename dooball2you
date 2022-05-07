@@ -120,8 +120,7 @@ https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8|User-Agent
 #EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://www.i-pic.info/i/HNdC149435.png",Lifetime (TH)
 https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/m9Lh155264.png",KNOWLEDGE | Doonee tv(TH)
-http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8
+
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/NsGF155230.png",KNOWLEDGE | Animal world(TH)
 http://203.154.243.89:28010/pa/animal.ts
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/J2eQ155235.png",KNOWLEDGE | Science world(TH)
@@ -353,6 +352,8 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/IEDv152075.png",NEWS | CBS NEWS
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/m9Lh155264.png",Doonee tv(TH)
+http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Cable TV"tvg-logo="https://www.i-pic.info/i/OnXe152037.png",Southern TV
 https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Cable TV"tvg-logo="https://www.i-pic.info/i/TIF0152043.png",Farm TV
