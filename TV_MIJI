@@ -480,6 +480,397 @@
 "url": "https://www.livestream88.com/sport/sport-tv-4/",
 "playInNatPlayer": "tot"
 },
+{
+"name"			:	"True Premier Football HD 1",
+"image"			:	"https://we-play.live/uploads/posters/-poster1602703965.jpeg",
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+ 
+{
+"name"			:	"True Premier Football HD 2",
+"image"			:	"https://we-play.live/uploads/posters/-poster1602703981.jpeg",
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+ 
+{
+"name"			:	"True Premier Football HD 3",
+"image"			:	"https://we-play.live/uploads/posters/-poster1602703991.jpeg",
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+ 
+{
+"name"			:	"True Premier Football HD 4",
+"image"			:	"https://we-play.live/uploads/posters/-poster1602704002.jpeg",
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+ 
+{
+"name"			:	"True Premier Football HD 5",
+"image"			:	"https://we-play.live/uploads/posters/-poster1602704009.jpeg",
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+ 
+{
+"name"			:	"True Sport 1 (TH)",
+"image"			:	"https://we-play.live/uploads/posters/true-sports-1-poster.jpg",
+"url"			:	"https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"True Sport 2 (TH)",
+"image"			:	"https://we-play.live/uploads/posters/true-sports-2-poster.jpg",
+"url"			:	"https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"True Sport 3 (TH)",
+"image"			:	"https://we-play.live/uploads/posters/true-sports-3-poster.jpg",
+"url"			:	"https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"True Sport 5 (TH)",
+"image"			:	"https://we-play.live/uploads/posters/-poster1602704158.jpeg",
+"url"			:	"https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"True Sport 7 (TH)",
+"image"			:	"https://we-play.live/uploads/posters/-poster1602704170.jpeg",
+"url"			:	"https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"Premier Sports (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/premier-sports.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-premiersports.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"Sky Bundesliga (DE)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/bundesliga.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"NBC Golf",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/golf.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/hd-golfeng.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"Sky Sports Premier League (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-premier.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"Sky Sports News (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-news.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-skysports-news.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"Sky Sports Mix (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-mix.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-skysports-mix.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"Sky Sports Golf (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-golf.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-skysports-golf.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"Sky Sports Football (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-football-1.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"Racing UK (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/racing-uk-1.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-racing.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"Liverpool FC TV",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/lfc-tv.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"At The Races (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/at-the-races.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-attheraces.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"FOX Sports 2 (US)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/fox-sports.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/us-foxsports2.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"FOX Sports 1 (US)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/fox-sports.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/us-foxsports1.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"Euro Sport (FR)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/euro-sport.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/fr-eurosport.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"Sky Sports Arena (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-arena.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-skysports-arena.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"Euro Sport 2 (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/euro-sport.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-eurosport2.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"BT Sports 1 HD (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/bt-sport-1.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"BT Sports 2 HD (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/bt-sport-1.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"BT Sports 3 HD (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/bt-sport-1.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"True Tennis HD (TH)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/true-tennis.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/hd-tennis.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"NBA TV (TH)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/nba-tv.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/hd-nba.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"Sky Sports Action (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-action.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-skysports-action.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"Sky Sport F1 (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-fi.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-skysports-f1.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"Sky Sports Cricket (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-cricket.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-skysports-cricket.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"Sky Sport Main Event (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-mainevent.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-skysports-mainevent.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"Chelsea TV (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/chelseas-tv.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-chelseatv.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"ESPN (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/espn.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-espn.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"Golf Channel Thailand (TH)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/golf-channel.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/hd-golf.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"MUTV (UK)",
+"image"			:	"https://freetvdd.com/wp-content/uploads/2019/12/mutv.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-mutv.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
 
 
 
