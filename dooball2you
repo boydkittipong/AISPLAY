@@ -623,6 +623,10 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/astro1/chunks.m3u8|Referer=h
 #EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/astro-supersport-3-poster1602800856.jpeg",Astro Supersport 3
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/astro3/chunks.m3u8|Referer=https://player.licenses4.me
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F1d7dc8be-49df-46c7-ac16-4847229c6ab9.png&w=320&h=240",Plookpanya Channel
+https://cdn701.stm.trueid.net/live4/139_w_auto_tidapp.smil/chunklist_w1301639701_b2537779_vo_sltha_t64TWFpbg==.m3u8|Referer=https://player.licenses4.me
 
 
 
