@@ -515,13 +515,19 @@ https://uload.ru.com/cdn/premium104/chunks.m3u8|Referer=https://player.licenses4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=c2VydmVyX3RpbWU9NS84LzIwMjIgMTE6NDM6MDIgQU0maGFzaF92YWx1ZT1hUHhNY1BhaHdVYW9pVFRWSUxEaWd3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.pngkey.com/png/detail/303-3038868_the-60s-to-90s-hits.png",HITS Movies
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704685.jpeg",HITS Movies
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/hitsmovies/chunks.m3u8|Referer=https://player.licenses4.me
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=c2VydmVyX3RpbWU9NS84LzIwMjIgMTI6NDA6MTEgUE0maGFzaF92YWx1ZT1wSVhyYlFEV1EwTmRpb0NoQjc1SkJRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjImaWQ9ODcyMDEx
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-sci.png",True Explore SCI (TH)
-https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r7/truesci/chunks.m3u8|Referer=https://player.licenses4.me
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704522.jpeg",Food Network
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/foodnetwork/chunks.m3u8|Referer=https://player.licenses4.me
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704694.jpeg",KBS World
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/kbs/chunks.m3u8|Referer=https://player.licenses4.me
+
 
 
 
