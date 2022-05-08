@@ -21,7 +21,7 @@ https://streaming.livescorethai.net/iptv/hd-amarin.stream/chunks.m3u8|User-Agent
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/ay0i148387.png",MONO29
 https://streaming.livescorethai.net/iptv/hd-mono.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/6tGq148397.png",Workpoint TV
-http://61.19.242.134/feed/202105171329/chworkpoint/index.m3u8
+https://streaming.livescorethai.net/iptv/hd-workpoint.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/skWC148395.png",True4U
 https://streaming.livescorethai.net/iptv/sd-24u.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/yJ2z148382.png",CH8
@@ -515,8 +515,14 @@ https://uload.ru.com/cdn/premium104/chunks.m3u8|Referer=https://player.licenses4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=c2VydmVyX3RpbWU9NS84LzIwMjIgMTE6NDM6MDIgQU0maGFzaF92YWx1ZT1hUHhNY1BhaHdVYW9pVFRWSUxEaWd3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://i.ibb.co/QpFxWKq/1280px-Sportklub-Logo-svg.png",HITS Movies
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.pngkey.com/png/detail/303-3038868_the-60s-to-90s-hits.png",HITS Movies
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/hitsmovies/chunks.m3u8|Referer=https://player.licenses4.me
 
-#EXTINF:-1 group-title="WorldSports" tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SE6nZ.png",Movies World 1
-http://61.19.242.134/feed/202105171329/LC11/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=c2VydmVyX3RpbWU9NS84LzIwMjIgMTI6NDA6MTEgUE0maGFzaF92YWx1ZT1wSVhyYlFEV1EwTmRpb0NoQjc1SkJRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjImaWQ9ODcyMDEx
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-sci.png",True Explore SCI (TH)
+https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r7/truesci/chunks.m3u8|Referer=https://player.licenses4.me
+
+
+
+
