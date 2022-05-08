@@ -193,13 +193,13 @@
 {
 "name": "Galatasaray TV",  
 "image": "https://i1.wp.com/www.sporkolik.net/wp-content/uploads/2018/05/gs-tv-artik-sifresiz.jpg",  
-"url": "http://93.152.174.144:4000/play/barcatv/index.m3u8",
+"url": "https://galatasaray.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "BARCA TV",  
 "image": "https://we-play.live/uploads/posters/barca-tv-poster1602801508.jpeg",  
-"url": "https://galatasaray.com/",
+"url": "http://93.152.174.144:4000/play/barcatv/index.m3u8",
 "playInNatPlayer": "true"
 },
 {
