@@ -21,7 +21,7 @@ https://streaming.livescorethai.net/iptv/hd-amarin.stream/chunks.m3u8|User-Agent
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/ay0i148387.png",MONO29
 https://streaming.livescorethai.net/iptv/hd-mono.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/6tGq148397.png",Workpoint TV
-https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
+http://61.19.242.134/feed/202105171329/chworkpoint/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/skWC148395.png",True4U
 https://streaming.livescorethai.net/iptv/sd-24u.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/yJ2z148382.png",CH8
@@ -373,8 +373,17 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/IEDv152075.png",NEWS | CBS NEWS
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
+
+
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/m9Lh155264.png",Doonee TV
 http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/NRA8155298.png",Chinese Music
+http://203.154.243.89:28008/nakhon/nongmhui
+#EXTINF:-1  tvg-id="N/A" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/SBpi155299.png",Nakhon Pleng
+http://203.154.243.89:28008/nakhon/nakhonplange
+#EXTINF:-1  tvg-id="N/A" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/z7cy155297.png",Mon Pleng
+http://203.154.243.89:28008/nakhon/monplange
+
 #EXTINF:-1 tvg-id="N/A" group-title="Cable TV"tvg-logo="https://www.i-pic.info/i/OnXe152037.png",Southern TV
 https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Cable TV"tvg-logo="https://www.i-pic.info/i/TIF0152043.png",Farm TV
@@ -404,12 +413,6 @@ https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/nwNt152066.png",Rama Channel
 https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
 
-#EXTINF:-1  tvg-id="N/A" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/NRA8155298.png",Chinese Music
-http://203.154.243.89:28008/nakhon/nongmhui
-#EXTINF:-1  tvg-id="N/A" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/SBpi155299.png",Nakhon Pleng
-http://203.154.243.89:28008/nakhon/nakhonplange
-#EXTINF:-1  tvg-id="N/A" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/z7cy155297.png",Mon Pleng
-http://203.154.243.89:28008/nakhon/monplange
 
 #EXTINF:-1 tvg-id="playboy.co" tvg-name="PLAYBOY" group-title="DISH MX" tvg-logo="https://www.i-pic.info/i/dMAL152063.png",XXX | PLAY BOY
 http://38.123.205.70:8000/play/a09a/index.m3u8
@@ -421,7 +424,16 @@ http://38.123.205.70:8000/play/a09b/index.m3u8
 http://94.229.250.73:8008/play/a002
 
 
-
+#EXTINF:-1 tvg-id="" tvg-country="SE" tvg-language="Swedish" tvg-logo="" group-title="THỂ THAO",Astro Super Sport 1
+http://203.154.243.89:21201/nakhon
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",Astro Super Sport 2
+http://203.154.243.89:21202/nakhon
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",Astro Super Sport 3
+http://203.154.243.89:21203/nakhon
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",Astro Super Sport 4 +1
+http://203.154.243.89:21204/nakhon
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO", Astro Super Sport 4
+http://203.154.243.89:21204/saraburi1
 
 #EXTINF:-1 tvg-logo="TEST" group-title="CAMPUR",PFM TV Musik
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w414233074.m3u8
@@ -463,15 +475,6 @@ https://uload.ru.com/cdn/premium34/chunks.m3u8|Referer=https://player.licenses4.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="WorldSports" tvg-logo="WorldSports",Vivo
 https://uload.ru.com/cdn/premium83/chunks.m3u8|Referer=https://player.licenses4.me
-
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Sport tv 1
-http://62.28.71.186:45678/http/192.168.150.173:7073/spt1
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Sport tv 2
-http://62.28.71.186:45678/http/192.168.150.173:7073/spt2
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Sport tv 3
-http://62.28.71.186:45678/http/192.168.150.173:7073/spt3
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldSports",Sport tv +
-http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
