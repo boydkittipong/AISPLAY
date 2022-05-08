@@ -8,18 +8,6 @@
 
 
 {
-"name": "PPTV HD",  
-"image": "https://we-play.live/uploads/posters/pptv-hd-poster1602705047.jpeg",  
-"url": "https://www.movie87hd.com/?r=tv_view&id=9",
-"playInNatPlayer": "true"
-},
-{
-"name": "T Sports Channel",  
-"image": "https://www.img02.xyz/assets/img/ch_logo/TSportsChannel.png",  
-"url": "https://www.movie87hd.com/?r=tv_view&id=189",
-"playInNatPlayer": "true"
-},
-{
 "name": "True Premier Football HD 1",
 "image": "https://we-play.live/uploads/posters/-poster1602703965.jpeg",
 "url": "https://we-play.live/watching/tv/true-premier-football-hd-1",
@@ -450,31 +438,6 @@
 "url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8",
 "playInNatPlayer": "true"
 },
-{
-"name": "RMC Sport 1",  
-"image": "https://img.sport-tv-guide.live/images/stations/a1427.png",  
-"url": "https://uload.ru.com/cdn/premium119/chunks.m3u8|Referer=https://player.licenses4.me",
-"playInNatPlayer": "true"
-},
-{
-"name": "RMC Sport 2",  
-"image": "https://img.sport-tv-guide.live/images/stations/a1428.png",  
-"url": "https://uload.ru.com/cdn/premium120/chunks.m3u8|Referer=https://player.licenses4.me",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sport tv 1",  
-"image": "",  
-"url": "http://62.28.71.186:45678/http/192.168.150.173:7073/spt1",
-"playInNatPlayer": "true"
-},
-{
-"name": "ASSP 1",  
-"image": "",  
-"url": "http://203.154.243.89:21201/nakhon",
-"playInNatPlayer": "true"
-},
-
 
 
 
