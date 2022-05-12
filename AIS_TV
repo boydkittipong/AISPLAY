@@ -445,30 +445,6 @@
 "playInNatPlayer": "tot"
 },
 {
-"name": "Cinemax",
-"image": "https://ustvgo.tv/wp-content/uploads/2020/04/cinemax.jpg",
-"url": "https://ustvgo.tv/cinemax",
-"playInNatPlayer": "tot"
-},
-{
-"name": "MTV",
-"image": "https://ustvgo.tv/wp-content/uploads/2019/08/mtv.jpg",
-"url": "https://ustvgo.tv/mtv/",
-"playInNatPlayer": "tot"
-},
-{
-"name": "The CW",
-"image": "https://seeklogo.com/images/T/The_CW-logo-41446F49E7-seeklogo.com.png",
-"url": "https://ustvgo.tv/the-cw-live-streaming-free",
-"playInNatPlayer": "tot"
-},
-{
-"name": "FXM",
-"image": "https://ustvgo.tv/wp-content/uploads/2019/08/FXM.png",
-"url": "https://ustvgo.tv/fxm",
-"playInNatPlayer": "tot"
-},
-{
 "name": "NHK World",
 "image": "https://we-play.live/uploads/posters/nhk-world-poster1602706359.jpeg",
 "url": "https://we-play.live/watching/tv/nhk-world",
@@ -486,6 +462,125 @@
 "url": "https://ustvgo.tv/fox-news-live-streaming-free",
 "playInNatPlayer": "tot"
 },
+{
+"name"			:	"T Sports Channel",
+"image"			:	"https://www.img02.xyz/assets/img/ch_logo/TSportsChannel.png",
+"url"			:	"https://smart-tv.livedoomovies.com:4431/02_T_Sports_480p/chunklist.m3u8",         
+"referer"		:	"https://www.doofootball.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"Hi",
+"image"			:	"https://www.i-pic.info/i/AGu7155232.png",
+"url"			:	"http://203.154.243.89:28010/pa/hinews.ts",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"UMI",
+"image"			:	"https://www.i-pic.info/i/Wd4w155237.png",
+"url"			:	"http://203.154.243.89:28010/pa/umi.ts",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"FWTOON",
+"image"			:	"https://www.i-pic.info/i/gLBx148487.png",
+"url"			:	"https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"FWSOV",
+"image"			:	"https://www.i-pic.info/i/cOh2148486.png",
+"url"			:	"http://freelive.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"FWMOV",
+"image"			:	"https://www.i-pic.info/i/yozx148485.png",
+"url"			:	"http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"PING",
+"image"			:	"https://www.i-pic.info/i/YN4i155233.png",
+"url"			:	"http://203.154.243.89:28010/pa/ping.ts",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"SERIES CHANNEL",
+"image"			:	"https://www.i-pic.info/i/RQ7a155236.png",
+"url"			:	"http://203.154.243.89:28007/mss/series",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"Universal Movie",
+"image"			:	"https://www.i-pic.info/i/r3zy155234.png",
+"url"			:	"http://203.154.243.89:28010/pa/universal.ts",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"IZAa TV",
+"image"			:	"https://www.i-pic.info/i/keps157068.png",
+"url"			:	"http://203.154.243.89:28007/mss/izaa",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"True Series",
+"image"			:	"https://www.i-pic.info/i/VBJT155433.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8",         
+"referer"		:	"https://livescorethai.net/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"True Inside",
+"image"			:	"https://www.i-pic.info/i/VGHX149422.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8",         
+"referer"		:	"https://livescorethai.net/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"HBO",
+"image"			:	"https://www.i-pic.info/i/fbDM148472.png",
+"url"			:	"http://ip2121.com:8081/web1/hbo/playlist.m3u8",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
 
 
 
