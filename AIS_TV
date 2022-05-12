@@ -579,7 +579,78 @@
 "desktop"		:	"true",
 "playInNatPlayer"	:	"true"
 },
-
+{
+"name"			:	"HKBS World",
+"image"			:	"https://i.imgur.com/3rmGq4q.jpg",
+"url"			:	"https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"Cinemax",
+"image"			:	"https://www.i-pic.info/i/T8AR152036.png",
+"url"			:	"http://ip2121.com:8081/live/cinemax/playlist.m3u8",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"H CHANNEL",
+"image"			:	"https://www.i-pic.info/i/JcYa155231.png",
+"url"			:	"http://203.154.243.89:28010/pa/hchannel.ts",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"Warner TV",
+"image"			:	"https://www.i-pic.info/i/pXRq148432.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8",         
+"referer"		:	"https://livescorethai.net/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"Universal Channel",
+"image"			:	"https://www.i-pic.info/i/k4bc148427.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/uk-universal.stream/chunks.m3u8",         
+"referer"		:	"https://livescorethai.net/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"True Explore Wild",
+"image"			:	"https://www.i-pic.info/i/Dq0i155440.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8",         
+"referer"		:	"https://livescorethai.net/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"BBC Earth",
+"image"			:	"https://www.i-pic.info/i/89tg149420.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8",         
+"referer"		:	"https://livescorethai.net/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"World Snooker",
+"image"			:	"https://www.i-pic.info/i/qelH155239.png",
+"url"			:	"http://203.154.243.89:28010/pa/snooker.ts",         
+"referer"		:	"https://livescorethai.net/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
 
 
 
