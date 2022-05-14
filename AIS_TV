@@ -463,15 +463,6 @@
 "playInNatPlayer": "tot"
 },
 {
-"name"			:	"T Sports Channel",
-"image"			:	"https://www.img02.xyz/assets/img/ch_logo/TSportsChannel.png",
-"url"			:	"https://smart-tv.livedoomovies.com:4431/02_T_Sports_480p/chunklist.m3u8",         
-"referer"		:	"https://www.doofootball.com/",
-"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true"
-},
-{
 "name"			:	"Hi",
 "image"			:	"https://www.i-pic.info/i/AGu7155232.png",
 "url"			:	"http://203.154.243.89:28010/pa/hinews.ts",         
@@ -572,6 +563,33 @@
 },
 {
 "name"			:	"HBO",
+"image"			:	"https://www.img.in.th/images/84de7af429e6f5426031b5248b490d95.jpg",
+"url"			:	"http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hits",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"HBO FAMILY",
+"image"			:	"https://www.img.in.th/images/16d381c3c705aa7e60cffca7cb033e8a.jpg",
+"url"			:	"http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"HBO SIGNATURE",
+"image"			:	"https://www.img.in.th/images/6eac887110c3052325a0cad4a63483d2.jpg",
+"url"			:	"http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"HBO HITS",
 "image"			:	"https://www.i-pic.info/i/fbDM148472.png",
 "url"			:	"http://ip2121.com:8081/web1/hbo/playlist.m3u8",         
 "referer"		:	"",
