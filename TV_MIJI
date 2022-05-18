@@ -872,6 +872,14 @@ name:"CINEMAX",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKvK6eieRrscO48zmUXTgfT-vlhcNrcPUDw&usqp=CAU",
 url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd"
 },
+{
+name:"Sumlojlok",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jbMqrJUKJ0-7_J8JQCtOj4VFDo__7LlLiw&usqp=CAU",
+url:"http://61.19.242.134/feed/202105171329/LC8/index.m3u8",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+ "playInNatPlayer": "true"
+},
+
 
 
 
