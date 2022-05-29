@@ -6,12 +6,7 @@
 "stations": [
 
 
-{
-"name": "sd-nbt",
-"image": "https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel="sd-nbt"&api_key=hmcb4rf66f",
-"playInNatPlayer": "tot"
-},
+
 {
 "name": "CH3 HD",
 "image": "https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg",
