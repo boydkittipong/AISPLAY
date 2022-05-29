@@ -14,12 +14,7 @@
               "playInNatPlayer": "true"
             },
 
- {
-              "name": "pptv",
-              "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
-              "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-pptv&api_key=hmcb4rf66f",
-              "referer": "https://dooball66.com/ดูทีวีออนไลน์/"
-            },
+
 
 
 {"name"          :  "True Premier Fooball HD 5",
