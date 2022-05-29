@@ -7,6 +7,12 @@
 
 
 {
+"name": "sd-nbt",
+"image": "https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel="sd-nbt"&api_key=hmcb4rf66f",
+"playInNatPlayer": "tot"
+},
+{
 "name": "CH3 HD",
 "image": "https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg",
 "url": "http://61.19.242.134/feed/202105171329/ch3hd/index.m3u8",
@@ -842,16 +848,7 @@
 "playInNatPlayer"   :     "true"
 },
 
-{
-"name"              :     "Golf Thailand plus",
-"image"             :     "https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",
-"url"               :     "https://playerembed-lb.blackboxsys.net/player.php?channel="sd-nbt"&api_key=hmcb4rf66f",
-"referer"           :     "https://www.dooball66.com",
-"userAgent"         :     "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info":  "By วิน นักแสวงหา",
-"desktop"           :     "true",
-"playInNatPlayer"   :     "true"
-},
+
 
 
 
