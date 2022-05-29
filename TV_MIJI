@@ -886,7 +886,13 @@ url:"http://61.19.242.134/feed/202105171329/LC8/index.m3u8",
 "playInNatPlayer"   :     "true"},
 
 
-
+{"name"          :  "Golf Thailand plus",
+"image"          :  "https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",
+"url"            :  "https://playerembed-lb.blackboxsys.net/player.php?channel="sd-nbt"&api_key=hmcb4rf66f",
+"referer"        :  "https://www.dooball66.com/",
+"info" : "By วิน นักแสวงหา",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
 
 
 ]
