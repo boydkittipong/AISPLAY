@@ -7,6 +7,21 @@
 
 
 
+ {
+              "name": "true4u",
+              "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
+              "url": "https://tv.trueid.net/embed/true4u?autoplay=yes&nopageview=yes",
+              "playInNatPlayer": "true"
+            },
+
+ {
+              "name": "pptv",
+              "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
+              "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-pptv&api_key=hmcb4rf66f",
+              "referer": "https://dooball66.com/ดูทีวีออนไลน์/"
+            },
+
+
 {"name"          :  "True Premier Fooball HD 5",
 "image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",
 "url"               :     "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-5&api_key=hmcb4rf66f",
