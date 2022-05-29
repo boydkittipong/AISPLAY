@@ -7,13 +7,6 @@
 
 
 
- {
-              "name": "true4u",
-              "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
-              "url": "https://tv.trueid.net/embed/true4u?autoplay=yes&nopageview=yes",
-              "playInNatPlayer": "true"
-            },
-
 
 
 
@@ -29,7 +22,7 @@
 "image"          :  "https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",
 "url"               :     "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f",
 "referer"           :     "https://dooball66.com/",
-"userAgent"         :     "Mozilla/5.0 (Linux; NetCast; U) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.33 Safari/537.31 SmartTV/5.0",
+"userAgent"         :     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36",
 "info" : "By วิน นักแสวงหา",
 "playInNatPlayer": "true"},
 
