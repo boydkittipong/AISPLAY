@@ -29,7 +29,7 @@
 "image"          :  "https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",
 "url"               :     "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f",
 "referer"           :     "https://dooball66.com/",
-"userAgent"         :     "Mozilla/5.0 (SMART-TV; Linux; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.0 Safari/537.36",
+"userAgent"         :     "Mozilla/5.0 (Linux; NetCast; U) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.33 Safari/537.31 SmartTV/5.0",
 "info" : "By วิน นักแสวงหา",
 "playInNatPlayer": "true"},
 
