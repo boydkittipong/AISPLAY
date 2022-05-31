@@ -10,21 +10,7 @@
 
 
 
-{"name"          :  "True Premier Fooball HD 5",
-"image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",
-"url"               :     "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-5&api_key=hmcb4rf66f",
-"referer"           :     "https://dooball66.com/",
-"userAgent"         :     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36",
-"info" : "By วิน นักแสวงหา",
-"playInNatPlayer": "true"},
 
-{"name"          :  "tfilm2",
-"image"          :  "https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",
-"url"               :     "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f",
-"referer"           :     "https://dooball66.com/",
-"userAgent"         :     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36",
-"info" : "By วิน นักแสวงหา",
-"playInNatPlayer": "true"},
 
 {
 "name": "CH3 HD",
@@ -863,7 +849,21 @@
 },
 
 
+{"name"          :  "True Premier Fooball HD 5",
+"image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"               :     "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-5&api_key=hmcb4rf66f",
+"referer"           :     "https://dooball66.com/",
+"userAgent"         :     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36",
+"info" : "By วิน นักแสวงหา",
+"playInNatPlayer": "true"},
 
+{"name"          :  "tfilm2",
+"image"          :  "https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",
+"url"               :     "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f",
+"referer"           :     "https://dooball66.com/",
+"userAgent"         :     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36",
+"info" : "By วิน นักแสวงหา",
+"playInNatPlayer": "true"},
 
 
 
