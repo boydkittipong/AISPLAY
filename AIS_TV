@@ -9,7 +9,7 @@
 {
 "name": "CH3 HD",
 "image": "https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg",
-"url": "https://www.we-play.live/watching/tv/ch3-hd",
+"url": "https://freelive.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -21,7 +21,7 @@
 {
 "name": "CH7 HD",
 "image": "https://we-play.live/uploads/posters/ch7-hd-poster1602704980.jpeg",
-"url": "https://www.we-play.live/watching/tv/ch7-hd",
+"url": "https://freelive2.inwstream.com:1936/freelive-edge/7hd/chunks.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -33,7 +33,7 @@
 {
 "name": "MCOT HD",
 "image": "https://we-play.live/uploads/posters/mcot-hd-poster1602705016.jpeg",
-"url": "https://www.we-play.live/watching/tv/mcot-hd",
+"url": "https://freelive.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -45,7 +45,7 @@
 {
 "name": "PPTV HD",
 "image": "https://we-play.live/uploads/posters/pptv-hd-poster1602705047.jpeg",
-"url": "https://www.we-play.live/watching/tv/pptv-hd",
+"url": "https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/chunks.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -57,7 +57,7 @@
 {
 "name": "ONE HD",
 "image": "https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg",
-"url": "https://www.we-play.live/watching/tv/one-hd",
+"url": "https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -75,13 +75,13 @@
 {
 "name": "Amarin TV",
 "image": "https://we-play.live/uploads/posters/amarin-tv-poster1602705120.jpeg",
-"url": "https://www.adintrend.tv/hd/ch26?t=live",
+"url": "https://freelive2.inwstream.com:1936/freelive-edge/amarinhd/chunks.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "GMM25",
 "image": "https://we-play.live/uploads/posters/gmm25-poster1602705192.jpeg",
-"url": "https://www.we-play.live/watching/tv/gmm25",
+"url": "https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -93,7 +93,7 @@
 {
 "name": "CH5 HD",
 "image": "https://we-play.live/uploads/posters/ch5-hd-poster1602705162.jpeg",
-"url": "https://www.we-play.live/watching/tv/ch5-hd",
+"url": "https://freelive.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -105,7 +105,7 @@
 {
 "name": "MONO29",
 "image": "https://we-play.live/uploads/posters/mono29-poster1602705220.jpeg",
-"url": "https://www.we-play.live/watching/tv/mono29",
+"url": "https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -123,13 +123,13 @@
 {
 "name": "NationTV",
 "image": "https://we-play.live/uploads/posters/nationtv-poster1602705258.jpeg",
-"url": "https://www.adintrend.tv/hd/ch37?t=live",
+"url": "https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "Thai PBS",
 "image": "https://we-play.live/uploads/posters/thai-pbs-poster1602705288.jpeg",
-"url": "https://www.we-play.live/watching/tv/thai-pbs",
+"url": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -141,7 +141,7 @@
 {
 "name": "ไทยรัฐ",
 "image": "https://we-play.live/uploads/posters/thairath-tv-poster1602705329.jpeg",
-"url": "https://www.we-play.live/watching/tv/thairath-tv",
+"url": "https://freelive.inwstream.com:1936/freelive-edge/thairahttvhd/chunks.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -153,7 +153,7 @@
 {
 "name": "true4U",
 "image": "https://we-play.live/uploads/posters/true4u-poster1602705363.jpeg",
-"url": "https://www.we-play.live/watching/tv/true4u",
+"url": "https://freelive2.inwstream.com:1936/freelive-edge/true4u/chunks.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -165,7 +165,7 @@
 {
 "name": "Workpoint",
 "image": "https://we-play.live/uploads/posters/workpoint-poster1602705391.jpeg",
-"url": "https://we-play.live/watching/tv/workpoint",
+"url": "https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -177,7 +177,7 @@
 {
 "name": "เอ็นบีที NBT",
 "image": "https://we-play.live/uploads/posters/11-nbt-poster1603940103.jpeg",
-"url": "https://www.adintrend.tv/hd/ch11?t=live",
+"url": "http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -189,13 +189,13 @@
 {
 "name": "JKN 18",
 "image": "https://we-play.live/uploads/posters/jkn-18-poster.jpg",
-"url": "https://www.we-play.live/watching/tv/jkn-18",
+"url": "https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/chunklist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "CH8",
 "image": "https://we-play.live/uploads/posters/ch8-poster.jpg",
-"url": "https://we-play.live/watching/tv/ch8",
+"url": "https://freelive.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
