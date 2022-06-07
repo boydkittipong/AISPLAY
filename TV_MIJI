@@ -827,7 +827,56 @@
 "playInNatPlayer": "true"}, 
 
 
-
+{
+"name": "HBO",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0qGExFqdU32p4rCwxHQV1laSKJgcm_iC4MA&usqp=CAU",
+"url": "http://ip2121.com:8081/web1/hbo/playlist.m3u8",
+},
+{
+"name": "HBO HITS",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjX9N41S1fWY3e2kF2ErUSTZYDWo-uKH0Cg&usqp=CAU",
+"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd",
+},
+{
+"name": "HBO SIGNATURE",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT09O5ynHfI9H3pDVYQX_c7FcMmbFwDq7r1hg&usqp=CAU",
+"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd",
+},
+{
+"name": "HBO FAMILY",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN11kZp9C_j2aeVsfbtcXeC7HouWQjY4wMaQ&usqp=CAU",
+"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd",
+},
+{
+"name": "CINEMAX",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKvK6eieRrscO48zmUXTgfT-vlhcNrcPUDw&usqp=CAU",
+"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd",
+},
+{
+"name": "MONO MUSIC",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm4P4oPdjtxZ9GppTQjhIy-ivFTgxXpWW6g&usqp=CAU",
+"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/202/202.mpd",
+},
+{  
+"name": "A lure channel",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl6EIALl2vS_aY9L1X1gfDgE7QHEXJVhZJmw&usqp=CAU",
+"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/204/204.mpd",
+},
+{  
+"name": "RUSH STORIES",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxYrHO0BKlxdFooaj8vocKhdYd95VdaVp75w&usqp=CAU",
+"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/203/203.mpd",
+},
+{
+"name": "MONO PLUS",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgpLGDPDLfKxb9HKqCcPOB-FAqG__jMZJtxg&usqp=CAU",
+"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/109/109.mpd",
+},
+{
+"name": "3BB Asian",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0F5nlb1-dCVsYYkj9ERFyKyprKn3xVxtSng&usqp=CAU",
+"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd",
+},
 
 
 
