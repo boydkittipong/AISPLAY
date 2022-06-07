@@ -216,6 +216,151 @@
 "url": "https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8",
 "playInNatPlayer": "tot"
 },
+
+{
+"name": "True Film 1",
+"image": "https://www.i-pic.info/i/CWAO148414.png",
+"url": "https://mediasv.online/stream_live/222_True_Film_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1Nzo1MiBQTSZoYXNoX3ZhbHVlPWhzdTcwbTBLVXk2cjI0RTdPVWlJd0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNTE1Njg=",
+"playInNatPlayer": "tot"
+},
+
+{
+"name"			:	"True Thai Film",
+"image"			:	"https://www.i-pic.info/i/YnjQ148431.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name": "True Movie Hits",
+"image": "https://www.i-pic.info/i/dZvR148415.png",
+"url": "https://mediasv.online/stream_live/224_MovieHit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1MDoyMCBQTSZoYXNoX3ZhbHVlPVNDY2g2cUtjUVIra3k5TFRUQWRXK2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjQmaWQ9Y2hfMjUzMzk=",
+"playInNatPlayer": "tot"
+},
+{
+"name": "True Chinese More",
+"image": "https://doofreemovie88.com/public/upload/tv/true-chinese-more100.webp",
+"url": "https://mediasv.online/stream_live/225_TrueChinessMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1MToxMyBQTSZoYXNoX3ZhbHVlPW1IZXhtREdBT21sRzBTaDFxWG5GTHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzEmaWQ9Y2hfOTk3NDA=",
+"playInNatPlayer": "tot"
+},
+{
+"name": "True Asian More",
+"image": "https://doofreemovie88.com/public/upload/tv/asian-more-49.webp",
+"url": "https://mediasv.online/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1OToxMSBQTSZoYXNoX3ZhbHVlPXloWGswNktIa2FtZnVLS050NERpMXc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjUmaWQ9Y2hfNjc3MjU=",
+"playInNatPlayer": "tot"
+},
+{
+"name": "True Fian Asia",
+"image": "https://doofreemovie88.com/public/upload/tv/ture-fiamasia.webp",
+"url": "https://mediasv.online/stream_live/237_TrueFilmAsia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1ODozOCBQTSZoYXNoX3ZhbHVlPW42ZzhpM0p3OTVEbU1nNW1vU1ZOdHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNDEyODc=",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Kbs World",
+"image": "https://doofreemovie88.com/public/upload/tv/kbs-world13.webp",
+"url": "https://mediasv.online/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDg6NTE6MzcgQU0maGFzaF92YWx1ZT10Y3prd2FWdU4zbS93UUUzSFc1bm9nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzkyNzM5",
+"playInNatPlayer": "tot"
+},
+{
+"name": "CCM",
+"image": "https://doofreemovie88.com/public/upload/tv/ccm.webp",
+"url": "https://mediasv.online/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NjoyNiBQTSZoYXNoX3ZhbHVlPWJiSG9VWlp0Qm5SbnVHWDdxdGhzZVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNjI5ODI=",
+"playInNatPlayer": "tot"
+},
+{
+"name": "HBO",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0qGExFqdU32p4rCwxHQV1laSKJgcm_iC4MA&usqp=CAU",
+"url": "http://ip2121.com:8081/web1/hbo/playlist.m3u8",
+},
+{
+"name": "HBO HITS",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjX9N41S1fWY3e2kF2ErUSTZYDWo-uKH0Cg&usqp=CAU",
+"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd",
+},
+{
+"name": "HBO SIGNATURE",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT09O5ynHfI9H3pDVYQX_c7FcMmbFwDq7r1hg&usqp=CAU",
+"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd",
+},
+{
+"name": "HBO FAMILY",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN11kZp9C_j2aeVsfbtcXeC7HouWQjY4wMaQ&usqp=CAU",
+"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd",
+},
+{
+"name": "CINEMAX",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKvK6eieRrscO48zmUXTgfT-vlhcNrcPUDw&usqp=CAU",
+"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd",
+},
+{
+"name": "Paramount",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRthBgkyHvR3UoAALXugrhmu6Q4Qo-PQo_E8w&usqp=CAU",
+"url": "https://mediasv.online/stream_live/232_Paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NTo1NyBQTSZoYXNoX3ZhbHVlPVJOeTZ6dDhkRmo3SUNlVnpGN1AyS0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjUmaWQ9Y2hfNjE4NTY=",
+},
+{
+"name": "WARNER TV",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RFusRg1VSFjaCcB1071X6b5qfVL0JOQqMg&usqp=CAU",
+"url": "https://mediasv.online/stream_live/228_warner/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NTowMiBQTSZoYXNoX3ZhbHVlPUZ6bFAveGJJa3dsbFhiMk1yRngrMmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjImaWQ9Y2hfNTY2MDk=",
+},
+{  
+"name": "True Xzyte",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxWjF4Uuo8Kpr1Q9sq3HpQJaTZXcG2WkgO5w&usqp=CAU",
+"url": "https://mediasv.online/stream_live/340_Xzyte/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMzozMSBQTSZoYXNoX3ZhbHVlPURzSmtMcjFuYVYycEIyY0IvbXk2cmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjEmaWQ9Y2hfNDE5OTk=",
+},
+{
+"name": "AXN",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qJR0gFs6lC5x1pk1J8HOg89jn2pmJQQjMg&usqp=CAU",
+"url": "https://mediasv.online/stream_live/336_AXN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMjoxMyBQTSZoYXNoX3ZhbHVlPXR0dzdoNHczVS9CcFlyTHM2UFRTV0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfMjM5Njc=",
+},
+{
+"name": "Rock Extreme",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkZDeBql7MeoWAvaB8V1yT6CCaVROFNVDdw&usqp=CAU",
+"url": "https://mediasv.online/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMzowMSBQTSZoYXNoX3ZhbHVlPUVkSEJkRUxqKzROVEVzRE80WEdzRnc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNjM5MTE=",
+},
+{
+"name": "Food Network",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7PewDk8NKPwC6HnNQdt8T4Z_WYvOMNZEa8Q&usqp=CAU",
+"url": "https://mediasv.online/stream_live/342_Food_Network/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDk6MTQ6NDEgQU0maGFzaF92YWx1ZT1vNkowTFE3Zlg4TlpoZWpRa0NCWk53PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzYwMzcx",
+},
+{
+"name": "MONO MUSIC",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm4P4oPdjtxZ9GppTQjhIy-ivFTgxXpWW6g&usqp=CAU",
+"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/202/202.mpd",
+},
+{  
+"name": "A lure channel",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl6EIALl2vS_aY9L1X1gfDgE7QHEXJVhZJmw&usqp=CAU",
+"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/204/204.mpd",
+},
+{  
+"name": "RUSH STORIES",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxYrHO0BKlxdFooaj8vocKhdYd95VdaVp75w&usqp=CAU",
+"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/203/203.mpd",
+},
+{
+"name": "MONO PLUS",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgpLGDPDLfKxb9HKqCcPOB-FAqG__jMZJtxg&usqp=CAU",
+"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/109/109.mpd",
+},
+{
+"name": "3BB Asian",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0F5nlb1-dCVsYYkj9ERFyKyprKn3xVxtSng&usqp=CAU",
+"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd",
+},
+{
+"name": "TVB",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG5jIlD89Lzt1yUUho9-EuasDFBD8N6t-u7A&usqp=CAU",
+"url": "https://mediasv.online/stream_live/235_TVB/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NzoxOSBQTSZoYXNoX3ZhbHVlPUY4TEd4QlpxVWhRWVAvQ2pUeTdRb0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfOTk0OTk=",
+},
+{  
+"name": "tvN",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE3RPhKP9TvzYKL2p3jMFSKOYZzFCUseC55w&usqp=CAU",
+"url": "https://mediasv.online/stream_live/241_tvN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMDoxOCBQTSZoYXNoX3ZhbHVlPStXSVZ5a2loL09rZDJab2paczRETVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNTMxMDU=",
+},
+
 {
 "name": "Sexy KpopTV",
 "image": "https://play-lh.googleusercontent.com/NNN2QTB5dMxjWqnVfsGHglCS-D_-s0869HI2zCIoRZqEt3fDys22e0verSIyW5ON67U",
@@ -806,149 +951,6 @@
 "info" : "By วิน นักแสวงหา",
 "playInNatPlayer": "true"}, 
 
-{
-"name": "True Film 1",
-"image": "https://www.i-pic.info/i/CWAO148414.png",
-"url": "https://mediasv.online/stream_live/222_True_Film_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1Nzo1MiBQTSZoYXNoX3ZhbHVlPWhzdTcwbTBLVXk2cjI0RTdPVWlJd0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNTE1Njg=",
-"playInNatPlayer": "tot"
-},
-
-{
-"name"			:	"True Thai Film",
-"image"			:	"https://www.i-pic.info/i/YnjQ148431.png",
-"url"			:	"https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8",
-"referer"		:	"https://freetvdd.com/",
-"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true"
-},
-
-{
-"name": "True Movie Hits",
-"image": "https://www.i-pic.info/i/dZvR148415.png",
-"url": "https://mediasv.online/stream_live/224_MovieHit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1MDoyMCBQTSZoYXNoX3ZhbHVlPVNDY2g2cUtjUVIra3k5TFRUQWRXK2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjQmaWQ9Y2hfMjUzMzk=",
-"playInNatPlayer": "tot"
-},
-{
-"name": "True Chinese More",
-"image": "https://doofreemovie88.com/public/upload/tv/true-chinese-more100.webp",
-"url": "https://mediasv.online/stream_live/225_TrueChinessMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1MToxMyBQTSZoYXNoX3ZhbHVlPW1IZXhtREdBT21sRzBTaDFxWG5GTHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzEmaWQ9Y2hfOTk3NDA=",
-"playInNatPlayer": "tot"
-},
-{
-"name": "True Asian More",
-"image": "https://doofreemovie88.com/public/upload/tv/asian-more-49.webp",
-"url": "https://mediasv.online/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1OToxMSBQTSZoYXNoX3ZhbHVlPXloWGswNktIa2FtZnVLS050NERpMXc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjUmaWQ9Y2hfNjc3MjU=",
-"playInNatPlayer": "tot"
-},
-{
-"name": "True Fian Asia",
-"image": "https://doofreemovie88.com/public/upload/tv/ture-fiamasia.webp",
-"url": "https://mediasv.online/stream_live/237_TrueFilmAsia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1ODozOCBQTSZoYXNoX3ZhbHVlPW42ZzhpM0p3OTVEbU1nNW1vU1ZOdHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNDEyODc=",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Kbs World",
-"image": "https://doofreemovie88.com/public/upload/tv/kbs-world13.webp",
-"url": "https://mediasv.online/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDg6NTE6MzcgQU0maGFzaF92YWx1ZT10Y3prd2FWdU4zbS93UUUzSFc1bm9nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzkyNzM5",
-"playInNatPlayer": "tot"
-},
-{
-"name": "CCM",
-"image": "https://doofreemovie88.com/public/upload/tv/ccm.webp",
-"url": "https://mediasv.online/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NjoyNiBQTSZoYXNoX3ZhbHVlPWJiSG9VWlp0Qm5SbnVHWDdxdGhzZVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNjI5ODI=",
-"playInNatPlayer": "tot"
-},
-{
-"name": "HBO",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0qGExFqdU32p4rCwxHQV1laSKJgcm_iC4MA&usqp=CAU",
-"url": "http://ip2121.com:8081/web1/hbo/playlist.m3u8",
-},
-{
-"name": "HBO HITS",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjX9N41S1fWY3e2kF2ErUSTZYDWo-uKH0Cg&usqp=CAU",
-"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd",
-},
-{
-"name": "HBO SIGNATURE",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT09O5ynHfI9H3pDVYQX_c7FcMmbFwDq7r1hg&usqp=CAU",
-"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd",
-},
-{
-"name": "HBO FAMILY",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN11kZp9C_j2aeVsfbtcXeC7HouWQjY4wMaQ&usqp=CAU",
-"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd",
-},
-{
-"name": "CINEMAX",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKvK6eieRrscO48zmUXTgfT-vlhcNrcPUDw&usqp=CAU",
-"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd",
-},
-{
-"name": "Paramount",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRthBgkyHvR3UoAALXugrhmu6Q4Qo-PQo_E8w&usqp=CAU",
-"url": "https://mediasv.online/stream_live/232_Paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NTo1NyBQTSZoYXNoX3ZhbHVlPVJOeTZ6dDhkRmo3SUNlVnpGN1AyS0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjUmaWQ9Y2hfNjE4NTY=",
-},
-{
-"name": "WARNER TV",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RFusRg1VSFjaCcB1071X6b5qfVL0JOQqMg&usqp=CAU",
-"url": "https://mediasv.online/stream_live/228_warner/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NTowMiBQTSZoYXNoX3ZhbHVlPUZ6bFAveGJJa3dsbFhiMk1yRngrMmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjImaWQ9Y2hfNTY2MDk=",
-},
-{  
-"name": "True Xzyte",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxWjF4Uuo8Kpr1Q9sq3HpQJaTZXcG2WkgO5w&usqp=CAU",
-"url": "https://mediasv.online/stream_live/340_Xzyte/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMzozMSBQTSZoYXNoX3ZhbHVlPURzSmtMcjFuYVYycEIyY0IvbXk2cmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjEmaWQ9Y2hfNDE5OTk=",
-},
-{
-"name": "AXN",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qJR0gFs6lC5x1pk1J8HOg89jn2pmJQQjMg&usqp=CAU",
-"url": "https://mediasv.online/stream_live/336_AXN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMjoxMyBQTSZoYXNoX3ZhbHVlPXR0dzdoNHczVS9CcFlyTHM2UFRTV0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfMjM5Njc=",
-},
-{
-"name": "Rock Extreme",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkZDeBql7MeoWAvaB8V1yT6CCaVROFNVDdw&usqp=CAU",
-"url": "https://mediasv.online/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMzowMSBQTSZoYXNoX3ZhbHVlPUVkSEJkRUxqKzROVEVzRE80WEdzRnc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNjM5MTE=",
-},
-{
-"name": "Food Network",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7PewDk8NKPwC6HnNQdt8T4Z_WYvOMNZEa8Q&usqp=CAU",
-"url": "https://mediasv.online/stream_live/342_Food_Network/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDk6MTQ6NDEgQU0maGFzaF92YWx1ZT1vNkowTFE3Zlg4TlpoZWpRa0NCWk53PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzYwMzcx",
-},
-{
-"name": "MONO MUSIC",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm4P4oPdjtxZ9GppTQjhIy-ivFTgxXpWW6g&usqp=CAU",
-"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/202/202.mpd",
-},
-{  
-"name": "A lure channel",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl6EIALl2vS_aY9L1X1gfDgE7QHEXJVhZJmw&usqp=CAU",
-"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/204/204.mpd",
-},
-{  
-"name": "RUSH STORIES",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxYrHO0BKlxdFooaj8vocKhdYd95VdaVp75w&usqp=CAU",
-"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/203/203.mpd",
-},
-{
-"name": "MONO PLUS",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgpLGDPDLfKxb9HKqCcPOB-FAqG__jMZJtxg&usqp=CAU",
-"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/109/109.mpd",
-},
-{
-"name": "3BB Asian",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0F5nlb1-dCVsYYkj9ERFyKyprKn3xVxtSng&usqp=CAU",
-"url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd",
-},
-{
-"name": "TVB",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG5jIlD89Lzt1yUUho9-EuasDFBD8N6t-u7A&usqp=CAU",
-"url": "https://mediasv.online/stream_live/235_TVB/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NzoxOSBQTSZoYXNoX3ZhbHVlPUY4TEd4QlpxVWhRWVAvQ2pUeTdRb0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfOTk0OTk=",
-},
-{  
-"name": "tvN",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE3RPhKP9TvzYKL2p3jMFSKOYZzFCUseC55w&usqp=CAU",
-"url": "https://mediasv.online/stream_live/241_tvN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMDoxOCBQTSZoYXNoX3ZhbHVlPStXSVZ5a2loL09rZDJab2paczRETVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNTMxMDU=",
-},
 
 
 
