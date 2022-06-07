@@ -224,14 +224,15 @@
 },
 
 {
-"name": "True Thai Film",
-"image": "https://www.i-pic.info/i/YnjQ148431.png",
-"url": "https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8",
+"name"			:	"True Thai Film",
+"image"			:	"https://www.i-pic.info/i/YnjQ148431.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8",
 "referer"		:	"https://freetvdd.com/",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "desktop"		:	"true",
 "playInNatPlayer"	:	"true"
 },
+
 {
 "name": "True Movie Hits",
 "image": "https://www.i-pic.info/i/dZvR148415.png",
@@ -529,6 +530,7 @@ url:"https://mediasv.online/stream_live/241_tvN/playlist.m3u8?wmsAuthSign=c2Vydm
 "desktop"		:	"true",
 "playInNatPlayer"	:	"true"
 },
+
 
 {
 "name"			:	"True Sport 7 (TH)",
