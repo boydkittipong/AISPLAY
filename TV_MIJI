@@ -911,12 +911,6 @@
 "url": "https://mediasv.online/stream_live/237_TrueFilmAsia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1ODozOCBQTSZoYXNoX3ZhbHVlPW42ZzhpM0p3OTVEbU1nNW1vU1ZOdHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNDEyODc=",
 "playInNatPlayer": "tot"
 },
-{
-"name": "True Fian 2",
-"image": "https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f,"userAgent": "ProPlayer",
-"playInNatPlayer": "tot"
-},
 
 
 
