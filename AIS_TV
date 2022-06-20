@@ -245,6 +245,12 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "BOOMERANG",
+"image": "https://www.i-pic.info/i/Zt6a148469.png",
+"url": "http://61.19.242.134/feed/202105171329/chboomberang/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
 "name": "Channel 8",
 "image": "https://www.i-pic.info/i/vhLk148483.png",
 "url": "https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8",
@@ -278,6 +284,12 @@
 "name": "SAMURAI",
 "image": "https://www.i-pic.info/i/oGck169688.png",
 "url": "http://61.19.242.134/feed/202105171329/LC2/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "TVB THAI",
+"image": "https://www.i-pic.info/i/Hrf7161119.png",
+"url": "http://61.19.242.134/feed/202105171329/LC32/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -391,14 +403,57 @@
 {
 "name"			:	"THIRLL (Soundtrack)",
 "image"			:	"https://www.i-pic.info/i/djbR155312.png",
-"url"			:	"https://cdn6.goprimetime.info/feed/202105171329/LC26/index.m3u8",         
+"url"			:	"http://61.19.242.134/feed/202105171329/LC26/index.m3u8",         
 "referer"		:	"",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "desktop"		:	"true",
 "playInNatPlayer"	:	"true"
 },
-
-
+{
+"name"			:	"CHANNEL V",
+"image"			:	"https://i1.sndcdn.com/artworks-000043908491-8qtrf2-t500x500.jpg",
+"url"			:	"http://61.19.242.134/feed/202105171329/LC14/index.m3u8",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"SAMRUJLOK",
+"image"			:	"https://doofreemovie88.com/public/upload/tv/tv_1.webp",
+"url"			:	"http://61.19.242.134/feed/202105171329/LC8/index.m3u8",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"Smithsonian Channel",
+"image"			:	"https://www.logolynx.com/images/logolynx/s_26/262597d3caee01f267b2689357586110.jpeg",
+"url"			:	"http://61.19.242.134/feed/202105171329/LC43/index.m3u8",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"SWEET",
+"image"			:	"https://doofreemovie88.com/public/upload/tv/sweet26.webp",
+"url"			:	"http://61.19.242.134/feed/202105171329/LC36/index.m3u8",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"TRACE SPORT",
+"image"			:	"https://yt3.ggpht.com/ytc/AKedOLTC_nQPe56piM39k5UBzY3-zHX7EjLIAJgqtG8M=s900-c-k-c0x00ffffff-no-rj",
+"url"			:	"http://61.19.242.134/feed/202105171329/LC42/index.m3u8",         
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
 
 
 ]
