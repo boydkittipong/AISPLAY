@@ -184,13 +184,13 @@
 },
 {
 "name": "NBT",
-"image": "https://we-play.live/uploads/posters/11-nbt-poster1603940103.jpeg",
+"image": "https://www.i-pic.info/i/PREF148389.png",
 "url": "http://61.19.242.134/feed/202105171329/chnbt/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "NBT",
-"image": "https://we-play.live/uploads/posters/11-nbt-poster1603940103.jpeg",
+"image": "https://www.i-pic.info/i/PREF148389.png",
 "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/nbt/digitaltv/nbt/chunks.m3u8",
 "referer": "https://www.dooball2you.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
@@ -198,61 +198,87 @@
 },
 {
 "name": "JKN 18",
-"image": "https://we-play.live/uploads/posters/jkn-18-poster.jpg",
+"image": "https://www.i-pic.info/i/tQeY148386.png",
 "url": "https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/chunklist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "JKN 18",
-"image": "https://we-play.live/uploads/posters/jkn-18-poster.jpg",
+"image": "https://www.i-pic.info/i/tQeY148386.png",
 "url": "https://www.adintrend.tv/hd/ch30?t=live",
 "playInNatPlayer": "tot"
 },
 {
 "name": "CH8",
-"image": "https://we-play.live/uploads/posters/ch8-poster.jpg",
+"image": "https://www.i-pic.info/i/yJ2z148382.png",
 "url": "http://61.19.242.134/feed/202105171329/ch8/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "CH8",
-"image": "https://we-play.live/uploads/posters/ch8-poster.jpg",
+"image": "https://www.i-pic.info/i/yJ2z148382.png",
 "url": "https://www.adintrend.tv/hd/ch33?t=live",
 "playInNatPlayer": "tot"
 },
 {
 "name": "TOPNEWS",
-"image": "https://we-play.live/uploads/posters/topnews-poster.jpg",
+"image": "https://www.i-pic.info/i/MrNR148396.png",
 "url": "http://61.19.242.134/feed/202105171329/chtopnews/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "TOPNEWS",
-"image": "https://we-play.live/uploads/posters/topnews-poster.jpg",
+"image": "https://www.i-pic.info/i/MrNR148396.png",
 "url": "https://www.adintrend.tv/hd/ch40?t=live",
 "playInNatPlayer": "tot"
 },
 {
 "name": "NEWS1",
-"image": "https://www.img02.xyz/assets/img/ch_logo/NEWS1.png",
+"image": "https://www.i-pic.info/i/dzqn148390.png",
 "url": "https://server1.streamssl.com/stream/news1_hi.m3u8",
 "playInNatPlayer": "tot"
 },
 {
+"name": "T-SPORTS 7",
+"image": "https://yt3.ggpht.com/uIi9U2IGUK3Gy2XJvlAsjlGlGtGXkb5zdJ2_OQbIKRaB6Qw741A7mgIZamZ2zhfbWgnlAB6z=s900-c-k-c0x00ffffff-no-rj",
+"url": "http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/36",
+"playInNatPlayer": "tot"
+},
+{
 "name": "Channel 8",
-"image": "https://sv1.picz.in.th/images/2020/12/01/jhrvoE.png",
+"image": "https://www.i-pic.info/i/vhLk148483.png",
 "url": "https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8",
 "playInNatPlayer": "tot"
 },
-
 {
-"name"			:	"Hi",
-"image"			:	"https://www.i-pic.info/i/AGu7155232.png",
-"url"			:	"http://203.154.243.89:28010/pa/hinews.ts",         
-"referer"		:	"",
-"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true"
+"name": "CTB",
+"image": "https://www.i-pic.info/i/OZgs148484.png",
+"url": "http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "BOX FILM",
+"image": "https://www.i-pic.info/i/FN6v169687.png",
+"url": "http://61.19.242.134/feed/202105171329/LC52/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "SUN",
+"image": "https://www.i-pic.info/i/9umJ169690.png",
+"url": "http://61.19.242.134/feed/202105171329/LC1/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "SANOOK",
+"image": "https://www.i-pic.info/i/MHl0169689.png",
+"url": "http://61.19.242.134/feed/202105171329/LC53/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "SAMURAI",
+"image": "https://www.i-pic.info/i/oGck169688.png",
+"url": "http://61.19.242.134/feed/202105171329/LC2/index.m3u8",
+"playInNatPlayer": "tot"
 },
 {
 "name"			:	"UMI",
@@ -327,25 +353,6 @@
 "playInNatPlayer"	:	"true"
 },
 {
-"name"			:	"True Series",
-"image"			:	"https://www.i-pic.info/i/VBJT155433.png",
-"url"			:	"https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8",         
-"referer"		:	"https://livescorethai.net/",
-"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true"
-},
-{
-"name"			:	"True Inside",
-"image"			:	"https://www.i-pic.info/i/VGHX149422.png",
-"url"			:	"https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8",         
-"referer"		:	"https://livescorethai.net/",
-"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true"
-},
-
-{
 "name"			:	"HBO HITS",
 "image"			:	"https://www.i-pic.info/i/fbDM148472.png",
 "url"			:	"http://ip2121.com:8081/web1/hbo/playlist.m3u8",         
@@ -382,46 +389,10 @@
 "playInNatPlayer"	:	"true"
 },
 {
-"name"			:	"Warner TV",
-"image"			:	"https://www.i-pic.info/i/pXRq148432.png",
-"url"			:	"https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8",         
-"referer"		:	"https://livescorethai.net/",
-"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true"
-},
-{
-"name"			:	"Universal Channel",
-"image"			:	"https://www.i-pic.info/i/k4bc148427.png",
-"url"			:	"https://streaming.livescorethai.net/iptv/uk-universal.stream/chunks.m3u8",         
-"referer"		:	"https://livescorethai.net/",
-"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true"
-},
-{
-"name"			:	"True Explore Wild",
-"image"			:	"https://www.i-pic.info/i/Dq0i155440.png",
-"url"			:	"https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8",         
-"referer"		:	"https://livescorethai.net/",
-"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true"
-},
-{
-"name"			:	"BBC Earth",
-"image"			:	"https://www.i-pic.info/i/89tg149420.png",
-"url"			:	"https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8",         
-"referer"		:	"https://livescorethai.net/",
-"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"desktop"		:	"true",
-"playInNatPlayer"	:	"true"
-},
-{
-"name"			:	"World Snooker",
-"image"			:	"https://www.i-pic.info/i/qelH155239.png",
-"url"			:	"http://203.154.243.89:28010/pa/snooker.ts",         
-"referer"		:	"https://livescorethai.net/",
+"name"			:	"THIRLL (Soundtrack)",
+"image"			:	"https://www.i-pic.info/i/djbR155312.png",
+"url"			:	"https://cdn6.goprimetime.info/feed/202105171329/LC26/index.m3u8",         
+"referer"		:	"",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "desktop"		:	"true",
 "playInNatPlayer"	:	"true"
