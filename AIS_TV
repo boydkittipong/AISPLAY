@@ -9,9 +9,7 @@
 {
 "name": "CH3 HD",
 "image": "https://www.i-pic.info/i/nFBD148379.png",
-"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/3hd/digitaltv/3hd/chunks.m3u8",
-"referer": "https://www.dooball2you.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"url": "http://61.19.242.134/feed/202105171329/ch3hd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -23,9 +21,7 @@
 {
 "name": "CH5 HD",
 "image": "https://www.i-pic.info/i/6TZS148380.png",
-"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/5hd/digitaltv/5hd/chunks.m3u8",
-"referer": "https://www.dooball2you.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"url": "http://61.19.242.134/feed/202105171329/ch5hd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -37,23 +33,21 @@
 {
 "name": "CH7 HD",
 "image": "https://www.i-pic.info/i/fsq3148381.png",
+"url": "http://61.19.242.134/feed/202105171329/ch7hd/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "CH7 HD",
+"image": "https://www.i-pic.info/i/fsq3148381.png",
 "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/7hd/digitaltv/7hd/chunks.m3u8",
 "referer": "https://www.dooball2you.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "tot"
 },
 {
-"name": "CH7 HD",
-"image": "https://www.i-pic.info/i/fsq3148381.png",
-"url": "http://61.19.242.134/feed/202105171329/ch7hd/index.m3u8",
-"playInNatPlayer": "tot"
-},
-{
 "name": "MCOT HD",
 "image": "https://www.i-pic.info/i/i3GZ148383.png",
-"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/mcothd/digitaltv/mcothd/chunks.m3u8",
-"referer": "https://www.dooball2you.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"url": "http://61.19.242.134/feed/202105171329/chmcothd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -65,7 +59,7 @@
 {
 "name": "PPTV HD",
 "image": "https://www.i-pic.info/i/jnG4148392.png",
-"url": "https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/chunks.m3u8",
+"url": "http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -77,115 +71,129 @@
 {
 "name": "ONE HD",
 "image": "https://www.i-pic.info/i/nxJd148391.png",
-"url": "https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8",
+"url": "http://61.19.242.134/feed/202105171329/chonehd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "ONE HD",
 "image": "https://www.i-pic.info/i/nxJd148391.png",
-"url": "http://61.19.242.134/feed/202105171329/chonehd/index.m3u8",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/one31/digitaltv/one31/chunks.m3u8",
+"referer": "https://www.dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "tot"
 },
 {
 "name": "AMARIN TV",
-"image": "https://we-play.live/uploads/posters/amarin-tv-poster1602705120.jpeg",
-"url": "https://tv.trueid.net/embed/amarintv-hd",
+"image": "https://www.i-pic.info/i/5PcV148378.png",
+"url": "http://61.19.242.134/feed/202105171329/chamarin/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "AMARIN TV",
-"image": "https://we-play.live/uploads/posters/amarin-tv-poster1602705120.jpeg",
-"url": "https://freelive2.inwstream.com:1936/freelive-edge/amarinhd/chunks.m3u8",
+"image": "https://www.i-pic.info/i/5PcV148378.png",
+"url": "https://www.adintrend.tv/hd/ch26?t=live",
 "playInNatPlayer": "tot"
 },
 {
 "name": "GMM25",
-"image": "https://we-play.live/uploads/posters/gmm25-poster1602705192.jpeg",
-"url": "https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8",
+"image": "https://www.i-pic.info/i/wQxS148385.png",
+"url": "http://61.19.242.134/feed/202105171329/chgmm/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "GMM25",
-"image": "https://we-play.live/uploads/posters/gmm25-poster1602705192.jpeg",
+"image": "https://www.i-pic.info/i/wQxS148385.png",
 "url": "https://www.adintrend.tv/hd/ch0?t=live",
 "playInNatPlayer": "tot"
 },
 {
 "name": "MONO29",
-"image": "https://we-play.live/uploads/posters/mono29-poster1602705220.jpeg",
-"url": "https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8",
+"image": "https://www.i-pic.info/i/ay0i148387.png",
+"url": "http://61.19.242.134/feed/202105171329/chmono29/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "MONO29",
-"image": "https://we-play.live/uploads/posters/mono29-poster1602705220.jpeg",
+"image": "https://www.i-pic.info/i/ay0i148387.png",
 "url": "https://www.adintrend.tv/hd/ch38?t=live",
 "playInNatPlayer": "tot"
 },
 {
 "name": "NationTV",
-"image": "https://we-play.live/uploads/posters/nationtv-poster1602705258.jpeg",
-"url": "https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8",
+"image": "https://www.i-pic.info/i/sRiS148388.png",
+"url": "http://61.19.242.134/feed/202105171329/chnation/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "NationTV",
+"image": "https://www.i-pic.info/i/sRiS148388.png",
+"url": "https://www.adintrend.tv/hd/ch37?t=live",
 "playInNatPlayer": "tot"
 },
 {
 "name": "Thai PBS",
-"image": "https://we-play.live/uploads/posters/thai-pbs-poster1602705288.jpeg",
+"image": "https://www.i-pic.info/i/XFrL148393.png",
+"url": "http://61.19.242.134/feed/202105171329/chthaipbs/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Thai PBS",
+"image": "https://www.i-pic.info/i/XFrL148393.png",
 "url": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
-"name": "Thai PBS",
-"image": "https://we-play.live/uploads/posters/thai-pbs-poster1602705288.jpeg",
-"url": "https://www.adintrend.tv/hd/ch1?t=live",
+"name": "ไทยรัฐ",
+"image": "https://www.i-pic.info/i/PnKO148394.png",
+"url": "http://61.19.242.134/feed/202105171329/chthairath/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "ไทยรัฐ",
-"image": "https://we-play.live/uploads/posters/thairath-tv-poster1602705329.jpeg",
-"url": "https://freelive.inwstream.com:1936/freelive-edge/thairahttvhd/chunks.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "ไทยรัฐ",
-"image": "https://we-play.live/uploads/posters/thairath-tv-poster1602705329.jpeg",
+"image": "https://www.i-pic.info/i/PnKO148394.png",
 "url": "https://www.adintrend.tv/hd/ch39?t=live",
 "playInNatPlayer": "tot"
 },
 {
 "name": "true4U",
-"image": "https://we-play.live/uploads/posters/true4u-poster1602705363.jpeg",
-"url": "https://freelive2.inwstream.com:1936/freelive-edge/true4u/chunks.m3u8",
+"image": "https://www.i-pic.info/i/skWC148395.png",
+"url": "http://61.19.242.134/feed/202105171329/202105171329/chtrue4u/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "true4U",
+"image": "https://www.i-pic.info/i/skWC148395.png",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/true4u/digitaltv/true4u/chunks.m3u8",
+"referer": "https://www.dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "tot"
 },
 {
 "name": "Workpoint",
-"image": "https://we-play.live/uploads/posters/workpoint-poster1602705391.jpeg",
+"image": "https://www.i-pic.info/i/6tGq148397.png",
 "url": "http://61.19.242.134/feed/202105171329/chworkpoint/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "Workpoint",
-"image": "https://we-play.live/uploads/posters/workpoint-poster1602705391.jpeg",
-"url": "https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8",
+"image": "https://www.i-pic.info/i/6tGq148397.png",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/workpoint/digitaltv/workpoint/chunks.m3u8",
+"referer": "https://www.dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "tot"
 },
 {
-"name": "เอ็นบีที NBT",
+"name": "NBT",
 "image": "https://we-play.live/uploads/posters/11-nbt-poster1603940103.jpeg",
-"url": "https://www.we-play.live/watching/tv/11-nbt",
+"url": "http://61.19.242.134/feed/202105171329/chnbt/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
-"name": "เอ็นบีที NBT",
+"name": "NBT",
 "image": "https://we-play.live/uploads/posters/11-nbt-poster1603940103.jpeg",
-"url": "http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "JKN 18",
-"image": "https://we-play.live/uploads/posters/jkn-18-poster.jpg",
-"url": "https://www.adintrend.tv/hd/ch30?t=live",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/nbt/digitaltv/nbt/chunks.m3u8",
+"referer": "https://www.dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "tot"
 },
 {
@@ -195,15 +203,27 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "JKN 18",
+"image": "https://we-play.live/uploads/posters/jkn-18-poster.jpg",
+"url": "https://www.adintrend.tv/hd/ch30?t=live",
+"playInNatPlayer": "tot"
+},
+{
 "name": "CH8",
 "image": "https://we-play.live/uploads/posters/ch8-poster.jpg",
-"url": "https://freelive.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8",
+"url": "http://61.19.242.134/feed/202105171329/ch8/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "CH8",
 "image": "https://we-play.live/uploads/posters/ch8-poster.jpg",
 "url": "https://www.adintrend.tv/hd/ch33?t=live",
+"playInNatPlayer": "tot"
+},
+{
+"name": "TOPNEWS",
+"image": "https://we-play.live/uploads/posters/topnews-poster.jpg",
+"url": "http://61.19.242.134/feed/202105171329/chtopnews/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
