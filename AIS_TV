@@ -9,7 +9,8 @@
 {
 "name": "CH3 HD",
 "image": "https://www.i-pic.info/i/nFBD148379.png",
-"url": "https://tv.trueid.net/embed/ch3-hd",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/3hd/digitaltv/3hd/chunks.m3u8",
+"referer": "https://www.dooball2you.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "tot"
 },
@@ -17,24 +18,30 @@
 "name": "CH3 HD",
 "image": "https://www.i-pic.info/i/nFBD148379.png",
 "url": "https://www.adintrend.tv/hd/ch3?t=live",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "tot"
 },
 {
 "name": "CH5 HD",
 "image": "https://www.i-pic.info/i/6TZS148380.png",
-"url": "https://tv.trueid.net/embed/ch5",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/5hd/digitaltv/5hd/chunks.m3u8",
+"referer": "https://www.dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "tot"
 },
 {
 "name": "CH5 HD",
 "image": "https://www.i-pic.info/i/6TZS148380.png",
 "url": "https://www.adintrend.tv/hd/ch5?t=live",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "tot"
 },
 {
 "name": "CH7 HD",
 "image": "https://www.i-pic.info/i/fsq3148381.png",
-"url": "https://freelive2.inwstream.com:1936/freelive-edge/7hd/chunks.m3u8",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/7hd/digitaltv/7hd/chunks.m3u8",
+"referer": "https://www.dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "tot"
 },
 {
@@ -53,6 +60,7 @@
 "name": "MCOT HD",
 "image": "https://www.i-pic.info/i/i3GZ148383.png",
 "url": "https://www.adintrend.tv/hd/ch9?t=live",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "tot"
 },
 {
