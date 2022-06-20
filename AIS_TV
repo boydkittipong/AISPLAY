@@ -8,66 +8,84 @@
 
 {
 "name": "CH3 HD",
-"image": "https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg",
-"url": "https://freelive.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8",
+"image": "https://www.i-pic.info/i/nFBD148379.png",
+"url": "https://tv.trueid.net/embed/ch3-hd",
 "playInNatPlayer": "tot"
 },
 {
 "name": "CH3 HD",
-"image": "https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg",
+"image": "https://www.i-pic.info/i/nFBD148379.png",
 "url": "https://www.adintrend.tv/hd/ch3?t=live",
 "playInNatPlayer": "tot"
 },
 {
+"name": "CH5 HD",
+"image": "https://www.i-pic.info/i/6TZS148380.png",
+"url": "https://tv.trueid.net/embed/ch5",
+"playInNatPlayer": "tot"
+},
+{
+"name": "CH5 HD",
+"image": "https://www.i-pic.info/i/6TZS148380.png",
+"url": "https://www.adintrend.tv/hd/ch5?t=live",
+"playInNatPlayer": "tot"
+},
+{
 "name": "CH7 HD",
-"image": "https://we-play.live/uploads/posters/ch7-hd-poster1602704980.jpeg",
+"image": "https://www.i-pic.info/i/fsq3148381.png",
 "url": "https://freelive2.inwstream.com:1936/freelive-edge/7hd/chunks.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "CH7 HD",
-"image": "https://we-play.live/uploads/posters/ch7-hd-poster1602704980.jpeg",
+"image": "https://www.i-pic.info/i/fsq3148381.png",
 "url": "http://61.19.242.134/feed/202105171329/ch7hd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "MCOT HD",
-"image": "https://we-play.live/uploads/posters/mcot-hd-poster1602705016.jpeg",
+"image": "https://www.i-pic.info/i/i3GZ148383.png",
 "url": "https://freelive.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "MCOT HD",
-"image": "https://we-play.live/uploads/posters/mcot-hd-poster1602705016.jpeg",
+"image": "https://www.i-pic.info/i/i3GZ148383.png",
 "url": "https://www.adintrend.tv/hd/ch9?t=live",
 "playInNatPlayer": "tot"
 },
 {
 "name": "PPTV HD",
-"image": "https://we-play.live/uploads/posters/pptv-hd-poster1602705047.jpeg",
+"image": "https://www.i-pic.info/i/jnG4148392.png",
 "url": "https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/chunks.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "PPTV HD",
-"image": "https://we-play.live/uploads/posters/pptv-hd-poster1602705047.jpeg",
+"image": "https://www.i-pic.info/i/jnG4148392.png",
 "url": "https://www.adintrend.tv/hd/ch25?t=live",
 "playInNatPlayer": "tot"
 },
 {
 "name": "ONE HD",
-"image": "https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg",
+"image": "https://www.i-pic.info/i/nxJd148391.png",
 "url": "https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "ONE HD",
-"image": "https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg",
+"image": "https://www.i-pic.info/i/nxJd148391.png",
 "url": "http://61.19.242.134/feed/202105171329/chonehd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
-"name": "Amarin TV",
+"name": "AMARIN TV",
+"image": "https://we-play.live/uploads/posters/amarin-tv-poster1602705120.jpeg",
+"url": "https://tv.trueid.net/embed/amarintv-hd",
+"playInNatPlayer": "tot"
+},
+{
+"name": "AMARIN TV",
 "image": "https://we-play.live/uploads/posters/amarin-tv-poster1602705120.jpeg",
 "url": "https://freelive2.inwstream.com:1936/freelive-edge/amarinhd/chunks.m3u8",
 "playInNatPlayer": "tot"
@@ -82,18 +100,6 @@
 "name": "GMM25",
 "image": "https://we-play.live/uploads/posters/gmm25-poster1602705192.jpeg",
 "url": "https://www.adintrend.tv/hd/ch0?t=live",
-"playInNatPlayer": "tot"
-},
-{
-"name": "CH5 HD",
-"image": "https://we-play.live/uploads/posters/ch5-hd-poster1602705162.jpeg",
-"url": "https://freelive.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "CH5 HD",
-"image": "https://we-play.live/uploads/posters/ch5-hd-poster1602705162.jpeg",
-"url": "https://www.adintrend.tv/hd/ch5?t=live",
 "playInNatPlayer": "tot"
 },
 {
