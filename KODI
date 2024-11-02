@@ -76,24 +76,22 @@ https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8
 https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein2.png",BEIN SPORT 1
-https://www.ball24.tv/allchannel/?id=bein1
+https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/beinsport1_480p/chunks.m3u8|Referer=https://www.ball24.tv/
 #EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein2.png",BEIN SPORT 2
-https://www.ball24.tv/allchannel/?id=bein2
+https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/beinsporthd2_480p/chunks.m3u8|Referer=https://www.ball24.tv/
 #EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein3.png",BEIN SPORT 3
-https://www.ball24.tv/allchannel/?id=bein3
+https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/beinsporthd3_480p/chunks.m3u8|Referer=https://www.ball24.tv/
 #EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein4.png",BEIN SPORT 4
-https://www.ball24.tv/allchannel/?id=bein4
+https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/beinsporthd4_480p/chunks.m3u8|Referer=https://www.ball24.tv/
 #EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein5.png",BEIN SPORT 5
-https://www.ball24.tv/allchannel/?id=bein5
+https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/beinsporthd5_480p/chunks.m3u8|Referer=https://www.ball24.tv/
 #EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein5.png",BEIN SPORT 6
-https://www.ball24.tv/allchannel/?id=bein6
+https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/beinsporthd6_480p/chunks.m3u8|Referer=https://www.ball24.tv/
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/xCZd149454.png",MUTV
-https://www.ball24.tv/allchannel/?id=mutv
+https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s4/mutv/chunks.m3u8|Referer=https://www.ball24.tv/
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Aswc149456.png",LFCTV
-https://www.ball24.tv/allchannel/?id=lfctv
+https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s4/lfctv/chunks.m3u8|Referer=https://www.ball24.tv/
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
 https://dolive.thaim3u.com/doolive4k-tv/siamsport-2/chunks.m3u8|Referer=https://doolive4k.tv/
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
-https://dolive.thaim3u.com/doolive4k-tv/siamsport-2/chunks.m3u8?nimblesessionid=91886635&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDI0IDg6MDA6NTggQU0maGFzaF92YWx1ZT1keFlydFlXK1A0eHUxQXNaQ21VQzlBPT0mdmFsaWRtaW51dGVzPTYw
 
 
