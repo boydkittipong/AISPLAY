@@ -87,4 +87,37 @@ https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/chunks.m3u8|Referer=https://
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
 https://dolive.thaim3u.com/doolive4k-tv/siamsport-2/chunks.m3u8|Referer=https://doolive4k.tv/
 
+#EXTINF:-0 tvg-logo="https://www.i-pic.info/i/dZvR148415.png",TRUE MOVIE HITS
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://e105.google-streams.com:9305/v5/zH1IIdDzU8gNRpvwojt9Xg/1730538722/3dcadd53d0e889e46953f20ea88b997b/PalmC3H4yy7LBm0QWomy1g/1730549402/live/dx-origin/sd-moviehits_720/chunks.m3u8|Referer=https://livesod365.com/channel/
 
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/CWAO148414.png",TRUE FILM 1
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://e105.google-streams.com:9305/v5/EEspMBXtraWVEgYK8k_f1g/1730538896/3dcadd53d0e889e46953f20ea88b997b/Z3gT3gz3of3JehAPzfwgFg/1730549576/live/vx-origin/hd-tfilm_720/chunks.m3u8|Referer=https://livesod365.com/channel/
+
+#EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1720723122.png",TRUE FILM 2
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://e105.google-streams.com:9305/v5/NPDqd7ZWNIgqJr10TvHE8A/1730538967/01d54ea46d7ceb09aa43bab6df61cf8d/SGiPU3kjAV4sfCpNR0G6lA/1730549647/live/vx-origin/hd-tfilm2_720/chunks.m3u8|Referer=https://livesod365.com/channel/
+
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/YnjQ148431.png",TRUE THAI FILM
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://e105.google-streams.com:9305/v5/w6RqB8K-Hm0Rg4oTpEbzRA/1730539037/3dcadd53d0e889e46953f20ea88b997b/sn08NA-q0u0os-cbHg2opA/1730549717/live/dx-origin/sd-thaifilm_720/chunks.m3u8|Referer=https://livesod365.com/channel/
+
+#EXTINF:-1  tvg-logo="https://dookeela.live/uploads/1719205850.png",TRUE ASIAN MORE
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://e101.google-streams.com:9301/v5/ARQer4IH2Y9Fz7j-9PhRtQ/1730539105/01d54ea46d7ceb09aa43bab6df61cf8d/XdevMdXswZ1n3JuaWvIMaQ/1730549785/live/dx-origin/hd-asianmore_720/chunks.m3u8|Referer=https://livesod365.com/channel/
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/VBJT155433.png",TRUE SERIES
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://e105.google-streams.com:9305/v5/s_V1cjp4BVxfeawl8LZtjQ/1730539187/3dcadd53d0e889e46953f20ea88b997b/AHSZ3aTRVviFNXxhu_sVSQ/1730549867/live/dx-origin/sd-series_720/chunks.m3u8|Referer=https://livesod365.com/channel/
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/cOh2148486.png",FWSOV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=94898
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/yozx148485.png",FWMOV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=95262
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/vhLk148483.png",CHANNEL 8
+https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
