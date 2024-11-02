@@ -75,22 +75,15 @@ https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://ballmun.com/asset/logo-channel/Spo%20TV%202.png",SPOTV2
 https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png",AIS 1
+https://dolive.thaim3u.com/doolive4k-tv/football-play-1/chunks.m3u8|Referer=https://doolive4k.tv/
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/4uJiK3DhZb82mr6lq8Cl4dv3oKiiZCKais2.png",AIS 2
+https://dolive.thaim3u.com/doolive4k-tv/football-play-2/chunks.m3u8|Referer=https://doolive4k.tv/
 #EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein2.png",BEIN SPORT 1
-https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/beinsport1_480p/chunks.m3u8|Referer=https://www.ball24.tv/
-#EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein2.png",BEIN SPORT 2
-https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/beinsporthd2_480p/chunks.m3u8|Referer=https://www.ball24.tv/
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/chunks.m3u8|Referer=https://doolive4k.tv/
 #EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein3.png",BEIN SPORT 3
-https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/beinsporthd3_480p/chunks.m3u8|Referer=https://www.ball24.tv/
-#EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein4.png",BEIN SPORT 4
-https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/beinsporthd4_480p/chunks.m3u8|Referer=https://www.ball24.tv/
-#EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein5.png",BEIN SPORT 5
-https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/beinsporthd5_480p/chunks.m3u8|Referer=https://www.ball24.tv/
-#EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein5.png",BEIN SPORT 6
-https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/beinsporthd6_480p/chunks.m3u8|Referer=https://www.ball24.tv/
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/xCZd149454.png",MUTV
-https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s4/mutv/chunks.m3u8|Referer=https://www.ball24.tv/
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Aswc149456.png",LFCTV
-https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s4/lfctv/chunks.m3u8|Referer=https://www.ball24.tv/
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/chunks.m3u8|Referer=https://doolive4k.tv/
+
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
 https://dolive.thaim3u.com/doolive4k-tv/siamsport-2/chunks.m3u8|Referer=https://doolive4k.tv/
 
