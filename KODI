@@ -75,5 +75,25 @@ https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://ballmun.com/asset/logo-channel/Spo%20TV%202.png",SPOTV2
 https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein2.png",BEIN SPORT 1
+https://www.ball24.tv/allchannel/?id=bein1
+#EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein2.png",BEIN SPORT 2
+https://www.ball24.tv/allchannel/?id=bein2
+#EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein3.png",BEIN SPORT 3
+https://www.ball24.tv/allchannel/?id=bein3
+#EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein4.png",BEIN SPORT 4
+https://www.ball24.tv/allchannel/?id=bein4
+#EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein5.png",BEIN SPORT 5
+https://www.ball24.tv/allchannel/?id=bein5
+#EXTINF:-1 tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein5.png",BEIN SPORT 6
+https://www.ball24.tv/allchannel/?id=bein6
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/xCZd149454.png",MUTV
+https://www.ball24.tv/allchannel/?id=mutv
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Aswc149456.png",LFCTV
+https://www.ball24.tv/allchannel/?id=lfctv
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-2/chunks.m3u8|Referer=https://doolive4k.tv/
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-2/chunks.m3u8?nimblesessionid=91886635&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDI0IDg6MDA6NTggQU0maGFzaF92YWx1ZT1keFlydFlXK1A0eHUxQXNaQ21VQzlBPT0mdmFsaWRtaW51dGVzPTYw
 
 
